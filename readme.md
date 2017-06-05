@@ -73,6 +73,10 @@ Pull requests are welcome. Thank you. 💙
 
 ### [17: c++ core guidelines 📖](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
+## d
+
+### [10: the d programming language 📕](http://amzn.to/1ZTDmqH)
+
 ## go
 
 ### [12: network programming with go 📖](https://jan.newmarch.name/go/)
@@ -86,6 +90,12 @@ Pull requests are welcome. Thank you. 💙
 ### [web app with go - anti text book 📖](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
 
 ### [build web application with golang  📖](%F0%9F%90%99)
+
+### [14: the little go book 📖](http://openmymind.net/The-Little-Go-Book/)
+
+## perl
+
+### [16: modern perl 📖](http://modernperlbooks.com/books/modern_perl_2016/index.html)
 
 ## python
 
