@@ -1,7 +1,8 @@
 # Free and non free books all can learn from 📚
 
-This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting books one can use to learn new things and discover new insights.
+This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting books one can use to learn new things and discover new insights. 🔭
 
+The number before the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. Emojis after the book show if the book is free or not.
 
 📖 = book is freely available (read it 🎊)
 
