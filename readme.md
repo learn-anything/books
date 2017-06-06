@@ -10,6 +10,12 @@ The number before the book name stands for the year in which the book was writte
 
 Pull requests are welcome. Thank you. 💙
 
+#### Related websites / repositories 
+
+- [free programming books](https://github.com/EbookFoundation/free-programming-books)
+- [influenial cs books](https://github.com/chhantyal/influential-cs-books)
+- [book suggestions subreddit](https://www.reddit.com/r/booksuggestions/)
+
 # Books 
 
 # programming
