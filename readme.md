@@ -10,6 +10,8 @@ The number before the book name stands for the year in which the book was writte
 
 Pull requests are welcome. Thank you. 💙
 
+If there is a free version of 📕 book, please swap the link.
+
 #### Related websites / repositories 
 
 - [free programming books](https://github.com/EbookFoundation/free-programming-books)
@@ -41,7 +43,7 @@ Pull requests are welcome. Thank you. 💙
 
 ### [1991: the art of the metaobject protocol 📕](http://www.goodreads.com/book/show/274495.The_Art_of_the_Metaobject_Protocol)
 
-### [1999: code: hidden language of computer hardware and software  📕](http://www.goodreads.com/book/show/44882.Code)
+### [1999: code: hidden language of computer hardware and software 📖](https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf)
 
 ### [1999: the pragmatic programmer 📕](http://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 
