@@ -17,6 +17,12 @@ If there is a free version of 📕 book, please swap the link.
 - [free programming books](https://github.com/EbookFoundation/free-programming-books)
 - [influenial cs books](https://github.com/chhantyal/influential-cs-books)
 - [book suggestions subreddit](https://www.reddit.com/r/booksuggestions/)
+- [mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books)
+- [recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
+- [awesome scifi](https://github.com/sindresorhus/awesome-scifi)
+- [awesome fantasy](https://github.com/RichardLitt/awesome-fantasy)
+- [book notes](https://github.com/mgp/book-notes)
+- 
 
 # Books 
 
