@@ -22,7 +22,7 @@ If there is a free version of 📕 book, please swap the link.
 - [awesome scifi](https://github.com/sindresorhus/awesome-scifi)
 - [awesome fantasy](https://github.com/RichardLitt/awesome-fantasy)
 - [book notes](https://github.com/mgp/book-notes)
-- 
+- [language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
 
 # Books 
 
