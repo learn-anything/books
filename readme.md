@@ -1,4 +1,4 @@
-# Free and non free books all can learn from 📚
+<h1 align="center"> Free and non free books all can learn from 📚 </h1>
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting books one can read to learn new things and discover new insights. 🔭
 
@@ -24,7 +24,7 @@ If there is a free version of 📕 book, please swap the link.
 - [book notes](https://github.com/mgp/book-notes)
 - [language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
 
-# Books 
+<h1 align="center"> Books </h1> 
 
 # programming
 
