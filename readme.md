@@ -8,6 +8,9 @@
 	</a>
 </div>
 
+<h1 align="center"> Description 📕</h1>
+
+
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting books one can read to learn new things and discover new insights. 🔭
 
 The number before the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. Emojis after the book show if the book is free or not.
