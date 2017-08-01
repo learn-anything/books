@@ -414,7 +414,7 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ## [10: the passage 📕](http://www.goodreads.com/series/53226-the-passage)
 
-## [15: harry potter and the methods of rationality 📖](https://www.fanfiction.net/s/5782108/1/Harry-Potter-and-the-Methods-of-Rationality)
+## [15: harry potter and the methods of rationality 📖](http://www.hpmor.com/wordpress/wp-content/uploads/2012/03/Harry-Potter-and-the-Methods-of-Rationality.pdf)
 
 
 # comedy
