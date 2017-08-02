@@ -450,6 +450,8 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ## [13: the theoretical minimum 📕](http://www.goodreads.com/book/show/13587145-the-theoretical-minimum)
 
+## [13: the feynman lectures on physics 📖](http://feynmanlectures.caltech.edu/)
+
 
 # thriller
 
