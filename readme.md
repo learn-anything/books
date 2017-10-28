@@ -32,7 +32,7 @@ If there is a free version of 📕 book, please swap the link.
 - [1974: the elements of programming style 📕](http://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
 - [1976: software reliability: principles and practices 📕](http://www.goodreads.com/book/show/2383920.Software_Reliability)
 - [1979: structure and interpretation of computer programs 📖](http://sarabander.github.io/sicp/html/index.xhtml)
-	- [SICP in Emacs Lisp 🐙](https://github.com/zv/SICP-guile)
+	- [SICP in Emacs Lisp](https://github.com/zv/SICP-guile)
 - [1980: mindstorms: children, computers, and powerful ideas 📖](http://mindstorms.media.mit.edu/)
 - [1985: communicating sequential processes 📖](http://www.usingcsp.com/cspbook.pdf)
 - [1991: the art of the metaobject protocol 📕](http://www.goodreads.com/book/show/274495.The_Art_of_the_Metaobject_Protocol)
@@ -65,7 +65,7 @@ If there is a free version of 📕 book, please swap the link.
 - [12: network programming with go 📖](https://jan.newmarch.name/go/)
 - [15: go in action 📖](https://github.com/miguellgt/books/blob/master/go/go-in-action.pdf)
 - [15: the go programming language 📕](http://www.goodreads.com/book/show/25080953-the-go-programming-language)
-	- [notes 🐙](https://github.com/namit/The-Go-Programming-Language)
+	- [notes](https://github.com/namit/The-Go-Programming-Language)
 - [web app with go - anti text book 📖](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
 - [build web application with golang 📖](%F0%9F%90%99)
 - [14: the little go book 📖](http://openmymind.net/The-Little-Go-Book/)
@@ -86,8 +86,8 @@ If there is a free version of 📕 book, please swap the link.
 
 #### Java
 - [01: effective java 📕](http://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide)
-	- [code 🐙](https://github.com/marhan/effective-java-examples)
-	- [notes 🐙](https://github.com/jwongo/effectivejava)
+	- [code](https://github.com/marhan/effective-java-examples)
+	- [notes](https://github.com/jwongo/effectivejava)
 - [03: data structures and algorithms in java 📖](http://coltech.vnu.edu.vn/~sonpb/DSA/Data%20Structures%20and%20Algorithms%20in%20Java,%206th%20Edition,%202014.pdf)
 - [06: java concurrency in practice 📕](http://jcip.net/)
 - [08: introduction to programming in java: an interdisciplinary approach 📖](http://introcs.cs.princeton.edu/java/home/chapter1.pdf)
@@ -108,17 +108,17 @@ If there is a free version of 📕 book, please swap the link.
 
 #### Haskell
 - [14: write you a haskell 📖](http://dev.stephendiehl.com/fun/)
-	- [implementation 🐙](https://github.com/AlphaMarc/WYAH)
+	- [implementation](https://github.com/AlphaMarc/WYAH)
 - [16: programming in haskell  📕](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
 
 #### Interviews
 - [08: cracking the coding interview  📕](http://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
-	- [solutions in swift 🐙](https://github.com/careercup/CtCI-6th-Edition-Swift)
+	- [solutions in swift](https://github.com/careercup/CtCI-6th-Edition-Swift)
 - [12: elements of programming interviews 📕](http://www.goodreads.com/book/show/16253895-elements-of-programming-interviews)
-	- [solutions in go 🐙](https://github.com/mykoweb/epi-go)
-	- [solutions in python 🐙](https://github.com/akshaykumar90/sparkling-water)
-	- [solutions in java 🐙](https://github.com/qtstc/Elements-of-Programming-Interviews-Java-Solution)
-	- [solutions in c++ 🐙](https://github.com/adnanaziz/epicode)
+	- [solutions in go](https://github.com/mykoweb/epi-go)
+	- [solutions in python](https://github.com/akshaykumar90/sparkling-water)
+	- [solutions in java](https://github.com/qtstc/Elements-of-Programming-Interviews-Java-Solution)
+	- [solutions in c++](https://github.com/adnanaziz/epicode)
 
 #### Javascript
 - [you don’t know js  📖](https://github.com/getify/You-Dont-Know-JS)
@@ -140,15 +140,15 @@ If there is a free version of 📕 book, please swap the link.
 
 #### Swift
 - [14: swift programming language  📖](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
-	- [cheat sheet 🐙](https://github.com/jugend/swift-cheat-sheet)
+	- [cheat sheet](https://github.com/jugend/swift-cheat-sheet)
 
 #### Ruby
 - [09: the well grounded rubyist 📕](http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist)
 - [11: eloquent ruby 📕](http://www.goodreads.com/book/show/9364729-eloquent-ruby)
 - [12: practical object oriented design in ruby 📕](http://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby)
-	- [code 🐙](https://github.com/skmetz/poodr)
-	- [notes 🐙](https://github.com/jordanpoulton/practical_object_oriented_design_in_ruby)
-	- [go implementation 🐙](https://github.com/nathany/go-poodr)
+	- [code](https://github.com/skmetz/poodr)
+	- [notes](https://github.com/jordanpoulton/practical_object_oriented_design_in_ruby)
+	- [go implementation](https://github.com/nathany/go-poodr)
 - [13: confident ruby 📕](http://www.goodreads.com/book/show/15847933-confident-ruby)
 
 #### Smalltalk
@@ -159,7 +159,7 @@ If there is a free version of 📕 book, please swap the link.
 
 #### Vim
 - [12: practical vim 📕](http://www.goodreads.com/book/show/13607232-practical-vim)
-	- [notes 🐙](https://github.com/gitig/Practical-Vim-Notes)
+	- [notes](https://github.com/gitig/Practical-Vim-Notes)
 
 #### Git
 - [14: git in practice 📖](https://content.mirantis.com/rs/451-RBY-185/images/McQuaid-git-in-practice.pdf)
@@ -360,7 +360,7 @@ If there is a free version of 📕 book, please swap the link.
 - [14: understanding machine learning: from theory to algorithms 📖](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 - [16: reinforcement learning: an introduction 📕](http://www.goodreads.com/book/show/739791.Reinforcement_Learning)
 - [17: tensorflow machine learning cookbook 📕](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook)
-	- [code 🐙](https://github.com/nfmcclure/tensorflow_cookbook)
+	- [code](https://github.com/nfmcclure/tensorflow_cookbook)
 - [deep learning  📖](http://www.deeplearningbook.org/)
 
 ### Startups
@@ -426,12 +426,12 @@ If there is a free version of 📕 book, please swap the link.
 ### Computer science
 - [1989: the new turing omnibus 📕](http://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus)
 - [1996: introduction to the theory of computation 📕](http://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation)
-	- [solutions 🐙](https://github.com/ryandougherty/Introduction-to-the-Theory-of-Computation-Solutions)
+	- [solutions](https://github.com/ryandougherty/Introduction-to-the-Theory-of-Computation-Solutions)
 - [1996: purely functional data structures 📖](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 - [02: types and programming languages 📕](https://www.cis.upenn.edu/%7Ebcpierce/tapl/)
 - [04: advanced topics in types and programming languages 📕](https://www.cis.upenn.edu/%7Ebcpierce/attapl/)
 - [05: the elements of computing systems 📕](http://www.goodreads.com/book/show/910789.The_Elements_of_Computing_Systems)
-	- [computer implementation 🐙](https://github.com/havivha/Nand2Tetris)
+	- [computer implementation](https://github.com/havivha/Nand2Tetris)
 - [08: annotated turing 📕](http://www.goodreads.com/book/show/2333956.The_Annotated_Turing)
 - [11: the nature of computation  📕](http://www.nature-of-computation.org/)
 - [11: software foundations 📖](https://softwarefoundations.cis.upenn.edu/current/index.html)
@@ -512,7 +512,7 @@ If there is a free version of 📕 book, please swap the link.
 
 ### Management 
 - [1975: the mythical man-month 📕](http://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)
-	- [notes 🐙](https://github.com/andrewwoz/the-mythical-man-month-notes)
+	- [notes](https://github.com/andrewwoz/the-mythical-man-month-notes)
 - [1983: high output management 📕](http://www.goodreads.com/book/show/324750.High_Output_Management)
 - [the essential drucker 📕](https://www.goodreads.com/book/show/48016.The_Essential_Drucker)
 
@@ -538,7 +538,7 @@ If there is a free version of 📕 book, please swap the link.
 	- explores fundamental concepts of mathematics, symmetry and intelligence and how they interlink
 	- [lecture notes](https://ocw.mit.edu/high-school/humanities-and-social-sciences/godel-escher-bach/lecture-notes/)
 	- [course on the book 👀](https://www.youtube.com/playlist?list=PL068ES-0ca9CSIp5OPGI5RXB3k5XgYRxF)
-	- [python implementation of formal systems 🐙](https://github.com/alexprengere/FormalSystems)
+	- [python implementation of formal systems](https://github.com/alexprengere/FormalSystems)
 - [1983: prometheus rising 📕](http://www.goodreads.com/book/show/28597.Prometheus_Rising)
 - [1986: finite and infinite games 📕](http://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games)
 - [07: the stuff of thought 📕](http://www.goodreads.com/book/show/373969.The_Stuff_of_Thought)
