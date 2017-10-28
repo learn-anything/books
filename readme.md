@@ -26,68 +26,40 @@ If there is a free version of 📕 book, please swap the link.
 
 ## Books
 
-# programming
+### programming
+#### general
+- [1968-: the art of computer programming 📕](http://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
+- [1971: the psychology of computer programming 📕](http://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
+- [1974: the elements of programming style 📕](http://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
+- [1976: software reliability: principles and practices 📕](http://www.goodreads.com/book/show/2383920.Software_Reliability)
+- [1979: structure and interpretation of computer programs 📖](http://sarabander.github.io/sicp/html/index.xhtml)
+	- [SICP in Emacs Lisp 🐙](https://github.com/zv/SICP-guile)
+- [1980: mindstorms: children, computers, and powerful ideas 📖](http://mindstorms.media.mit.edu/)
+- [1985: communicating sequential processes 📖](http://www.usingcsp.com/cspbook.pdf)
+- [1991: the art of the metaobject protocol 📕](http://www.goodreads.com/book/show/274495.The_Art_of_the_Metaobject_Protocol)
+- [1999: code: hidden language of computer hardware and software 📖](https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf)
+- [1999: the pragmatic programmer 📕](http://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+- [1999: the practice of programming 📕](http://www.goodreads.com/book/show/1032758.The_Practice_of_Programming)
+- [1999: refactoring 📕](http://www.goodreads.com/book/show/44936.Refactoring)
+- [01: how to design programs 📕](http://www.goodreads.com/book/show/1119079.How_to_Design_Programs)
+- [08: clean code  📕](http://www.goodreads.com/book/show/3735293-clean-code)
+- [08: design concepts in programming 📕](http://www.goodreads.com/book/show/4412222-design-concepts-in-programming-languages)
+- [10: apprenticeship patterns 📕](http://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
+- [11: the art of readable code: simple and practical techniques for writing better code 📕](http://www.goodreads.com/book/show/8677004-the-art-of-readable-code)
+- [12: programming in the large with design patterns 📕](http://www.goodreads.com/book/show/16418148-programming-in-the-large-with-design-patterns)
+- [12: programming languages: application and interpretation 📖](http://cs.brown.edu/courses/cs173/2012/book/book.pdf)
+- [15: crafting interpreters   📖](http://www.craftinginterpreters.com/introduction.html)
+- [composing programs 📖](http://www.composingprograms.com/)
 
+#### C
+- [1975: the c programming language 📕](http://www.goodreads.com/book/show/515601.The_C_Programming_Language)
 
-## general
+#### C++
+- [1989: c++ primer 📕](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
+- [04: beginning c++ through game programming 📕](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
+- [17: c++ core guidelines 📖](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
-### [1968-: the art of computer programming 📕](http://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
-
-### [1971: the psychology of computer programming 📕](http://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
-
-### [1974: the elements of programming style 📕](http://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
-
-### [1976: software reliability: principles and practices 📕](http://www.goodreads.com/book/show/2383920.Software_Reliability)
-
-### [1979: structure and interpretation of computer programs 📖](http://sarabander.github.io/sicp/html/index.xhtml)
-
-- [SICP in Emacs Lisp 🐙](https://github.com/zv/SICP-guile)
-
-### [1980: mindstorms: children, computers, and powerful ideas 📖](http://mindstorms.media.mit.edu/)
-
-### [1985: communicating sequential processes 📖](http://www.usingcsp.com/cspbook.pdf)
-
-### [1991: the art of the metaobject protocol 📕](http://www.goodreads.com/book/show/274495.The_Art_of_the_Metaobject_Protocol)
-
-### [1999: code: hidden language of computer hardware and software 📖](https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf)
-
-### [1999: the pragmatic programmer 📕](http://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
-
-### [1999: the practice of programming 📕](http://www.goodreads.com/book/show/1032758.The_Practice_of_Programming)
-
-### [1999: refactoring 📕](http://www.goodreads.com/book/show/44936.Refactoring)
-
-### [01: how to design programs 📕](http://www.goodreads.com/book/show/1119079.How_to_Design_Programs)
-
-### [08: clean code  📕](http://www.goodreads.com/book/show/3735293-clean-code)
-
-### [08: design concepts in programming 📕](http://www.goodreads.com/book/show/4412222-design-concepts-in-programming-languages)
-
-### [10: apprenticeship patterns 📕](http://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
-
-### [11: the art of readable code: simple and practical techniques for writing better code 📕](http://www.goodreads.com/book/show/8677004-the-art-of-readable-code)
-
-### [12: programming in the large with design patterns 📕](http://www.goodreads.com/book/show/16418148-programming-in-the-large-with-design-patterns)
-
-### [12: programming languages: application and interpretation 📖](http://cs.brown.edu/courses/cs173/2012/book/book.pdf)
-
-### [15: crafting interpreters   📖](http://www.craftinginterpreters.com/introduction.html)
-
-### [composing programs 📖](http://www.composingprograms.com/)
-
-## c
-
-### [1975: the c programming language 📕](http://www.goodreads.com/book/show/515601.The_C_Programming_Language)
-
-## c++
-
-### [1989: c++ primer 📕](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
-
-### [04: beginning c++ through game programming 📕](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
-
-### [17: c++ core guidelines 📖](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
-
-## d
+#### D
 
 ### [10: the d programming language 📕](http://amzn.to/1ZTDmqH)
 
