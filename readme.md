@@ -1,7 +1,6 @@
 # Free and non free books all can learn from 📚 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-
 ## Description 📕
-Here is a curated list of all the interesting books one can read to learn new things and discover new insights. 🔭
+Here is a curated list of all the interesting books one can read to learn new things and discover new insights. 
 
 The number before the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. Emojis after the book show if the book is free or not.
 
