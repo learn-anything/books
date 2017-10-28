@@ -240,6 +240,7 @@ If there is a free version of 📕 book, please swap the link.
 - [07: the metamorphosis of prime intellect](http://localroger.com/prime-intellect/mopiidx.html)
 - [10: the passage 📕](http://www.goodreads.com/series/53226-the-passage)
 - [15: harry potter and the methods of rationality 📖](http://www.hpmor.com/wordpress/wp-content/uploads/2012/03/Harry-Potter-and-the-Methods-of-Rationality.pdf)
+- [17: unsong](http://unsongbook.com/)
 
 
 #### Comedy
