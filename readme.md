@@ -1,17 +1,7 @@
-<h1 align="center"> Free and non free books all can learn from 📚 </h1>
-<div align="center">
-<a href="https://www.patreon.com/learnanything">
-		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
-	</a>
-	<a href="https://github.com/learn-anything/books/blob/master/LICENSE">
-		<img src="https://img.shields.io/pypi/l/pipenv.svg">
-	</a>
-</div>
+# Free and non free books all can learn from 📚 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-<h1 align="center"> Description 📕</h1>
-
-
-This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting books one can read to learn new things and discover new insights. 🔭
+## Description 📕
+Here is a curated list of all the interesting books one can read to learn new things and discover new insights. 🔭
 
 The number before the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. Emojis after the book show if the book is free or not.
 
@@ -23,8 +13,7 @@ Pull requests are welcome. Thank you. 💙
 
 If there is a free version of 📕 book, please swap the link.
 
-#### Related websites / repositories 
-
+### Related websites / repositories 
 - [free programming books](https://github.com/EbookFoundation/free-programming-books)
 - [influenial cs books](https://github.com/chhantyal/influential-cs-books)
 - [book suggestions subreddit](https://www.reddit.com/r/booksuggestions/)
@@ -35,7 +24,7 @@ If there is a free version of 📕 book, please swap the link.
 - [book notes](https://github.com/mgp/book-notes)
 - [language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
 
-<h1 align="center"> Books </h1> 
+## Books
 
 # programming
 
