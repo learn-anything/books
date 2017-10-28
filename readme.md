@@ -60,286 +60,168 @@ If there is a free version of 📕 book, please swap the link.
 - [17: c++ core guidelines 📖](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
 #### D
-
-### [10: the d programming language 📕](http://amzn.to/1ZTDmqH)
-
-## go
-
-### [12: network programming with go 📖](https://jan.newmarch.name/go/)
-
-### [15: go in action 📖](https://github.com/miguellgt/books/blob/master/go/go-in-action.pdf)
-
-### [15: the go programming language 📕](http://www.goodreads.com/book/show/25080953-the-go-programming-language)
-
-- [notes 🐙](https://github.com/namit/The-Go-Programming-Language)
-
-### [web app with go - anti text book 📖](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
-
-### [build web application with golang 📖](%F0%9F%90%99)
-
-### [14: the little go book 📖](http://openmymind.net/The-Little-Go-Book/)
-
-## perl
-
-### [16: modern perl 📖](http://modernperlbooks.com/books/modern_perl_2016/index.html)
-
-## python
-
-### [1999: python essential reference 📕](https://www.goodreads.com/book/show/6666430-python-essential-reference)
-
-### [04: dive into python 3 📖](http://www.diveintopython3.net/)
-
-### [05: problem solving with algorithms and data structures using python 📖](http://interactivepython.org/runestone/static/pythonds/index.html)
-
-### [13: data structures and algorithms in python 📕](http://www.goodreads.com/book/show/13838796-data-structures-and-algorithms-in-python)
-
-### [14: test driven development with python 📕](http://www.goodreads.com/book/show/17912811-test-driven-web-development-with-python)
-
-### [15: effective python 📕](http://www.goodreads.com/book/show/23020812-effective-python)
-
-### [15: fluent python 📕](http://www.goodreads.com/book/show/22800567-fluent-python)
-
-### [17: inside the python virtual machine 📖](https://leanpub.com/insidethepythonvirtualmachine)
-
-### [automate the boring stuff with python 📖](https://automatetheboringstuff.com/)
-
-## java
-
-### [01: effective java 📕](http://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide)
-
-- [code 🐙](https://github.com/marhan/effective-java-examples)
-
-- [notes 🐙](https://github.com/jwongo/effectivejava)
-
-### [03: data structures and algorithms in java 📖](http://coltech.vnu.edu.vn/~sonpb/DSA/Data%20Structures%20and%20Algorithms%20in%20Java,%206th%20Edition,%202014.pdf)
-
-### [06: java concurrency in practice 📕](http://jcip.net/)
-
-### [08: introduction to programming in java: an interdisciplinary approach 📖](http://introcs.cs.princeton.edu/java/home/chapter1.pdf)
-
-### [14: java 8 in action 📕](http://www.goodreads.com/book/show/20534354-java-8-in-action)
-
-### [15: test-driven java development 📕](http://www.goodreads.com/book/show/26333479-test-driven-java-development)
-
-## rust
-
-### [rust by example 📖](http://rustbyexample.com/)
-
-### [the rust programming language 📖](https://doc.rust-lang.org/book/)
-
-### [the rustonomicon 📖](https://doc.rust-lang.org/nomicon/)
-
-## scala
-
-### [14: functional programming in scala 📕](https://www.manning.com/books/functional-programming-in-scala)
-
-## lisp
-
-### [1974: the little schemer 📕](https://mitpress.mit.edu/books/little-schemer)
-
-### [1994: lisp in small pieces 📕](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
-
-## haskell
-
-### [14: write you a haskell 📖](http://dev.stephendiehl.com/fun/)
-
-- [implementation 🐙](https://github.com/AlphaMarc/WYAH)
-
-### [16: programming in haskell  📕](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
-
-## interviews
-
-### [08: cracking the coding interview  📕](http://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
-
-- [solutions in swift 🐙](https://github.com/careercup/CtCI-6th-Edition-Swift)
-
-### [12: elements of programming interviews 📕](http://www.goodreads.com/book/show/16253895-elements-of-programming-interviews)
-
-- [solutions in go 🐙](https://github.com/mykoweb/epi-go)
-
-- [solutions in python 🐙](https://github.com/akshaykumar90/sparkling-water)
-
-- [solutions in java 🐙](https://github.com/qtstc/Elements-of-Programming-Interviews-Java-Solution)
-
-- [solutions in c++ 🐙](https://github.com/adnanaziz/epicode)
-
-## javascript
-
-### [you don’t know js  📖](https://github.com/getify/You-Dont-Know-JS)
-
-- [up and going  📖](%F0%9F%90%99)
-
-- [scope and closures 📖](%F0%9F%90%99)
-
-- [this and object prototypes 📖](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch1.md)
-
-- [types and grammar 📖](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch1.md)
-
-- [async and performance 📖](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md)
-
-- [es6 and beyond 📖](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch1.md)
-
-### [11: eloquent javascript 📖](http://eloquentjavascript.net/00_intro.html)
-
-### [12: effective javascript: 68 specific ways to harness the power of javascript 📕](http://www.goodreads.com/book/show/13705402-effective-javascript)
-
-### [13: secrets of the javascript ninja 📕](http://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
-
-### [15: learning javascript design patterns 📖](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-
-### [17: the javascript way 📖](https://leanpub.com/thejsway)
-
-### [exploring js 📖](http://exploringjs.com/)
-
-## typescript
-
-### [typescript deep dive 📖](https://basarat.gitbooks.io/typescript/)
-
-## swift
-
-### [14: swift programming language  📖](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
-
-- [cheat sheet 🐙](https://github.com/jugend/swift-cheat-sheet)
-
-## ruby
-
-### [09: the well grounded rubyist 📕](http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist)
-
-### [11: eloquent ruby 📕](http://www.goodreads.com/book/show/9364729-eloquent-ruby)
-
-### [12: practical object oriented design in ruby 📕](http://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby)
-
-- [code 🐙](https://github.com/skmetz/poodr)
-
-- [notes 🐙](https://github.com/jordanpoulton/practical_object_oriented_design_in_ruby)
-
-- [go implementation 🐙](https://github.com/nathany/go-poodr)
-
-### [13: confident ruby 📕](http://www.goodreads.com/book/show/15847933-confident-ruby)
-
-## smalltalk
-
-### [1997: smalltalk best practice patterns 📕](http://www.goodreads.com/book/show/781561.Smalltalk_Best_Practice_Patterns)
-
-## ios
-
-### [15: ios 10 programming fundamentals with swift  📕](http://shop.oreilly.com/product/0636920055211.do)
-
-## vim
-
-### [12: practical vim 📕](http://www.goodreads.com/book/show/13607232-practical-vim)
-
-- [notes 🐙](https://github.com/gitig/Practical-Vim-Notes)
-
-## git
-
-### [14: git in practice 📖](https://content.mirantis.com/rs/451-RBY-185/images/McQuaid-git-in-practice.pdf)
-
-### [14: pro git 📖](https://git-scm.com/book/en/v2)
-
-## unix
-
-### [1992: advanced programming in the unix environment 📕](http://www.goodreads.com/book/show/603263.Advanced_Programming_in_the_UNIX_Environment)
-
-### [1993: unix power tools 📕](http://www.goodreads.com/book/show/172314.UNIX_Power_Tools)
-
-### [14: an introduction to unix 📖](http://www.oliverelliott.org/article/computing/tut_unix/)
-
-## linux
-
-### [14: how linux works 📕](http://www.goodreads.com/book/show/514432.How_Linux_Works)
-
-## node.js
-
-### [12: node up and running 📖](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
-
-## assembly
-
-### [14: assembly language succinctly 📖](https://www.syncfusion.com/resources/techportal/details/ebooks/assemblylanguage)
-
-## language design
-
-### [beautiful racket 📖](http://beautifulracket.com/)
-
-
-# fiction
-
-
-## [1864: notes from underground 📕](http://www.goodreads.com/book/show/17876.Notes_from_Underground_White_Nights_The_Dream_of_a_Ridiculous_Man_and_Selections_from_The_House_of_the_Dead)
-
-## [1866: crime and punishment 📕](http://www.goodreads.com/book/show/7144.Crime_and_Punishment)
-
-## [1869: the idiot 📕](http://www.goodreads.com/book/show/12505.The_Idiot)
-
-## [1880: the brothers karamazov 📕](http://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)
-
-## [1884: flatland 📕](http://www.goodreads.com/book/show/433567.Flatland)
-
-## [1890: the picture of dorian gray  📕](http://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray)
-
-## [1892: the yellow wallpaper  📕 ](https://www.goodreads.com/book/show/286957.The_Yellow_Wall_Paper)
-
-## [1908: the iron heel 📕](http://www.goodreads.com/book/show/929783.The_Iron_Heel)
-
-## [1914: the ragged trousered philanthropists 📕](http://www.goodreads.com/book/show/921359.The_Ragged_Trousered_Philanthropists)
-
-## [1924: we 📕](http://www.goodreads.com/book/show/76171.We)
-
-## [1925: heart of a dog  📕](http://www.goodreads.com/book/show/113205.Heart_of_a_Dog)
-
-## [1925: the great gatsby 📕](http://www.goodreads.com/book/show/4671.The_Great_Gatsby)
-
-## [1932: brave new world 📕](http://www.goodreads.com/book/show/5129.Brave_New_World)
-
-## [1943: the glass bead game 📕](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game)
-
-## [1945: animal farm 📕](http://www.goodreads.com/book/show/7613.Animal_Farm)
-
-## [1947: the plague 📕](http://www.goodreads.com/book/show/11989.The_Plague)
-
-## [1948: no longer human 📕 🌐](http://www.wikiwand.com/en/No_Longer_Human)
-
-## [1949: nineteen eighty-four 📕](https://www.goodreads.com/book/show/5470.1984)
-
-## [1951: the rebel: an essay on man in revolt 📕](http://www.goodreads.com/book/show/11990.The_Rebel)
-
-## [1952: east of eden 📕](http://www.goodreads.com/book/show/4406.East_of_Eden)
-
-## [1953: fahrenheit 451 📕](https://www.goodreads.com/book/show/17470674-fahrenheit-451)
-
-## [1954: the doors of perception  📕](http://www.goodreads.com/book/show/3188964-the-doors-of-perception)
-
-details Aldous Huxley’s own experiences when taking mescaline
-
-## [1955: lolita 📕](http://www.goodreads.com/book/show/7604.Lolita)
-
-## [1957: doctor zhivago 📕](http://www.goodreads.com/book/show/130440.Doctor_Zhivago)
-
-## [1959: flowers for algernon  📕](https://my.mindnode.com/HnYCLfb3q3xZCVswbafBfoMeDKngVCT1jaa8vYyh)
-
-## [1961: catch-22 📕](http://www.goodreads.com/book/show/168668.Catch_22)
-
-## [1962: pale fire 📕](https://www.goodreads.com/book/show/7805.Pale_Fire)
-
-## [1962: island 📕](http://www.goodreads.com/book/show/5130.Island)
-
-## [1962: we have always lived in the castle 📕](http://www.goodreads.com/book/show/89724.We_Have_Always_Lived_in_the_Castle)
-
-## [1962: one day in the life of ivan denisovich 📕](http://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich)
-
-## [1964: monday begins on saturday 📕](https://www.goodreads.com/review/show/742548546)
-
-## [1965: dune 📕](http://www.goodreads.com/book/show/234225.Dune)
-
-## [1965: stoner 📕](http://www.goodreads.com/book/show/166997.Stoner)
-
-## [1967: master and margarita  📕](http://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
-
-## [1967: one hundred years of solitude 📕](http://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude)
-
-## [1969: slaughterhouse five 📕](http://www.goodreads.com/book/show/4981.Slaughterhouse_Five)
-
-## [1972: roadside picnic  📕](http://www.goodreads.com/book/show/331256.Roadside_Picnic)
+- [10: the d programming language 📕](http://amzn.to/1ZTDmqH)
+
+#### Go
+- [12: network programming with go 📖](https://jan.newmarch.name/go/)
+- [15: go in action 📖](https://github.com/miguellgt/books/blob/master/go/go-in-action.pdf)
+- [15: the go programming language 📕](http://www.goodreads.com/book/show/25080953-the-go-programming-language)
+	- [notes 🐙](https://github.com/namit/The-Go-Programming-Language)
+- [web app with go - anti text book 📖](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
+- [build web application with golang 📖](%F0%9F%90%99)
+- [14: the little go book 📖](http://openmymind.net/The-Little-Go-Book/)
+
+#### Perl
+- [16: modern perl 📖](http://modernperlbooks.com/books/modern_perl_2016/index.html)
+
+#### Python
+- [1999: python essential reference 📕](https://www.goodreads.com/book/show/6666430-python-essential-reference)
+- [04: dive into python 3 📖](http://www.diveintopython3.net/)
+- [05: problem solving with algorithms and data structures using python 📖](http://interactivepython.org/runestone/static/pythonds/index.html)
+- [13: data structures and algorithms in python 📕](http://www.goodreads.com/book/show/13838796-data-structures-and-algorithms-in-python)
+- [14: test driven development with python 📕](http://www.goodreads.com/book/show/17912811-test-driven-web-development-with-python)
+- [15: effective python 📕](http://www.goodreads.com/book/show/23020812-effective-python)
+- [15: fluent python 📕](http://www.goodreads.com/book/show/22800567-fluent-python)
+- [17: inside the python virtual machine 📖](https://leanpub.com/insidethepythonvirtualmachine)
+- [automate the boring stuff with python 📖](https://automatetheboringstuff.com/)
+
+#### Java
+- [01: effective java 📕](http://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide)
+	- [code 🐙](https://github.com/marhan/effective-java-examples)
+	- [notes 🐙](https://github.com/jwongo/effectivejava)
+- [03: data structures and algorithms in java 📖](http://coltech.vnu.edu.vn/~sonpb/DSA/Data%20Structures%20and%20Algorithms%20in%20Java,%206th%20Edition,%202014.pdf)
+- [06: java concurrency in practice 📕](http://jcip.net/)
+- [08: introduction to programming in java: an interdisciplinary approach 📖](http://introcs.cs.princeton.edu/java/home/chapter1.pdf)
+- [14: java 8 in action 📕](http://www.goodreads.com/book/show/20534354-java-8-in-action)
+- [15: test-driven java development 📕](http://www.goodreads.com/book/show/26333479-test-driven-java-development)
+
+#### Rust
+- [rust by example 📖](http://rustbyexample.com/)
+- [the rust programming language 📖](https://doc.rust-lang.org/book/)
+- [the rustonomicon 📖](https://doc.rust-lang.org/nomicon/)
+
+#### Scala
+- [14: functional programming in scala 📕](https://www.manning.com/books/functional-programming-in-scala)
+
+#### Lisp
+- [1974: the little schemer 📕](https://mitpress.mit.edu/books/little-schemer)
+- [1994: lisp in small pieces 📕](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
+
+#### Haskell
+- [14: write you a haskell 📖](http://dev.stephendiehl.com/fun/)
+	- [implementation 🐙](https://github.com/AlphaMarc/WYAH)
+- [16: programming in haskell  📕](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
+
+#### Interviews
+- [08: cracking the coding interview  📕](http://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
+	- [solutions in swift 🐙](https://github.com/careercup/CtCI-6th-Edition-Swift)
+- [12: elements of programming interviews 📕](http://www.goodreads.com/book/show/16253895-elements-of-programming-interviews)
+	- [solutions in go 🐙](https://github.com/mykoweb/epi-go)
+	- [solutions in python 🐙](https://github.com/akshaykumar90/sparkling-water)
+	- [solutions in java 🐙](https://github.com/qtstc/Elements-of-Programming-Interviews-Java-Solution)
+	- [solutions in c++ 🐙](https://github.com/adnanaziz/epicode)
+
+#### Javascript
+- [you don’t know js  📖](https://github.com/getify/You-Dont-Know-JS)
+	- [up and going  📖](%F0%9F%90%99)
+	- [scope and closures 📖](%F0%9F%90%99)
+	- [this and object prototypes 📖](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch1.md)
+	- [types and grammar 📖](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch1.md)
+	- [async and performance 📖](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md)
+	- [es6 and beyond 📖](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch1.md)
+- [11: eloquent javascript 📖](http://eloquentjavascript.net/00_intro.html)
+- [12: effective javascript: 68 specific ways to harness the power of javascript 📕](http://www.goodreads.com/book/show/13705402-effective-javascript)
+- [13: secrets of the javascript ninja 📕](http://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
+- [15: learning javascript design patterns 📖](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [17: the javascript way 📖](https://leanpub.com/thejsway)
+- [exploring js 📖](http://exploringjs.com/)
+
+#### Typescript
+- [typescript deep dive 📖](https://basarat.gitbooks.io/typescript/)
+
+#### Swift
+- [14: swift programming language  📖](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
+	- [cheat sheet 🐙](https://github.com/jugend/swift-cheat-sheet)
+
+#### Ruby
+- [09: the well grounded rubyist 📕](http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist)
+- [11: eloquent ruby 📕](http://www.goodreads.com/book/show/9364729-eloquent-ruby)
+- [12: practical object oriented design in ruby 📕](http://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby)
+	- [code 🐙](https://github.com/skmetz/poodr)
+	- [notes 🐙](https://github.com/jordanpoulton/practical_object_oriented_design_in_ruby)
+	- [go implementation 🐙](https://github.com/nathany/go-poodr)
+- [13: confident ruby 📕](http://www.goodreads.com/book/show/15847933-confident-ruby)
+
+#### Smalltalk
+- [1997: smalltalk best practice patterns 📕](http://www.goodreads.com/book/show/781561.Smalltalk_Best_Practice_Patterns)
+
+#### iOS
+- [15: ios 10 programming fundamentals with swift  📕](http://shop.oreilly.com/product/0636920055211.do)
+
+#### Vim
+- [12: practical vim 📕](http://www.goodreads.com/book/show/13607232-practical-vim)
+	- [notes 🐙](https://github.com/gitig/Practical-Vim-Notes)
+
+#### Git
+- [14: git in practice 📖](https://content.mirantis.com/rs/451-RBY-185/images/McQuaid-git-in-practice.pdf)
+- [14: pro git 📖](https://git-scm.com/book/en/v2)
+
+#### Unix
+- [1992: advanced programming in the unix environment 📕](http://www.goodreads.com/book/show/603263.Advanced_Programming_in_the_UNIX_Environment)
+- [1993: unix power tools 📕](http://www.goodreads.com/book/show/172314.UNIX_Power_Tools)
+- [14: an introduction to unix 📖](http://www.oliverelliott.org/article/computing/tut_unix/)
+
+#### Linux
+- [14: how linux works 📕](http://www.goodreads.com/book/show/514432.How_Linux_Works)
+
+#### node.js
+- [12: node up and running 📖](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
+
+#### Assembly
+- [14: assembly language succinctly 📖](https://www.syncfusion.com/resources/techportal/details/ebooks/assemblylanguage)
+
+#### Language design
+- [beautiful racket 📖](http://beautifulracket.com/)
+
+### Fiction
+- [1864: notes from underground 📕](http://www.goodreads.com/book/show/17876.Notes_from_Underground_White_Nights_The_Dream_of_a_Ridiculous_Man_and_Selections_from_The_House_of_the_Dead)
+- [1866: crime and punishment 📕](http://www.goodreads.com/book/show/7144.Crime_and_Punishment)
+- [1869: the idiot 📕](http://www.goodreads.com/book/show/12505.The_Idiot)
+- [1880: the brothers karamazov 📕](http://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)
+- [1884: flatland 📕](http://www.goodreads.com/book/show/433567.Flatland)
+- [1890: the picture of dorian gray  📕](http://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray)
+- [1892: the yellow wallpaper  📕 ](https://www.goodreads.com/book/show/286957.The_Yellow_Wall_Paper)
+- [1908: the iron heel 📕](http://www.goodreads.com/book/show/929783.The_Iron_Heel)
+- [1914: the ragged trousered philanthropists 📕](http://www.goodreads.com/book/show/921359.The_Ragged_Trousered_Philanthropists)
+- [1924: we 📕](http://www.goodreads.com/book/show/76171.We)
+- [1925: heart of a dog  📕](http://www.goodreads.com/book/show/113205.Heart_of_a_Dog)
+- [1925: the great gatsby 📕](http://www.goodreads.com/book/show/4671.The_Great_Gatsby)
+- [1932: brave new world 📕](http://www.goodreads.com/book/show/5129.Brave_New_World)
+- [1943: the glass bead game 📕](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game)
+- [1945: animal farm 📕](http://www.goodreads.com/book/show/7613.Animal_Farm)
+- [1947: the plague 📕](http://www.goodreads.com/book/show/11989.The_Plague)
+- [1948: no longer human 📕 🌐](http://www.wikiwand.com/en/No_Longer_Human)
+- [1949: nineteen eighty-four 📕](https://www.goodreads.com/book/show/5470.1984)
+- [1951: the rebel: an essay on man in revolt 📕](http://www.goodreads.com/book/show/11990.The_Rebel)
+- [1952: east of eden 📕](http://www.goodreads.com/book/show/4406.East_of_Eden)
+- [1953: fahrenheit 451 📕](https://www.goodreads.com/book/show/17470674-fahrenheit-451)
+- [1954: the doors of perception  📕](http://www.goodreads.com/book/show/3188964-the-doors-of-perception)
+	- details Aldous Huxley’s own experiences when taking mescaline
+- [1955: lolita 📕](http://www.goodreads.com/book/show/7604.Lolita)
+- [1957: doctor zhivago 📕](http://www.goodreads.com/book/show/130440.Doctor_Zhivago)
+- [1959: flowers for algernon  📕](https://my.mindnode.com/HnYCLfb3q3xZCVswbafBfoMeDKngVCT1jaa8vYyh)
+- [1961: catch-22 📕](http://www.goodreads.com/book/show/168668.Catch_22)
+- [1962: pale fire 📕](https://www.goodreads.com/book/show/7805.Pale_Fire)
+- [1962: island 📕](http://www.goodreads.com/book/show/5130.Island)
+- [1962: we have always lived in the castle 📕](http://www.goodreads.com/book/show/89724.We_Have_Always_Lived_in_the_Castle)
+- [1962: one day in the life of ivan denisovich 📕](http://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich)
+- [1964: monday begins on saturday 📕](https://www.goodreads.com/review/show/742548546)
+- [1965: dune 📕](http://www.goodreads.com/book/show/234225.Dune)
+- [1965: stoner 📕](http://www.goodreads.com/book/show/166997.Stoner)
+- [1967: master and margarita  📕](http://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
+- [1967: one hundred years of solitude 📕](http://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude)
+- [1969: slaughterhouse five 📕](http://www.goodreads.com/book/show/4981.Slaughterhouse_Five)
+- [1972: roadside picnic  📕](http://www.goodreads.com/book/show/331256.Roadside_Picnic)
 
 ## [1972: augustus 📕](http://www.goodreads.com/book/show/89231.Augustus)
 
