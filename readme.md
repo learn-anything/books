@@ -14,7 +14,7 @@ If there is a free version of 📕 book, please swap the link.
 
 ### Related websites / repositories 
 - [free programming books](https://github.com/EbookFoundation/free-programming-books)
-- [influenial cs books](https://github.com/chhantyal/influential-cs-books)
+- [influential cs books](https://github.com/chhantyal/influential-cs-books)
 - [book suggestions subreddit](https://www.reddit.com/r/booksuggestions/)
 - [mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
@@ -52,6 +52,7 @@ If there is a free version of 📕 book, please swap the link.
 
 #### C
 - [1975: the c programming language 📕](http://www.goodreads.com/book/show/515601.The_C_Programming_Language)
+- [14: 21st century c 📕](http://shop.oreilly.com/product/0636920033677.do)
 
 #### C++
 - [1989: c++ primer 📕](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
@@ -60,6 +61,7 @@ If there is a free version of 📕 book, please swap the link.
 
 #### D
 - [10: the d programming language 📕](http://amzn.to/1ZTDmqH)
+- [15: programming in d 📖](http://ddili.org/ders/d.en/index.html)
 
 #### Go
 - [12: network programming with go 📖](https://jan.newmarch.name/go/)
@@ -320,6 +322,7 @@ If there is a free version of 📕 book, please swap the link.
 - [1987: algorithm design manual 📖](https://github.com/haseebr/competitive-programming/blob/master/Materials/The%20Algorithm%20Design%20Manual%20by%20Steven%20S.%20Skiena.pdf)
 - [1990: introduction to algorithms 📕](http://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)
 - [05: algorithm design 📕](http://www.goodreads.com/book/show/145055.Algorithm_Design)
+- [15: algorithms etc by jeff erickson 📖](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [algorithm design: parallel and sequential 📖](http://www.parallel-algorithms-book.com/)
 
 ### Mindset
