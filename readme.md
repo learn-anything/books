@@ -26,6 +26,7 @@ If there is a free version of 📕 book, please swap the link.
 - [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy)
 - [Book notes](https://github.com/mgp/book-notes)
 - [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
+- [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
 
 ## Books
 ### Programming
@@ -670,3 +671,5 @@ If there is a free version of 📕 book, please swap the link.
 - [14: engineering security 📖](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
 - [16: a graduate corse in applied cryptography 📖](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
 
+## Contribute 
+If you found an interesting book that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
