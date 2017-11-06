@@ -1,32 +1,35 @@
-# Free and non free books all can learn from 📚 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting books one can read to learn new things and discover new insights. 
+# Interesting Books [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-The number before the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. Emojis after the book show if the book is free or not.
+This is a curated list of all the interesting books.
 
-📖 = book is freely available (read it 🎊)
+The number before the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. 
 
-📕 = book not freely available  (buy or search for it elsewhere)
+Emojis after the book show if the book is free or not.
 
-Pull requests are welcome. Thank you. 💙
+
+|  Emoji |  Meaning |
+|---|---|
+| 📖  |  book is freely available (read it 🎊) |
+| 📕  |  book not freely available  (buy or search for it elsewhere) |
+
+Pull requests are welcome. Thank you. 💜
 
 If there is a free version of 📕 book, please swap the link.
 
 ### Related websites / repositories 
-- [free programming books](https://github.com/EbookFoundation/free-programming-books)
-- [influenial cs books](https://github.com/chhantyal/influential-cs-books)
-- [book suggestions subreddit](https://www.reddit.com/r/booksuggestions/)
-- [mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books)
-- [recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
-- [awesome scifi](https://github.com/sindresorhus/awesome-scifi)
-- [awesome fantasy](https://github.com/RichardLitt/awesome-fantasy)
-- [book notes](https://github.com/mgp/book-notes)
-- [language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+- [Influenial cs books](https://github.com/chhantyal/influential-cs-books)
+- [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions/)
+- [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books)
+- [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
+- [Awesome scifi](https://github.com/sindresorhus/awesome-scifi)
+- [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy)
+- [Book notes](https://github.com/mgp/book-notes)
+- [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
 
 ## Books
-
-### programming
-#### general
+### Programming
+#### General
 - [1968-: the art of computer programming 📕](http://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
 - [1971: the psychology of computer programming 📕](http://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
 - [1974: the elements of programming style 📕](http://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
