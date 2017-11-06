@@ -55,6 +55,7 @@ If there is a free version of 📕 book, please swap the link.
 
 #### C
 - [1975: the c programming language 📕](http://www.goodreads.com/book/show/515601.The_C_Programming_Language)
+- [14: 21st century c 📕](http://shop.oreilly.com/product/0636920033677.do)
 
 #### C++
 - [1989: c++ primer 📕](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
@@ -63,6 +64,7 @@ If there is a free version of 📕 book, please swap the link.
 
 #### D
 - [10: the d programming language 📕](http://amzn.to/1ZTDmqH)
+- [15: programming in d 📖](http://ddili.org/ders/d.en/index.html)
 
 #### Go
 - [12: network programming with go 📖](https://jan.newmarch.name/go/)
@@ -240,8 +242,10 @@ If there is a free version of 📕 book, please swap the link.
 - [1999: cryptonomicon 📕](http://www.goodreads.com/book/show/816.Cryptonomicon)
 - [00: house of leaves 📕](http://www.goodreads.com/book/show/24800.House_of_Leaves)
 - [06: the road 📕](http://www.goodreads.com/book/show/6288.The_Road)
+- [07: the metamorphosis of prime intellect](http://localroger.com/prime-intellect/mopiidx.html)
 - [10: the passage 📕](http://www.goodreads.com/series/53226-the-passage)
 - [15: harry potter and the methods of rationality 📖](http://www.hpmor.com/wordpress/wp-content/uploads/2012/03/Harry-Potter-and-the-Methods-of-Rationality.pdf)
+- [17: unsong](http://unsongbook.com/)
 
 
 #### Comedy
@@ -323,6 +327,7 @@ If there is a free version of 📕 book, please swap the link.
 - [1987: algorithm design manual 📖](https://github.com/haseebr/competitive-programming/blob/master/Materials/The%20Algorithm%20Design%20Manual%20by%20Steven%20S.%20Skiena.pdf)
 - [1990: introduction to algorithms 📕](http://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)
 - [05: algorithm design 📕](http://www.goodreads.com/book/show/145055.Algorithm_Design)
+- [15: algorithms etc by jeff erickson 📖](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [algorithm design: parallel and sequential 📖](http://www.parallel-algorithms-book.com/)
 
 ### Mindset
