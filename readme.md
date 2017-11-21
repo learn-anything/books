@@ -141,6 +141,9 @@ If there is a free version of 📕 book, please swap the link.
 - [17: the javascript way 📖](https://leanpub.com/thejsway)
 - [exploring js 📖](http://exploringjs.com/)
 
+##### React.js
+- [The Road to learn React 📖](https://roadtoreact.com/)
+
 #### Typescript
 - [typescript deep dive 📖](https://basarat.gitbooks.io/typescript/)
 
