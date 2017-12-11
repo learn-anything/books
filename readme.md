@@ -8,7 +8,6 @@
 - [Programming books](#programming-books)
 - [Related](#related)
 
-
 ## Key
 The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. 
 
@@ -674,3 +673,8 @@ Emojis after the book show if the book is free or not.
 - [Book notes](https://github.com/mgp/book-notes)
 - [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Learn Anything](https://learn-anything.xyz/) has waived all copyright and related or neighboring rights to this work.
