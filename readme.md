@@ -130,6 +130,9 @@ Emojis after the book show if the book is free or not.
 - [17: the javascript way 📖](https://leanpub.com/thejsway)
 - [exploring js 📖](http://exploringjs.com/)
 
+##### React.js
+- [The Road to learn React 📖](https://roadtoreact.com/)
+
 #### Typescript
 - [typescript deep dive 📖](https://basarat.gitbooks.io/typescript/)
 
