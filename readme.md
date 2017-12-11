@@ -6,8 +6,9 @@
 ## Contents
 - [Key](#key)
 - [Programming books](#programming-books)
-	- [C](#c)
-	- [C++](#c++)
+	- [C](#c-language)
+	- [C++](#c-1-language)
+	- [D language](#d-language)
 - [Related](#related)
 
 ## Key
@@ -44,16 +45,16 @@ Emojis after the book show if the book is free or not.
 - [15: crafting interpreters   📖](http://www.craftinginterpreters.com/introduction.html)
 - [composing programs 📖](http://www.composingprograms.com/)
 
-### C
+### C language
 - [1975: the c programming language 📕](http://www.goodreads.com/book/show/515601.The_C_Programming_Language)
 - [14: 21st century c 📕](http://shop.oreilly.com/product/0636920033677.do)
 
-### C++
+### C++ language
 - [1989: c++ primer 📕](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
 - [04: beginning c++ through game programming 📕](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 - [17: c++ core guidelines 📖](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
-#### D
+### D language
 - [10: the d programming language 📕](http://amzn.to/1ZTDmqH)
 - [15: programming in d 📖](http://ddili.org/ders/d.en/index.html)
 
