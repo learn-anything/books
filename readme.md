@@ -1,4 +1,4 @@
-# Books [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting Books [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 > Curated list of all the Interesting Books you can read
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
@@ -19,7 +19,7 @@ Emojis after the book show if the book is free or not.
 | 📕  |  Book not freely available |
 
 ## Programming books
-- [The art of computer programming 📕 (1968-: )](http://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
+- [The art of computer programming (1968-: ) 📕](http://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
 - [1971: the psychology of computer programming 📕](http://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
 - [1974: the elements of programming style 📕](http://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
 - [1976: software reliability: principles and practices 📕](http://www.goodreads.com/book/show/2383920.Software_Reliability)
