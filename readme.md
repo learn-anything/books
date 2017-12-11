@@ -6,6 +6,8 @@
 ## Contents
 - [Key](#key)
 - [Programming books](#programming-books)
+	- [C](#c)
+	- [C++](#c++)
 - [Related](#related)
 
 ## Key
@@ -18,9 +20,9 @@ Emojis after the book show if the book is free or not.
 | 📖  |  Book is freely available |
 | 📕  |  Book not freely available |
 
-## Programming books
+## Programming 
 - [The art of computer programming (1968-: ) 📕](http://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
-- [1971: the psychology of computer programming 📕](http://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
+- [The psychology of computer programming (1971: ) 📕](http://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
 - [1974: the elements of programming style 📕](http://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
 - [1976: software reliability: principles and practices 📕](http://www.goodreads.com/book/show/2383920.Software_Reliability)
 - [1979: structure and interpretation of computer programs 📖](http://sarabander.github.io/sicp/html/index.xhtml)
@@ -42,11 +44,11 @@ Emojis after the book show if the book is free or not.
 - [15: crafting interpreters   📖](http://www.craftinginterpreters.com/introduction.html)
 - [composing programs 📖](http://www.composingprograms.com/)
 
-#### C
+### C
 - [1975: the c programming language 📕](http://www.goodreads.com/book/show/515601.The_C_Programming_Language)
 - [14: 21st century c 📕](http://shop.oreilly.com/product/0636920033677.do)
 
-#### C++
+### C++
 - [1989: c++ primer 📕](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
 - [04: beginning c++ through game programming 📕](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 - [17: c++ core guidelines 📖](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
