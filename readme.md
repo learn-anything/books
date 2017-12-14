@@ -71,7 +71,7 @@ Emojis befoes the books show if the book is free or not.
 - [📖 Modern Perl (2016)](http://modernperlbooks.com/books/modern_perl_2016/index.html)
 
 #### Python
-- [Python essential reference (1999) 📕](https://www.goodreads.com/book/show/6666430-python-essential-reference)
+- [📕 Python essential reference (1999)](https://www.goodreads.com/book/show/6666430-python-essential-reference)
 - [📖 Dive into python 3 (2004)](http://www.diveintopython3.net/)
 - [📖 Problem solving with algorithms and data structures using python (2005)](http://interactivepython.org/runestone/static/pythonds/index.html)
 - [📕 Data structures and algorithms in python (2013)](http://www.goodreads.com/book/show/13838796-data-structures-and-algorithms-in-python)
@@ -117,39 +117,39 @@ Emojis befoes the books show if the book is free or not.
 	- [Solutions in Java](https://github.com/qtstc/Elements-of-Programming-Interviews-Java-Solution)
 	- [solutions in c++](https://github.com/adnanaziz/epicode)
 
-#### Javascript
-- [📖 You don’t know js ](https://github.com/getify/You-Dont-Know-JS)
-	- [up and going  📖](%F0%9F%90%99)
-	- [scope and closures 📖](%F0%9F%90%99)
-	- [this and object prototypes 📖](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch1.md)
-	- [types and grammar 📖](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20%26%20grammar/ch1.md)
-	- [async and performance 📖](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch1.md)
-	- [es6 and beyond 📖](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch1.md)
-- [11: eloquent javascript 📖](http://eloquentjavascript.net/00_intro.html)
-- [12: effective javascript: 68 specific ways to harness the power of javascript 📕](http://www.goodreads.com/book/show/13705402-effective-javascript)
-- [13: secrets of the javascript ninja 📕](http://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
-- [15: learning javascript design patterns 📖](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- [17: the javascript way 📖](https://leanpub.com/thejsway)
-- [exploring js 📖](http://exploringjs.com/)
+#### Javascript 
+- [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS)
+	- [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going)
+	- [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+	- [📖 This and object prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+	- [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
+	- [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+	- [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+- [📖 Eloquent javascript (2011)](http://eloquentjavascript.net/00_intro.html)
+- [Effective javascript: 68 specific ways to harness the power of javascript (2012) 📕](http://www.goodreads.com/book/show/13705402-effective-javascript)
+- [Secrets of the javascript ninja (2013) 📕](http://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
+- [📖 Learning javascript design patterns (2015)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [📖 The javascript way (2017)](https://leanpub.com/thejsway)
+- [📖 Exploring js](http://exploringjs.com/)
 
 ##### React.js
-- [The Road to learn React 📖](https://roadtoreact.com/)
+- [📖 The Road to learn React](https://roadtoreact.com/)
 
 #### Typescript
-- [typescript deep dive 📖](https://basarat.gitbooks.io/typescript/)
+- [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
 
 #### Swift
-- [14: swift programming language  📖](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
-	- [cheat sheet](https://github.com/jugend/swift-cheat-sheet)
+- [📖 Swift programming language (2014)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
+	- [Swift Cheat sheet](https://github.com/jugend/swift-cheat-sheet)
 
 #### Ruby
-- [09: the well grounded rubyist 📕](http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist)
-- [11: eloquent ruby 📕](http://www.goodreads.com/book/show/9364729-eloquent-ruby)
-- [12: practical object oriented design in ruby 📕](http://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby)
-	- [code](https://github.com/skmetz/poodr)
-	- [notes](https://github.com/jordanpoulton/practical_object_oriented_design_in_ruby)
-	- [go implementation](https://github.com/nathany/go-poodr)
-- [13: confident ruby 📕](http://www.goodreads.com/book/show/15847933-confident-ruby)
+- [📕 The well grounded rubyist (2009)](http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist)
+- [📕 Eloquent ruby (2011)](http://www.goodreads.com/book/show/9364729-eloquent-ruby)
+- [📕 Practical object oriented design in ruby (2012)](http://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby)
+	- [Code solutions](https://github.com/skmetz/poodr)
+	- [Notes](https://github.com/jordanpoulton/practical_object_oriented_design_in_ruby)
+	- [Go implementation](https://github.com/nathany/go-poodr)
+- [📕 Confident ruby (2013)](http://www.goodreads.com/book/show/15847933-confident-ruby)
 
 #### Smalltalk
 - [1997: smalltalk best practice patterns 📕](http://www.goodreads.com/book/show/781561.Smalltalk_Best_Practice_Patterns)
