@@ -8,7 +8,7 @@
 - [Programming ](#programming)
 - [Programming languages](#programming-languages)
 	- [C](#c)
-	- [C++](#c)
+	- [C++](#c-1)
 	- [D language](#d-language)
 	- [Go](#go)
 	- [Perl](#perl)
