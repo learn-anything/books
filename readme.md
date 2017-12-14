@@ -5,9 +5,10 @@
 
 ## Contents
 - [Key](#key)
-- [Programming books](#programming-books)
-	- [C](#c-language)
-	- [C++](#c-1-language)
+- [Programming ](#programming)
+- [Programming languages](#programming-languages)
+	- [C](#c)
+	- [C++](#c)
 	- [D language](#d-language)
 	- [Go](#go)
 	- [Perl](#perl)
@@ -45,20 +46,22 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Apprenticeship patterns (2010)](http://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
 - [📕 The art of readable code: simple and practical techniques for writing better code (2011)](http://www.goodreads.com/book/show/8677004-the-art-of-readable-code)
 - [📕 Programming in the large with design patterns (2012)](http://www.goodreads.com/book/show/16418148-programming-in-the-large-with-design-patterns)
-- [📖 Programming languages: application and interpretation (2012)](http://cs.brown.edu/courses/cs173/2012/book/book.pdf)
-- [📖 Crafting interpreters (2012)](http://www.craftinginterpreters.com/introduction.html)
 - [📖 Composing programs](http://www.composingprograms.com/)
 
-### C language
+## Programming languages
+- [📖 Programming languages: application and interpretation (2012)](http://cs.brown.edu/courses/cs173/2012/book/book.pdf)
+- [📖 Crafting interpreters (2012)](http://www.craftinginterpreters.com/introduction.html)
+
+### C 
 - [📕 The C programming language (1975)](http://www.goodreads.com/book/show/515601.The_C_Programming_Language)
 - [📕 21st century C (2014)](http://shop.oreilly.com/product/0636920033677.do)
 
-### C++ language
+### C++ 
 - [📕 C++ primer (1989)](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
 - [📕 Beginning c++ through game programming (2004](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 - [📖 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
-### D language
+### D 
 - [📕 The D programming language (2010)](http://amzn.to/1ZTDmqH)
 - [📖 Programming in D (2015)](http://ddili.org/ders/d.en/index.html)
 
