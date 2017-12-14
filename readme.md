@@ -5,13 +5,25 @@
 
 ## Contents
 - [Key](#key)
-- [Programming ](#programming)
+- [Programming](#programming)
 - [Programming languages](#programming-languages)
 	- [C](#c)
 	- [C++](#c-1)
-	- [D language](#d-language)
+	- [D](#d-language)
 	- [Go](#go)
 	- [Perl](#perl)
+	- [Python](#python)	
+	- [Java](#java)
+	- [Rust](#rust)
+	- [Scala](#scala)
+	- [Lisp](#lisp)
+	- [Haskell](#haskell)
+	- [Javascript](#javascript)
+	- [Typescript](#typescript)
+	- [Swift](#swift)
+	- [Ruby](#ruby)
+	
+
 - [Related](#related)
 
 ## Key
@@ -74,10 +86,10 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Web app with go - anti text book](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
 - [📖 Build web application with golang](%F0%9F%90%99)
 
-#### Perl
+### Perl
 - [📖 Modern Perl (2016)](http://modernperlbooks.com/books/modern_perl_2016/index.html)
 
-#### Python
+### Python
 - [📕 Python essential reference (1999)](https://www.goodreads.com/book/show/6666430-python-essential-reference)
 - [📖 Dive into python 3 (2004)](http://www.diveintopython3.net/)
 - [📖 Problem solving with algorithms and data structures using python (2005)](http://interactivepython.org/runestone/static/pythonds/index.html)
@@ -88,7 +100,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Inside the python virtual machine (2017)](https://leanpub.com/insidethepythonvirtualmachine)
 - [📖 Automate the boring stuff with python](https://automatetheboringstuff.com/)
 
-#### Java
+### Java
 - [📕 Effective java (2001)](http://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide)
 	- [Code examples](https://github.com/marhan/effective-java-examples)
 	- [Notes](https://github.com/jwongo/effectivejava)
@@ -98,33 +110,24 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Java 8 in action (2014)](http://www.goodreads.com/book/show/20534354-java-8-in-action)
 - [📕 Test-driven java development (2015)](http://www.goodreads.com/book/show/26333479-test-driven-java-development)
 
-#### Rust
+### Rust
 - [📖 Rust by example](http://rustbyexample.com/)
 - [📖 The rust programming language](https://doc.rust-lang.org/book/)
 - [📖 The rustonomicon](https://doc.rust-lang.org/nomicon/)
 
-#### Scala
+### Scala
 - [📕 Functional programming in scala (2014)](https://www.manning.com/books/functional-programming-in-scala)
 
-#### Lisp
+### Lisp
 - [📕 The little schemer (1974)](https://mitpress.mit.edu/books/little-schemer)
 - [📕 Lisp in small pieces (1994)](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
 
-#### Haskell
+### Haskell
 - [📖 Write you a haskell (2014)](http://dev.stephendiehl.com/fun/)
 	- [Implementation in code](https://github.com/AlphaMarc/WYAH)
 - [📕 Programming in haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
 
-#### Interviews
-- [📕 Cracking the coding interview (2008)](http://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
-	- [Solutions in swift](https://github.com/careercup/CtCI-6th-Edition-Swift)
-- [📕 Elements of programming interviews (2012)](http://www.goodreads.com/book/show/16253895-elements-of-programming-interviews)
-	- [Solutions in Go](https://github.com/mykoweb/epi-go)
-	- [Solutions in Python](https://github.com/akshaykumar90/sparkling-water)
-	- [Solutions in Java](https://github.com/qtstc/Elements-of-Programming-Interviews-Java-Solution)
-	- [solutions in c++](https://github.com/adnanaziz/epicode)
-
-#### Javascript 
+### Javascript 
 - [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS)
 	- [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going)
 	- [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -139,17 +142,14 @@ The subdashes after the book may include notes and other useful material related
 - [📖 The javascript way (2017)](https://leanpub.com/thejsway)
 - [📖 Exploring js](http://exploringjs.com/)
 
-##### React.js
-- [📖 The Road to learn React](https://roadtoreact.com/)
-
-#### Typescript
+## Typescript
 - [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
 
-#### Swift
+### Swift
 - [📖 Swift programming language (2014)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
 	- [Swift Cheat sheet](https://github.com/jugend/swift-cheat-sheet)
 
-#### Ruby
+### Ruby
 - [📕 The well grounded rubyist (2009)](http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist)
 - [📕 Eloquent ruby (2011)](http://www.goodreads.com/book/show/9364729-eloquent-ruby)
 - [📕 Practical object oriented design in ruby (2012)](http://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby)
@@ -158,10 +158,25 @@ The subdashes after the book may include notes and other useful material related
 	- [Go implementation](https://github.com/nathany/go-poodr)
 - [📕 Confident ruby (2013)](http://www.goodreads.com/book/show/15847933-confident-ruby)
 
-#### Smalltalk
+### Smalltalk
 - [📕 Smalltalk best practice patterns (1997)](http://www.goodreads.com/book/show/781561.Smalltalk_Best_Practice_Patterns)
 
-#### iOS
+### Assembly
+- [📖 Assembly language succinctly (2014)](https://www.syncfusion.com/resources/techportal/details/ebooks/assemblylanguage)
+
+## Programming language design
+- [📖 Beautiful racket](http://beautifulracket.com/)
+
+## Programming interviews
+- [📕 Cracking the coding interview (2008)](http://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
+	- [Solutions in swift](https://github.com/careercup/CtCI-6th-Edition-Swift)
+- [📕 Elements of programming interviews (2012)](http://www.goodreads.com/book/show/16253895-elements-of-programming-interviews)
+	- [Solutions in Go](https://github.com/mykoweb/epi-go)
+	- [Solutions in Python](https://github.com/akshaykumar90/sparkling-water)
+	- [Solutions in Java](https://github.com/qtstc/Elements-of-Programming-Interviews-Java-Solution)
+	- [solutions in c++](https://github.com/adnanaziz/epicode)
+
+## iOS
 - [iOS 10 programming fundamentals with swift  (2015) 📕](http://shop.oreilly.com/product/0636920055211.do)
 
 #### Vim
@@ -182,12 +197,6 @@ The subdashes after the book may include notes and other useful material related
 
 #### node.js
 - [📖 Node up and running (2012)](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
-
-#### Assembly
-- [📖 Assembly language succinctly (2014)](https://www.syncfusion.com/resources/techportal/details/ebooks/assemblylanguage)
-
-#### Language design
-- [📖 Beautiful racket](http://beautifulracket.com/)
 
 ### Fiction
 - [📕 Notes from underground (1864)](http://www.goodreads.com/book/show/17876.Notes_from_Underground_White_Nights_The_Dream_of_a_Ridiculous_Man_and_Selections_from_The_House_of_the_Dead)
@@ -442,6 +451,10 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The nature of computation  (2011)](http://www.nature-of-computation.org/)
 - [📖 Software foundations (2011)](https://softwarefoundations.cis.upenn.edu/current/index.html)
 - [📖 Introduction to data compression (2012)](https://github.com/gabrieldiego/tg/blob/master/ref/Introduction%20to%20Data%20Compression%20(4th%20Edition).pdf)
+
+## Web Development
+### React.js
+- [📖 The Road to learn React](https://roadtoreact.com/)
 
 ### Web design
 - [📕 Don’t make me think (2000)](http://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
