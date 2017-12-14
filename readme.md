@@ -22,7 +22,25 @@
 	- [Typescript](#typescript)
 	- [Swift](#swift)
 	- [Ruby](#ruby)
-	
+	- [Smalltalk](#smalltalk)
+	- [Assembly](#assembly)
+- [Programming language design](#programming-language-design)
+- [Programming interviews](#programming-interviews)
+- [Text editors](#text-editors)
+	- [Vim](#vim)
+- [Version Control](#version-control)
+	- [Git](#git)
+- [Unix](#unix)
+- [Fiction](#fiction)
+	- [Comedy](#comedy)
+	- [Adventure](#adventure)
+	- [Thriller](#thriller)
+- [Physics](#physics)
+- [Computer networking](#computer-networking)
+- [Nutrition](#nutrition)
+- [Math](#math)
+- [Exercise](#exercise)
+
 
 - [Related](#related)
 
@@ -142,7 +160,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 The javascript way (2017)](https://leanpub.com/thejsway)
 - [📖 Exploring js](http://exploringjs.com/)
 
-## Typescript
+### Typescript
 - [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
 
 ### Swift
@@ -167,7 +185,7 @@ The subdashes after the book may include notes and other useful material related
 ## Programming language design
 - [📖 Beautiful racket](http://beautifulracket.com/)
 
-## Programming interviews
+### Programming interviews
 - [📕 Cracking the coding interview (2008)](http://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
 	- [Solutions in swift](https://github.com/careercup/CtCI-6th-Edition-Swift)
 - [📕 Elements of programming interviews (2012)](http://www.goodreads.com/book/show/16253895-elements-of-programming-interviews)
@@ -176,29 +194,25 @@ The subdashes after the book may include notes and other useful material related
 	- [Solutions in Java](https://github.com/qtstc/Elements-of-Programming-Interviews-Java-Solution)
 	- [solutions in c++](https://github.com/adnanaziz/epicode)
 
-## iOS
-- [iOS 10 programming fundamentals with swift  (2015) 📕](http://shop.oreilly.com/product/0636920055211.do)
+## Text editors
+- [📖 Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 
-#### Vim
+### Vim
 - [📕 Practical vim (2012)](http://www.goodreads.com/book/show/13607232-practical-vim)
 	- [Notes](https://github.com/gitig/Practical-Vim-Notes)
 
-#### Git
+## Version Control
+
+### Git
 - [📖 Git in practice (2014)](https://content.mirantis.com/rs/451-RBY-185/images/McQuaid-git-in-practice.pdf)
 - [📖 Pro git (2014)](https://git-scm.com/book/en/v2)
 
-#### Unix
+## Unix
 - [📕 Advanced programming in the unix environment (1992)](http://www.goodreads.com/book/show/603263.Advanced_Programming_in_the_UNIX_Environment)
 - [📕 Unix power tools (1993)](http://www.goodreads.com/book/show/172314.UNIX_Power_Tools)
 - [📖 An introduction to unix (2014)](http://www.oliverelliott.org/article/computing/tut_unix/)
 
-#### Linux
-- [📕 How linux works (2014)](http://www.goodreads.com/book/show/514432.How_Linux_Works)
-
-#### node.js
-- [📖 Node up and running (2012)](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
-
-### Fiction
+## Fiction
 - [📕 Notes from underground (1864)](http://www.goodreads.com/book/show/17876.Notes_from_Underground_White_Nights_The_Dream_of_a_Ridiculous_Man_and_Selections_from_The_House_of_the_Dead)
 - [📕 Crime and punishment (1866)](http://www.goodreads.com/book/show/7144.Crime_and_Punishment)
 - [📕 The idiot (1869)](http://www.goodreads.com/book/show/12505.The_Idiot)
@@ -257,16 +271,16 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Harry potter and the methods of rationality (2015)](http://www.hpmor.com/wordpress/wp-content/uploads/2012/03/Harry-Potter-and-the-Methods-of-Rationality.pdf)
 - [📖 Unsong (2017)](http://unsongbook.com/)
 
-#### Comedy
+### Comedy
 - [📕 A confederacy of dunces (1980)](http://www.goodreads.com/book/show/310612.A_Confederacy_of_Dunces)
 
-#### Adventure
+### Adventure
 - [📕 The count of monte cristo (1844)](http://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo)
 
-#### Thriller
+### Thriller
 - [📕 And then there were none  (1939)](http://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
 
-### Physics
+## Physics
 - [📕 Relativity: the special and the general theory (1916)](http://www.goodreads.com/book/show/15852.Relativity)
 - [📕 University physics with modern physics](https://my.mindnode.com/1M2ZVqow9pgJ95qwCH7hnwFWdRL8sDcMQqx5b3z9)
 	- [Notes](http://web.sbu.edu/physics/courses/physics-203p.pdf)
@@ -278,7 +292,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The theoretical minimum (2013)](http://www.goodreads.com/book/show/13587145-the-theoretical-minimum)
 - [📖 The feynman lectures on physics (2013)](http://feynmanlectures.caltech.edu/)
 
-### Computer networking
+## Computer networking
 - [📕 TCP/IP network administration (1992)](http://www.goodreads.com/book/show/688363.TCP_IP_Network_Administration)
 - [📕 Tcp/IP illustrated (1993)](http://www.goodreads.com/book/show/505560.The_Protocols)
 - [📕 Interconnections: bridges, routers, switches, and internetworking protocols (1999)](http://www.goodreads.com/book/show/320321.Interconnections)
@@ -290,13 +304,10 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Beej's guide to network programming (2016)](http://beej.us/guide/bgnet/)
 - [📖 An introduction to computer networks](http://intronetworks.cs.luc.edu/current/html/)
 
-### Alt history
-- [📕 The man in the high castle (1962)](http://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
-
-### Nutrition
+## Nutrition
 - [📕 How not to die (2015)](http://www.goodreads.com/book/show/25663961-how-not-to-die)
 
-### Math
+## Math
 - [📖 A mathematician's apology (1940)](https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf)
 - [📕 Handbook of mathematics (1945)](http://www.goodreads.com/book/show/1904487.Handbook_of_Mathematics)
 - [📕 Fantasia mathematica (1958)](http://www.goodreads.com/book/show/74703.Fantasia_Mathematica)
@@ -328,7 +339,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Invitation to ergodic theory](http://bookstore.ams.org/stml-42)
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
 
-### Exercise
+## Exercise
 - [📕 Starting strength: basic barbell training (2005)](http://www.goodreads.com/bookshow/2098799.Starting_Strength)
 
 ### Algorithms
@@ -435,6 +446,10 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Conquerors: how portugal forged the first global empire (2015)](http://www.goodreads.com/book/show/25255039-conquerors)
 - [📕 Homo deus: a brief history of tomorrow (2015)](http://www.goodreads.com/book/show/31138556-homo-deus)
 
+## Alternative history
+- [📕 The man in the high castle (1962)](http://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
+
+
 ### Awareness 
 - [📕 Last chance to see](http://www.goodreads.com/book/show/8696.Last_Chance_to_See)
 
@@ -455,6 +470,10 @@ The subdashes after the book may include notes and other useful material related
 ## Web Development
 ### React.js
 - [📖 The Road to learn React](https://roadtoreact.com/)
+
+## Node.js
+- [📖 Node up and running (2012)](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
+
 
 ### Web design
 - [📕 Don’t make me think (2000)](http://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
@@ -619,10 +638,17 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Elon musk: tesla, spacex, and the quest for a fantastic future (2015)](http://www.goodreads.com/book/show/22543496-elon-musk)
 - [📕 Trump revealed: the definitive biography of the 45th president (2017)](http://www.goodreads.com/book/show/29906336-trump-revealed)
 
-### Operating Systems
+## Operating Systems
 - [📕 Operating system concepts (1983)](http://www.goodreads.com/book/show/83833.Operating_System_Concepts)
 - [📕 Modern operating systems (1992)](http://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
 - [📖 An efficient implementation of fundamental operating system services (1992)](http://valerieaurora.org/synthesis/SynthesisOS/ch1.html)  
+
+### Linux
+- [📕 How linux works (2014)](http://www.goodreads.com/book/show/514432.How_Linux_Works)
+
+### iOS
+- [iOS 10 programming fundamentals with swift  (2015) 📕](http://shop.oreilly.com/product/0636920055211.do)
+
 
 ### Memoirs
 - [📕 Walden (1854)](http://www.goodreads.com/book/show/16902.Walden)
