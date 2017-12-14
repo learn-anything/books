@@ -35,13 +35,68 @@
 	- [Comedy](#comedy)
 	- [Adventure](#adventure)
 	- [Thriller](#thriller)
+	- [Fantasy](#fantasy)
+		- [Fantasy series](#fantasy-series)	
+	- [Short Stories](#short-stories)
 - [Physics](#physics)
 - [Computer networking](#computer-networking)
 - [Nutrition](#nutrition)
 - [Math](#math)
-- [Exercise](#exercise)
-
-
+- [Fitness](#fitness)
+- [Algorithms](#algorithms)
+- [Mindset](#mindset)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Startups](#startups)
+- [Economics](#economics)
+- [Statistics](#statistics)
+- [Finance](#finance)
+- [History](#history)
+	- [Alternative history](#alternative-history)
+- [Awareness](#awareness)
+- [Computer science](#computer-science)
+- [Web Development](#web-development)
+	- [React.js](#react.js)
+	- [Node.js](#node.js)
+	- [Web design](#web-design)
+- [Chemistry](#chemistry)
+- [Visualisation](#visualisation)
+- [Regular Expressions](#regular-expressions)
+- [Compilers](#compilers)
+- [Science](#science)
+- [Computer graphics](#computer-graphics)
+- [Scifi](#scifi)
+	- [SciFi Series](#scifi-series)
+- [Business](#business)
+- [Psychedelics](#psychedelics)
+- [Strategy](#strategy)
+- [Creativity](#creativity)
+- [Management](#management-)
+- [Future](#future)
+- [Engineering](#engineering)
+- [Data Science](#data-science)
+- [Databases](#databases)
+- [Psychology](#psychology)
+- [Philosophy](#philosophy)
+- [Society](#society)
+- [Neuroscience](#neuroscience)
+- [Investing](#investing)
+- [Spirituality](#spirituality)
+- [Game Development](#game-development)
+- [Art](#art)
+- [Biographies](#biographies)
+- [Operating Systems](#operating-systems)
+	- [Linux](#linux)
+	- [iOS](#ios)
+- [Memoirs](#memoirs)
+- [Security](#security)
+- [Design](#design)
+- [Graphic design](#graphic-design)
+- [Politics](#politics)
+- [Computer Systems](#computer-systems)
+- [Evolution](#evolution)
+- [Film Making](#film-making)
+- [Non Fiction](#non-fiction)
+- [Cryptography](#cryptography)
 - [Related](#related)
 
 ## Key
@@ -280,6 +335,25 @@ The subdashes after the book may include notes and other useful material related
 ### Thriller
 - [📕 And then there were none  (1939)](http://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
 
+### Fantasy
+- [📕 The stand (1978)](http://www.goodreads.com/book/show/149267.The_Stand)
+- [📕 American gods (2001)](https://www.goodreads.com/book/show/30165203-american-gods)
+- [📕 The night circus (2011)](http://www.goodreads.com/book/show/9361589-the-night-circus)
+
+#### Fantasy series
+- [📕 A song of ice and fire](http://www.goodreads.com/series/43790-a-song-of-ice-and-fire)
+- [📕 The stormlight archive](http://www.goodreads.com/series/49075-the-stormlight-archive)
+- [📕 The wheel of time](http://www.goodreads.com/series/41526-the-wheel-of-time)
+
+### Short Stories
+- [📕 Ficciones (1941-1956) 📕](http://www.goodreads.com/book/show/426504.Ficciones)
+- [📕 The little prince  (1943)](http://www.goodreads.com/book/show/157993.The_Little_Prince)
+- [📖 The last question  (1956)](http://www.goodreads.com/book/show/4808763-the-last-question)
+- [📕 Franz kafka: the complete stories (1971)](http://www.goodreads.com/book/show/22904.The_Complete_Stories)
+- [📕 Understand  (1991)](http://www.goodreads.com/book/show/7234685-understand)
+- [📕 Story of your life (1998)](http://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others)
+- [📖 The fable of the dragon-tyrant  (2005)](http://www.nickbostrom.com/fable/dragon.html)
+
 ## Physics
 - [📕 Relativity: the special and the general theory (1916)](http://www.goodreads.com/book/show/15852.Relativity)
 - [📕 University physics with modern physics](https://my.mindnode.com/1M2ZVqow9pgJ95qwCH7hnwFWdRL8sDcMQqx5b3z9)
@@ -339,17 +413,17 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Invitation to ergodic theory](http://bookstore.ams.org/stml-42)
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
 
-## Exercise
+## Fitness
 - [📕 Starting strength: basic barbell training (2005)](http://www.goodreads.com/bookshow/2098799.Starting_Strength)
 
-### Algorithms
+## Algorithms
 - [📖 Algorithm design manual (1987)](https://github.com/haseebr/competitive-programming/blob/master/Materials/The%20Algorithm%20Design%20Manual%20by%20Steven%20S.%20Skiena.pdf)
 - [📕 Introduction to algorithms (1990)](http://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)
 - [📕 Algorithm design (2005)](http://www.goodreads.com/book/show/145055.Algorithm_Design)
 - [📖 Algorithms etc by jeff erickson (2015)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [📖 Algorithm design: parallel and sequential](http://www.parallel-algorithms-book.com/)
 
-### Mindset
+## Mindset
 - [Tao te ching (6th century BC)📕](http://www.goodreads.com/book/show/67896.Tao_Te_Ching)
 - [Meditations (161) 📕](http://www.goodreads.com/book/show/30659.Meditations)
 - [📕 Siddhartha (1922)](http://www.goodreads.com/book/show/52036.Siddhartha)
@@ -375,7 +449,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The happiness advantage (2010)](http://www.goodreads.com/book/show/9484114-the-happiness-advantage)
 - [📕 Waking up: a guide to spirituality without religion (2014)](http://www.goodreads.com/book/show/18774981-waking-up)
 
-### AI
+## Artificial Intelligence
 - [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
 - [📕 Artificial intelligence a modern approach (1994)](http://www.goodreads.com/book/show/27543.Artificial_Intelligence)
 - [📕 Machine learning (1997)](http://www.cs.cmu.edu/~tom/mlbook.html)
@@ -389,10 +463,10 @@ The subdashes after the book may include notes and other useful material related
 	- [Code](https://github.com/nfmcclure/tensorflow_cookbook)
 - [📖 Deep learning ](http://www.deeplearningbook.org/)
 
-### Startups
+## Startups
 - [📕 Zero to one (2014)](http://www.goodreads.com/book/show/18050143-zero-to-one)
 
-### Economics
+## Economics
 - [📕 Capital (1867)](http://www.goodreads.com/book/show/325785.Capital_Vol_1)
 - [📕 Reading capital](http://davidharvey.org/reading-capital/)
 - [📖 Kapitalism 101](https://kapitalism101.wordpress.com/)
@@ -405,7 +479,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Capital in the twenty first century (2013)](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century)
 - [📕 Economics: the user's guide (2014)](Economics:%20The%20User's%20Guide)
 
-### Statistics
+## Statistics
 - [📕 The visual display of quantitative information (1983)](http://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information)
 - [📖 The elements of statistical learning  (2001)](http://statweb.stanford.edu/%7Etibs/ElemStatLearn/printings/ESLII_print10.pdf)
 - [📖 All of statistics (2004)](http://www.stat.cmu.edu/~larry/all-of-statistics/)
@@ -416,11 +490,11 @@ The subdashes after the book may include notes and other useful material related
 	- [Lectures](https://www.youtube.com/playlist?list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z)
 - [📖 Computational and inferential thinking (2017)](https://www.inferentialthinking.com/)
 
-### Finance
+## Finance
 - [📕 The richest man in babylon (1926)](http://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon)
 - [📕 Rich dad poor dad (1997)](http://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)
 
-### History
+## History
 - [📕 The souls of black folk (1903)](http://www.goodreads.com/book/show/318742.The_Souls_of_Black_Folk)
 - [📕 Gravity’s rainbow (1973)](http://www.goodreads.com/book/show/415.Gravity_s_Rainbow)
 - [📕 The gulag archipelago (1973)](http://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956)
@@ -446,14 +520,13 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Conquerors: how portugal forged the first global empire (2015)](http://www.goodreads.com/book/show/25255039-conquerors)
 - [📕 Homo deus: a brief history of tomorrow (2015)](http://www.goodreads.com/book/show/31138556-homo-deus)
 
-## Alternative history
+### Alternative history
 - [📕 The man in the high castle (1962)](http://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
 
-
-### Awareness 
+## Awareness 
 - [📕 Last chance to see](http://www.goodreads.com/book/show/8696.Last_Chance_to_See)
 
-### Computer science
+## Computer science
 - [📕 The new turing omnibus (1989)](http://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus)
 - [📕 Introduction to the theory of computation (1996)](http://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation)
 	- [Solutions](https://github.com/ryandougherty/Introduction-to-the-Theory-of-Computation-Solutions)
@@ -474,25 +547,24 @@ The subdashes after the book may include notes and other useful material related
 ## Node.js
 - [📖 Node up and running (2012)](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
 
-
 ### Web design
 - [📕 Don’t make me think (2000)](http://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 
-### Chemistry
+## Chemistry
 - [📕 Modern quantum chemistry: introduction to advanced electronic structure theory  (1982)](http://www.goodreads.com/book/show/237496.Modern_Quantum_Chemistry)
 - [📕 Tryptamines i have known and loved: the chemistry continues (1997)](http://www.goodreads.com/book/show/271921.Tihkal)
 - [📕 Drugs 2.0: the web revolution that's changing how the world gets high (2013)](http://www.goodreads.com/book/show/20613641-drugs-unlimited)
 
-### Visualisation
+## Visualisation
 - [📕 Envisioning information (1990)](http://www.goodreads.com/book/show/17745.Envisioning_Information)
 
-### Regex
+## Regular Expressions
 - [📕 Regular expressions cookbook (2009)](http://www.goodreads.com/book/show/6125777-regular-expressions-cookbook)
 
-### Compilers
+## Compilers
 - [📕 Advanced compiler design and implementation](http://www.goodreads.com/book/show/887908.Advanced_Compiler_Design_and_Implementation)
 
-### Science
+## Science
 - [📕 The structure of scientific revolutions (1962)](http://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions)
 - [📕 Cosmos (1980)](http://www.goodreads.com/book/show/55030.Cosmos)
 - [📕 A brief history of time (1988)](http://www.goodreads.com/book/show/3869.A_Brief_History_of_Time)
@@ -500,10 +572,10 @@ The subdashes after the book may include notes and other useful material related
 - [📕 A short history of nearly everything (2003)](http://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)
 - [📕 What if? (2014)](http://www.goodreads.com/book/show/21413662-what-if)
 
-### Graphics
+## Computer graphics
 - [📖 The book of shaders (2017)](%F0%9F%90%99)
 
-### Scifi
+## Scifi
 - [📕 The sirens of titan (1959)](http://www.goodreads.com/book/show/4982.The_Sirens_of_Titan)
 - [📕 Stranger in a strange land (1961)](http://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land)
 - [📕 Cat’s cradle (1963)](http://www.goodreads.com/book/show/135479.Cat_s_Cradle)
@@ -522,7 +594,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The dispossessed](http://www.goodreads.com/book/show/13651.The_Dispossessed)
 - [📕 Blindsight](http://www.goodreads.com/book/show/48484.Blindsight)
 
-### Scifi Series
+### SciFi Series
 - [📕 The baroque cycle](https://www.goodreads.com/series/49317-the-baroque-cycle)
 - [📕 Hyperion cantos](http://www.goodreads.com/series/40461-hyperion-cantos)
 - [📕 The dark tower](https://www.goodreads.com/series/40750-the-dark-tower)
@@ -531,47 +603,46 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Culture](http://www.goodreads.com/series/49118-culture)
 - [📕 Rama](http://www.goodreads.com/book/show/112537.Rendezvous_with_Rama)
 
-### Business
+## Business
 - [📕 The effective executive (1967)](http://www.goodreads.com/book/show/48019.The_Effective_Executive)
 - [📕 The hard things about hard things (2014)](http://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things)
 - [📕 Give and take: why helping others drives our success (2014)](http://www.goodreads.com/book/show/16158498-give-and-take)
 
-### Psychedelics
+## Psychedelics
 - [📕 The invisible landscape: mind, hallucinogens, and the i ching (1994)](http://www.goodreads.com/book/show/191375.The_Invisible_Landscape)
 - [📕 The cosmic serpent: dna and the origins of knowledge (1998)](http://www.goodreads.com/book/show/865516.The_Cosmic_Serpent)
 - [📕 Breaking open the head (2002)](http://www.goodreads.com/book/show/1815.Breaking_Open_the_Head)
 - [📕 Supernatural: meetings with the ancient teachers of mankind (2005)](http://www.goodreads.com/book/show/53324.Supernatural)
 
-### Strategy
-- ~[The art of war (500 BC)📕](http://www.goodreads.com/book/show/10534.The_Art_of_War)
+## Strategy
+- [The art of war (~ 500 BC)📕](http://www.goodreads.com/book/show/10534.The_Art_of_War)
 
-### Creativity
+## Creativity
 - [📕 Creativity, inc (2014)](http://www.goodreads.com/book/show/18077903-creativity-inc)
 
-### Management 
+## Management 
 - [📕 The mythical man-month (1975)](http://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)
 	- [Notes](https://github.com/andrewwoz/the-mythical-man-month-notes)
 - [📕 High output management (1983)](http://www.goodreads.com/book/show/324750.High_Output_Management)
 - [📕 The essential drucker](https://www.goodreads.com/book/show/48016.The_Essential_Drucker)
 
-### Future
+## Future
 - [📕 The second machine age (2014)](http://www.goodreads.com/book/show/23316526-the-second-machine-age)
 
-### Engineering
+## Engineering
 - [📕 Structures: or why things don't fall down (1978)](http://www.goodreads.com/book/show/245344.Structures)
 
-### Data Science
+## Data Science
 - [📕 Designing data intensive applications (2014)](http://shop.oreilly.com/product/0636920032175.do)
 
-### Databases
+## Databases
 - [📕 The data warehouse toolkit (1996)](http://www.goodreads.com/book/show/748203.The_Data_Warehouse_Toolkit)
 
-
-### Psychology
+## Psychology
 - [📕 Influence: the psychology of persuasion (1984)](http://www.goodreads.com/book/show/28815.Influence)
 - [📕 On intelligence (2004)](http://www.goodreads.com/book/show/27539.On_Intelligence)
 
-### Philosophy
+## Philosophy
 - [📕 Godel, escher, bach (1979)](http://www.goodreads.com/book/show/24113.G_del_Escher_Bach) - Explores fundamental concepts of mathematics, symmetry and intelligence and how they interlink.
 	- [Lecture notes](https://ocw.mit.edu/high-school/humanities-and-social-sciences/godel-escher-bach/lecture-notes/)
 	- [Course on the book](https://www.youtube.com/playlist?list=PL068ES-0ca9CSIp5OPGI5RXB3k5XgYRxF)
@@ -580,20 +651,10 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Finite and infinite games (1986)](http://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games)
 - [📕 The stuff of thought (2007)](http://www.goodreads.com/book/show/373969.The_Stuff_of_Thought)
 
-### Fantasy
-- [📕 The stand (1978)](http://www.goodreads.com/book/show/149267.The_Stand)
-- [📕 American gods (2001)](https://www.goodreads.com/book/show/30165203-american-gods)
-- [📕 The night circus (2011)](http://www.goodreads.com/book/show/9361589-the-night-circus)
-
-### Fantasy series
-- [📕 A song of ice and fire](http://www.goodreads.com/series/43790-a-song-of-ice-and-fire)
-- [📕 The stormlight archive](http://www.goodreads.com/series/49075-the-stormlight-archive)
-- [📕 The wheel of time](http://www.goodreads.com/series/41526-the-wheel-of-time)
-
-### Society
+## Society
 - [📕 The utopia of rules (2015)](http://www.goodreads.com/book/show/22245334-the-utopia-of-rules)
 
-### Neuroscience
+## Neuroscience
 - [📕 The man who mistook his wife for a hat (1985)](http://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales)
 - [📕 Descartes' error (1994)](http://www.goodreads.com/book/show/103867.Descartes_Error)
 - [📕 Principles of neural science (2000)](http://www.goodreads.com/book/show/826396.Principles_of_Neural_Science)
@@ -601,28 +662,19 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Synaptic self: how our brains become who we are  (2002)](http://www.goodreads.com/book/show/151132.Synaptic_Self)
 - [📕 Thinking, fast and slow (2011)](http://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
-### Investing
+## Investing
 - [📕 The intelligent investor (1949)](http://www.goodreads.com/book/show/106835.The_Intelligent_Investor)
 
-### Spirituality
+## Spirituality
 - [📕 Journey of souls: case studies of life between lives (1994)](http://www.goodreads.com/book/show/104979.Journey_of_Souls)
 
-### Game Development
+## Game Development
 - [📕 Tricks of the 3D game programming gurus-advanced 3D graphics and rasterisation (2003)](http://www.goodreads.com/book/show/2042298.Tricks_of_the_3D_Game_Programming_Gurus)
 
-### Art
+## Art
 - [📕 Drawing on the right side of the brain (1979)](http://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain)
 
-### Short Stories
-- [📕 Ficciones (1941-1956) 📕](http://www.goodreads.com/book/show/426504.Ficciones)
-- [📕 The little prince  (1943)](http://www.goodreads.com/book/show/157993.The_Little_Prince)
-- [📖 The last question  (1956)](http://www.goodreads.com/book/show/4808763-the-last-question)
-- [📕 Franz kafka: the complete stories (1971)](http://www.goodreads.com/book/show/22904.The_Complete_Stories)
-- [📕 Understand  (1991)](http://www.goodreads.com/book/show/7234685-understand)
-- [📕 Story of your life (1998)](http://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others)
-- [📖 The fable of the dragon-tyrant  (2005)](http://www.nickbostrom.com/fable/dragon.html)
-
-### Biography
+## Biographies
 - [📕 The autobiography of malcolm x (1965)](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X)
 - [📕 Napoleon bonaparte: an intimate biography (1971)](http://www.goodreads.com/book/show/22175392-napoleon-bonaparte-an-intimate-biography?rating=1)
 - [📕 The power broker (1974)](http://www.goodreads.com/book/show/1111.The_Power_Broker)
@@ -649,55 +701,54 @@ The subdashes after the book may include notes and other useful material related
 ### iOS
 - [iOS 10 programming fundamentals with swift  (2015) 📕](http://shop.oreilly.com/product/0636920055211.do)
 
-
-### Memoirs
+## Memoirs
 - [📕 Walden (1854)](http://www.goodreads.com/book/show/16902.Walden)
 - [📕 The world of yesterday (1942)](http://www.goodreads.com/book/show/629429.The_World_of_Yesterday)
 - [📕 On writing (2000)](http://www.goodreads.com/book/show/10569.On_Writing)
 - [📕 A thousand tiny failures: memoirs of a pickup artist  (2014)](http://www.goodreads.com/book/show/18711276-a-thousand-tiny-failures)
 
-### Security
+## Security
 - [📕 The database hacker’s handbook (2005)](http://www.goodreads.com/book/show/369905.The_Database_Hacker_s_Handbook) - Most detailed book available for attacking databases (covers basic through advanced topics).
 - [📕 A guide to kernel exploitation (2010)](http://www.goodreads.com/book/show/9224826-a-guide-to-kernel-exploitation) - Advanced exploitation of a range of operating systems.
 - [📕 The tangled web (2011)](http://www.goodreads.com/book/show/11553604-the-tangled-web) - Detailed look at the foundations of web protocols followed by a thorough examination of their weakness.
 - [📖 The web application hackers handbook (2014)](https://leaksource.files.wordpress.com/2014/08/the-web-application-hackers-handbook.pdf)
 - [📕 The browser hacker's handbook (2014)](http://www.goodreads.com/book/show/17891588-the-browser-hacker-s-handbook) - A detailed look into many web security topics.
   
-### Design
+## Design
 - [📕 The non-designer's design book (1994)](http://www.goodreads.com/book/show/41597.The_Non_Designer_s_Design_Book)
 - [📕 Design meets disability (2009)](http://www.goodreads.com/book/show/5982641-design-meets-disability)
 - [The design of everyday things 📕](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
 - [The best interface is no interface: the simple path to brilliant technology 📕](http://www.goodreads.com/book/show/22758923-the-best-interface-is-no-interface)
 
-### Graphic design
+## Graphic design
 - [📕 The elements of typographic style (1992)](http://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style)
 - [📕 Logo design love (2015)](http://www.goodreads.com/book/show/6728983-logo-design-love)
 
-### Politics
+## Politics
 - [📕 The road to serfdom (1944)](http://www.goodreads.com/book/show/299215.The_Road_to_Serfdom)
 - [📕 The anatomy of the state (1974)](http://www.goodreads.com/book/show/6613404-anatomy-of-the-state)
 - [📕 Understanding power: the indispensable chomsky (2002)](http://www.goodreads.com/book/show/194805.Understanding_Power)
 - [📕 The dictator's handbook: why bad behaviour is almost always good politics (2011)](http://www.goodreads.com/book/show/11612989-the-dictator-s-handbook)
 - [📕 The democracy project: a history, a crisis, a movement (2013)](http://www.goodreads.com/book/show/13330433-the-democracy-project)
 
-### Computer Systems
+## Computer Systems
 - [📕 Computer systems: a programmer’s perspective](http://www.goodreads.com/book/show/829182.Computer_Systems)
 
-### Evolution
+## Evolution
 - [📕 The selfish gene (1976)](http://www.goodreads.com/book/show/61535.The_Selfish_Gene)
 - [📕 Darwin's dangerous idea (1995)](http://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea)
 - [📕 Life ascending: the ten great inventions of evolution (2009)](http://www.goodreads.com/book/show/6429264-life-ascending)
 
-### Film Making
+## Film Making
 - [📕 On film making: an introduction to the craft of the director (2005)](http://www.goodreads.com/book/show/875419.On_Filmmaking)
 
-### Non Fiction
+## Non Fiction
 - [📕 Homage to catalonia (1938)](http://www.goodreads.com/book/show/9646.Homage_to_Catalonia)
 - [📕 Into thin air (1997)](http://www.goodreads.com/book/show/1898.Into_Thin_Air)
 - [📕 Damned lies and statistics (2001)](http://www.goodreads.com/book/show/51289.Damned_Lies_and_Statistics)
 - [📕 Coders at work: reflections on the craft of programming (2009)](http://www.goodreads.com/book/show/6713575-coders-at-work)
 
-### Crypto
+## Cryptography
 - [📕 The code book (1999)](http://www.goodreads.com/book/show/17994.The_Code_Book)
 - [📖 Engineering security (2014)](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
 - [📖 A graduate corse in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
