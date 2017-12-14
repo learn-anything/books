@@ -209,8 +209,8 @@ The subdashes after the book may include notes and other useful material related
 	- [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
 	- [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 - [📖 Eloquent javascript (2011)](http://eloquentjavascript.net/00_intro.html)
-- [Effective javascript: 68 specific ways to harness the power of javascript (2012) 📕](http://www.goodreads.com/book/show/13705402-effective-javascript)
-- [Secrets of the javascript ninja (2013) 📕](http://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
+- [📕 Effective javascript: 68 specific ways to harness the power of javascript (2012)](http://www.goodreads.com/book/show/13705402-effective-javascript)
+- [📕 Secrets of the javascript ninja (2013)](http://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
 - [📖 Learning javascript design patterns (2015)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [📖 The javascript way (2017)](https://leanpub.com/thejsway)
 - [📖 Exploring js](http://exploringjs.com/)
@@ -286,7 +286,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The plague (1947)](http://www.goodreads.com/book/show/11989.The_Plague)
 - [📕 No longer human (1948)](http://www.wikiwand.com/en/No_Longer_Human)
 - [📕 Nineteen eighty-four (1949)](https://www.goodreads.com/book/show/5470.1984)
-- [📕 1951: Bel: an essay on man in revolt (the )](http://www.goodreads.com/book/show/11990.The_Rebel)
+- [📕 Bel: An essay on man in revolt (1951)](http://www.goodreads.com/book/show/11990.The_Rebel)
 - [📕 East of eden (1952)](http://www.goodreads.com/book/show/4406.East_of_Eden)
 - [📕 Fahrenheit 451 (1953)](https://www.goodreads.com/book/show/17470674-fahrenheit-451)
 - [📕 The doors of perception  (1954)](http://www.goodreads.com/book/show/3188964-the-doors-of-perception) - Details Aldous Huxley’s own experiences when taking mescaline.
@@ -346,7 +346,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The wheel of time](http://www.goodreads.com/series/41526-the-wheel-of-time)
 
 ### Short Stories
-- [📕 Ficciones (1941-1956) 📕](http://www.goodreads.com/book/show/426504.Ficciones)
+- [📕 Ficciones (1941-1956)](http://www.goodreads.com/book/show/426504.Ficciones)
 - [📕 The little prince  (1943)](http://www.goodreads.com/book/show/157993.The_Little_Prince)
 - [📖 The last question  (1956)](http://www.goodreads.com/book/show/4808763-the-last-question)
 - [📕 Franz kafka: the complete stories (1971)](http://www.goodreads.com/book/show/22904.The_Complete_Stories)
@@ -424,8 +424,8 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Algorithm design: parallel and sequential](http://www.parallel-algorithms-book.com/)
 
 ## Mindset
-- [Tao te ching (6th century BC)📕](http://www.goodreads.com/book/show/67896.Tao_Te_Ching)
-- [Meditations (161) 📕](http://www.goodreads.com/book/show/30659.Meditations)
+- [📕 Tao te ching (6th century BC)](http://www.goodreads.com/book/show/67896.Tao_Te_Ching)
+- [📕 Meditations (161)](http://www.goodreads.com/book/show/30659.Meditations)
 - [📕 Siddhartha (1922)](http://www.goodreads.com/book/show/52036.Siddhartha)
 - [📕 How to win friends and influence people  (1936)](http://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 - [📕 Think and grow rich (1937)](http://www.goodreads.com/book/show/30186948-think-and-grow-rich)
@@ -477,7 +477,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Debt: first 5000 years (2011)](http://www.goodreads.com/book/show/6617037-debt)
 - [📕 How asia works: success and failure in the world’s most dynamic region (2013)](http://www.goodreads.com/book/show/16144575-how-asia-works)
 - [📕 Capital in the twenty first century (2013)](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century)
-- [📕 Economics: the user's guide (2014)](Economics:%20The%20User's%20Guide)
+- [📕 Economics: the user's guide (2014)](https://www.goodreads.com/book/show/20613671-economics)
 
 ## Statistics
 - [📕 The visual display of quantitative information (1983)](http://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information)
@@ -508,7 +508,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Two hundred years together (2002)](http://www.goodreads.com/book/show/28008677-200-years-together-two-hundred-years-together?rating=2)
 - [📕 Masters of doom (2003)](http://www.goodreads.com/book/show/222146.Masters_of_Doom)
 - [📕 Stalin: the court of the red tsar (2003)](http://www.goodreads.com/book/show/282108.Stalin)
-- [The Third Reich trilogy](https://www.goodreads.com/book/show/3761596-the-third-reich-at-war) (2003-2008)
+- [The Third Reich trilogy (2003-2008)](https://www.goodreads.com/book/show/3761596-the-third-reich-at-war) 
 	- [📕 The coming of the third reich](http://www.goodreads.com/book/show/319473.The_Coming_of_the_Third_Reich)
 	- [📕 The third reich in power](http://www.goodreads.com/book/show/536788.The_Third_Reich_in_Power)
 	- [📕 The third reich at war](http://www.goodreads.com/book/show/3761596-the-third-reich-at-war)
