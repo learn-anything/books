@@ -14,7 +14,7 @@
 ## Key
 The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. 
 
-Emojis after the book show if the book is free or not.
+Emojis befoes the books show if the book is free or not.
 
 |  Emoji |  Meaning |
 |---|---|
@@ -26,99 +26,99 @@ Emojis after the book show if the book is free or not.
 - [📕 The psychology of computer programming (1971)](http://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
 - [📕 The elements of programming style (1974)](http://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
 - [📕 Software reliability: principles and practices (1976)](http://www.goodreads.com/book/show/2383920.Software_Reliability)
-- [Structure and interpretation of computer programs (1979) 📖](http://sarabander.github.io/sicp/html/index.xhtml)
+- [📖 Structure and interpretation of computer programs (1979)](http://sarabander.github.io/sicp/html/index.xhtml)
 	- [SICP in Emacs Lisp](https://github.com/zv/SICP-guile)
-- [Mindstorms: children, computers, and powerful ideas (1980) 📖](http://mindstorms.media.mit.edu/)
-- [Communicating sequential processes (1985) 📖](http://www.usingcsp.com/cspbook.pdf)
-- [The art of the metaobject protocol (1991) 📕](http://www.goodreads.com/book/show/274495.The_Art_of_the_Metaobject_Protocol)
-- [Code: hidden language of computer hardware and software (1999) 📖](https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf)
-- [The pragmatic programmer (1999) 📕](http://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
-- [The practice of programming (1999) 📕](http://www.goodreads.com/book/show/1032758.The_Practice_of_Programming)
-- [Refactoring (1999) 📕](http://www.goodreads.com/book/show/44936.Refactoring)
-- [How to design programs (2001) 📕](http://www.goodreads.com/book/show/1119079.How_to_Design_Programs)
-- [Clean code (2008) 📕](http://www.goodreads.com/book/show/3735293-clean-code)
-- [Design concepts in programming (2008) 📕](http://www.goodreads.com/book/show/4412222-design-concepts-in-programming-languages)
-- [Apprenticeship patterns (2010) 📕](http://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
-- [The art of readable code: simple and practical techniques for writing better code (2011) 📕](http://www.goodreads.com/book/show/8677004-the-art-of-readable-code)
-- [Programming in the large with design patterns (2012) 📕](http://www.goodreads.com/book/show/16418148-programming-in-the-large-with-design-patterns)
-- [Programming languages: application and interpretation (2012) 📖](http://cs.brown.edu/courses/cs173/2012/book/book.pdf)
-- [Crafting interpreters (2012) 📖](http://www.craftinginterpreters.com/introduction.html)
-- [Composing programs 📖](http://www.composingprograms.com/)
+- [📖 Mindstorms: children, computers, and powerful ideas (1980)](http://mindstorms.media.mit.edu/)
+- [📖 Communicating sequential processes (1985)](http://www.usingcsp.com/cspbook.pdf)
+- [📕 The art of the metaobject protocol (1991)](http://www.goodreads.com/book/show/274495.The_Art_of_the_Metaobject_Protocol)
+- [📖 Code: hidden language of computer hardware and software (1999)](https://bobcarp.files.wordpress.com/2014/07/code-charles-petzold.pdf)
+- [📕 The pragmatic programmer (1999)](http://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+- [📕 The practice of programming (1999)](http://www.goodreads.com/book/show/1032758.The_Practice_of_Programming)
+- [📕 Refactoring (1999)](http://www.goodreads.com/book/show/44936.Refactoring)
+- [📕 How to design programs (2001)](http://www.goodreads.com/book/show/1119079.How_to_Design_Programs)
+- [📕 Clean code (2008)](http://www.goodreads.com/book/show/3735293-clean-code)
+- [📕 Design concepts in programming (2008)](http://www.goodreads.com/book/show/4412222-design-concepts-in-programming-languages)
+- [📕 Apprenticeship patterns (2010)](http://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
+- [📕 The art of readable code: simple and practical techniques for writing better code (2011)](http://www.goodreads.com/book/show/8677004-the-art-of-readable-code)
+- [📕 Programming in the large with design patterns (2012)](http://www.goodreads.com/book/show/16418148-programming-in-the-large-with-design-patterns)
+- [📖 Programming languages: application and interpretation (2012)](http://cs.brown.edu/courses/cs173/2012/book/book.pdf)
+- [📖 Crafting interpreters (2012)](http://www.craftinginterpreters.com/introduction.html)
+- [📖 Composing programs](http://www.composingprograms.com/)
 
 ### C language
-- [The c programming language (1975) 📕](http://www.goodreads.com/book/show/515601.The_C_Programming_Language)
-- [21st century C (2014) 📕](http://shop.oreilly.com/product/0636920033677.do)
+- [📕 The C programming language (1975)](http://www.goodreads.com/book/show/515601.The_C_Programming_Language)
+- [📕 21st century C (2014)](http://shop.oreilly.com/product/0636920033677.do)
 
 ### C++ language
-- [C++ primer (1975) 📕](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
-- [Beginning c++ through game programming (2004)📕](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
-- [C++ core guidelines (2017) 📖](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+- [📕 C++ primer (1989)](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
+- [📕 Beginning c++ through game programming (2004](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
+- [📖 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
 ### D language
-- [The d programming language (2010) 📕](http://amzn.to/1ZTDmqH)
-- [Programming in D (2015) 📖](http://ddili.org/ders/d.en/index.html)
+- [📕 The D programming language (2010)](http://amzn.to/1ZTDmqH)
+- [📖 Programming in D (2015)](http://ddili.org/ders/d.en/index.html)
 
 #### Go
-- [Network programming with Go (2012) 📖](https://jan.newmarch.name/go/)
-- [15: go in action 📖](https://github.com/miguellgt/books/blob/master/go/go-in-action.pdf)
-- [15: the go programming language 📕](http://www.goodreads.com/book/show/25080953-the-go-programming-language)
-	- [notes](https://github.com/namit/The-Go-Programming-Language)
-- [web app with go - anti text book 📖](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
-- [build web application with golang 📖](%F0%9F%90%99)
-- [14: the little go book 📖](http://openmymind.net/The-Little-Go-Book/)
+- [📖 Network programming with Go (2012)](https://jan.newmarch.name/go/)
+- [📖 The little go book (2014)](http://openmymind.net/The-Little-Go-Book/)
+- [📖 Go in action (2015)](https://github.com/miguellgt/books/blob/master/go/go-in-action.pdf)
+- [📕 The go programming language (2015)](http://www.goodreads.com/book/show/25080953-the-go-programming-language)
+	- [Notes](https://github.com/namit/The-Go-Programming-Language)
+- [📖 Web app with go - anti text book](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
+- [📖 Build web application with golang](%F0%9F%90%99)
 
 #### Perl
-- [16: modern perl 📖](http://modernperlbooks.com/books/modern_perl_2016/index.html)
+- [📖 Modern Perl (2016)](http://modernperlbooks.com/books/modern_perl_2016/index.html)
 
 #### Python
-- [1999: python essential reference 📕](https://www.goodreads.com/book/show/6666430-python-essential-reference)
-- [04: dive into python 3 📖](http://www.diveintopython3.net/)
-- [05: problem solving with algorithms and data structures using python 📖](http://interactivepython.org/runestone/static/pythonds/index.html)
-- [13: data structures and algorithms in python 📕](http://www.goodreads.com/book/show/13838796-data-structures-and-algorithms-in-python)
-- [14: test driven development with python 📕](http://www.goodreads.com/book/show/17912811-test-driven-web-development-with-python)
-- [15: effective python 📕](http://www.goodreads.com/book/show/23020812-effective-python)
-- [15: fluent python 📕](http://www.goodreads.com/book/show/22800567-fluent-python)
-- [17: inside the python virtual machine 📖](https://leanpub.com/insidethepythonvirtualmachine)
-- [automate the boring stuff with python 📖](https://automatetheboringstuff.com/)
+- [Python essential reference (1999) 📕](https://www.goodreads.com/book/show/6666430-python-essential-reference)
+- [📖 Dive into python 3 (2004)](http://www.diveintopython3.net/)
+- [📖 Problem solving with algorithms and data structures using python (2005)](http://interactivepython.org/runestone/static/pythonds/index.html)
+- [📕 Data structures and algorithms in python (2013)](http://www.goodreads.com/book/show/13838796-data-structures-and-algorithms-in-python)
+- [📕 Test driven development with python (2014)](http://www.goodreads.com/book/show/17912811-test-driven-web-development-with-python)
+- [📕 Effective python (2015)](http://www.goodreads.com/book/show/23020812-effective-python)
+- [📕 Fluent python (2015)](http://www.goodreads.com/book/show/22800567-fluent-python)
+- [📖 Inside the python virtual machine (2017)](https://leanpub.com/insidethepythonvirtualmachine)
+- [📖 Automate the boring stuff with python](https://automatetheboringstuff.com/)
 
 #### Java
-- [01: effective java 📕](http://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide)
-	- [code](https://github.com/marhan/effective-java-examples)
-	- [notes](https://github.com/jwongo/effectivejava)
-- [03: data structures and algorithms in java 📖](http://coltech.vnu.edu.vn/~sonpb/DSA/Data%20Structures%20and%20Algorithms%20in%20Java,%206th%20Edition,%202014.pdf)
-- [06: java concurrency in practice 📕](http://jcip.net/)
-- [08: introduction to programming in java: an interdisciplinary approach 📖](http://introcs.cs.princeton.edu/java/home/chapter1.pdf)
-- [14: java 8 in action 📕](http://www.goodreads.com/book/show/20534354-java-8-in-action)
-- [15: test-driven java development 📕](http://www.goodreads.com/book/show/26333479-test-driven-java-development)
+- [📕 Effective java (2001)](http://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide)
+	- [Code examples](https://github.com/marhan/effective-java-examples)
+	- [Notes](https://github.com/jwongo/effectivejava)
+- [📖 Data structures and algorithms in java (2003)](http://coltech.vnu.edu.vn/~sonpb/DSA/Data%20Structures%20and%20Algorithms%20in%20Java,%206th%20Edition,%202014.pdf)
+- [📕 Java concurrency in practice (2006)](http://jcip.net/)
+- [📖 Introduction to programming in java: an interdisciplinary approach (2008)](http://introcs.cs.princeton.edu/java/home/chapter1.pdf)
+- [📕 Java 8 in action (2014)](http://www.goodreads.com/book/show/20534354-java-8-in-action)
+- [📕 Test-driven java development (2015)](http://www.goodreads.com/book/show/26333479-test-driven-java-development)
 
 #### Rust
-- [rust by example 📖](http://rustbyexample.com/)
-- [the rust programming language 📖](https://doc.rust-lang.org/book/)
-- [the rustonomicon 📖](https://doc.rust-lang.org/nomicon/)
+- [📖 Rust by example](http://rustbyexample.com/)
+- [📖 The rust programming language](https://doc.rust-lang.org/book/)
+- [📖 The rustonomicon](https://doc.rust-lang.org/nomicon/)
 
 #### Scala
-- [14: functional programming in scala 📕](https://www.manning.com/books/functional-programming-in-scala)
+- [📕 Functional programming in scala (2014)](https://www.manning.com/books/functional-programming-in-scala)
 
 #### Lisp
-- [1974: the little schemer 📕](https://mitpress.mit.edu/books/little-schemer)
-- [1994: lisp in small pieces 📕](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
+- [📕 The little schemer (1974)](https://mitpress.mit.edu/books/little-schemer)
+- [📕 Lisp in small pieces (1994)](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
 
 #### Haskell
-- [14: write you a haskell 📖](http://dev.stephendiehl.com/fun/)
-	- [implementation](https://github.com/AlphaMarc/WYAH)
-- [16: programming in haskell  📕](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
+- [📖 Write you a haskell (2014)](http://dev.stephendiehl.com/fun/)
+	- [Implementation in code](https://github.com/AlphaMarc/WYAH)
+- [📕 Programming in haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
 
 #### Interviews
-- [08: cracking the coding interview  📕](http://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
-	- [solutions in swift](https://github.com/careercup/CtCI-6th-Edition-Swift)
-- [12: elements of programming interviews 📕](http://www.goodreads.com/book/show/16253895-elements-of-programming-interviews)
-	- [solutions in go](https://github.com/mykoweb/epi-go)
-	- [solutions in python](https://github.com/akshaykumar90/sparkling-water)
-	- [solutions in java](https://github.com/qtstc/Elements-of-Programming-Interviews-Java-Solution)
+- [📕 Cracking the coding interview (2008)](http://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
+	- [Solutions in swift](https://github.com/careercup/CtCI-6th-Edition-Swift)
+- [📕 Elements of programming interviews (2012)](http://www.goodreads.com/book/show/16253895-elements-of-programming-interviews)
+	- [Solutions in Go](https://github.com/mykoweb/epi-go)
+	- [Solutions in Python](https://github.com/akshaykumar90/sparkling-water)
+	- [Solutions in Java](https://github.com/qtstc/Elements-of-Programming-Interviews-Java-Solution)
 	- [solutions in c++](https://github.com/adnanaziz/epicode)
 
 #### Javascript
-- [you don’t know js  📖](https://github.com/getify/You-Dont-Know-JS)
+- [📖 You don’t know js ](https://github.com/getify/You-Dont-Know-JS)
 	- [up and going  📖](%F0%9F%90%99)
 	- [scope and closures 📖](%F0%9F%90%99)
 	- [this and object prototypes 📖](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch1.md)
