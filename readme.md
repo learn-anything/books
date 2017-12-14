@@ -580,85 +580,81 @@ Emojis befoes the books show if the book is free or not.
 - [📖 The last question  (1956)](http://www.goodreads.com/book/show/4808763-the-last-question)
 - [📕 Franz kafka: the complete stories (1971)](http://www.goodreads.com/book/show/22904.The_Complete_Stories)
 - [📕 Understand  (1991)](http://www.goodreads.com/book/show/7234685-understand)
-- [1998: story of your life 📕](http://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others)
-- [05: the fable of the dragon-tyrant  📖](http://www.nickbostrom.com/fable/dragon.html)
+- [📕 Story of your life (1998)](http://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others)
+- [📖 The fable of the dragon-tyrant  (2005)](http://www.nickbostrom.com/fable/dragon.html)
 
 ### Biography
-- [1965: the autobiography of malcolm x 📕](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X)
-- [1971: napoleon bonaparte: an intimate biography 📕](http://www.goodreads.com/book/show/22175392-napoleon-bonaparte-an-intimate-biography?rating=1)
-- [1974: the power broker 📕](http://www.goodreads.com/book/show/1111.The_Power_Broker)
-- [1984: surely you’re joking mr Feynman 📕](http://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_)
-- [1991: the man who knew infinity: a life of the genius ramanujan 📕](http://www.goodreads.com/book/show/106139.The_Man_Who_Knew_Infinity)
-- [1951: speak, memory 📕](http://www.goodreads.com/book/show/30594.Speak_Memory)
-- [01: madame curie: a biography 📕](http://www.goodreads.com/book/show/341166.Madame_Curie)
-- [04: benjamin franklin: an american life 📕](http://www.goodreads.com/book/show/10883.Benjamin_Franklin)
-- [05: team of rivals: the political genius of abraham lincoln 📕](http://www.goodreads.com/book/show/2199.Team_of_Rivals)
-- [07: einstein: his life and universe 📕](http://www.goodreads.com/book/show/10884.Einstein)
-- [09: the strangest man 📕](http://www.goodreads.com/book/show/6629359-the-strangest-man)
-- [11: steve jobs 📕](http://www.goodreads.com/book/show/11084145-steve-jobs)
-- [15: elon musk: tesla, spacex, and the quest for a fantastic future 📕](http://www.goodreads.com/book/show/22543496-elon-musk)
-- [17: trump revealed: the definitive biography of the 45th president 📕](http://www.goodreads.com/book/show/29906336-trump-revealed)
+- [📕 The autobiography of malcolm x (1965)](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X)
+- [📕 Napoleon bonaparte: an intimate biography (1971)](http://www.goodreads.com/book/show/22175392-napoleon-bonaparte-an-intimate-biography?rating=1)
+- [📕 The power broker (1974)](http://www.goodreads.com/book/show/1111.The_Power_Broker)
+- [📕 Surely you’re joking mr Feynman (1984)](http://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_)
+- [📕 The man who knew infinity: a life of the genius ramanujan (1991)](http://www.goodreads.com/book/show/106139.The_Man_Who_Knew_Infinity)
+- [📕 Speak, memory (1951)](http://www.goodreads.com/book/show/30594.Speak_Memory)
+- [📕 Madame curie: a biography (2001)](http://www.goodreads.com/book/show/341166.Madame_Curie)
+- [📕 Benjamin franklin: an american life (2004)](http://www.goodreads.com/book/show/10883.Benjamin_Franklin)
+- [📕 Team of rivals: the political genius of abraham lincoln (2005)](http://www.goodreads.com/book/show/2199.Team_of_Rivals)
+- [📕 Einstein: his life and universe (2007)](http://www.goodreads.com/book/show/10884.Einstein)
+- [📕 The strangest man (2009)](http://www.goodreads.com/book/show/6629359-the-strangest-man)
+- [📕 Steve jobs (2011)](http://www.goodreads.com/book/show/11084145-steve-jobs)
+- [📕 Elon musk: tesla, spacex, and the quest for a fantastic future (2015)](http://www.goodreads.com/book/show/22543496-elon-musk)
+- [📕 Trump revealed: the definitive biography of the 45th president (2017)](http://www.goodreads.com/book/show/29906336-trump-revealed)
 
 ### Operating Systems
-- [1983: operating system concepts 📕](http://www.goodreads.com/book/show/83833.Operating_System_Concepts)
-- [1992: modern operating systems 📕](http://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
-- [1992: an efficient implementation of fundamental operating system services 📖](http://valerieaurora.org/synthesis/SynthesisOS/ch1.html)  
+- [📕 Operating system concepts (1983)](http://www.goodreads.com/book/show/83833.Operating_System_Concepts)
+- [📕 Modern operating systems (1992)](http://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
+- [📖 An efficient implementation of fundamental operating system services (1992)](http://valerieaurora.org/synthesis/SynthesisOS/ch1.html)  
 
 ### Memoirs
-- [1854: walden 📕](http://www.goodreads.com/book/show/16902.Walden)
-- [1942: the world of yesterday 📕](http://www.goodreads.com/book/show/629429.The_World_of_Yesterday)
-- [00: on writing 📕](http://www.goodreads.com/book/show/10569.On_Writing)
-- [2014: a thousand tiny failures: memoirs of a pickup artist  📕](http://www.goodreads.com/book/show/18711276-a-thousand-tiny-failures)
+- [📕 Walden (1854)](http://www.goodreads.com/book/show/16902.Walden)
+- [📕 The world of yesterday (1942)](http://www.goodreads.com/book/show/629429.The_World_of_Yesterday)
+- [📕 On writing (2000)](http://www.goodreads.com/book/show/10569.On_Writing)
+- [📕 A thousand tiny failures: memoirs of a pickup artist  (2014)](http://www.goodreads.com/book/show/18711276-a-thousand-tiny-failures)
 
 ### Security
-- [05: the database hacker’s handbook 📕](http://www.goodreads.com/book/show/369905.The_Database_Hacker_s_Handbook)
-	- most detailed book available for attacking databases (covers basic through advanced topics)
-- [10: a guide to kernel exploitation 📕](http://www.goodreads.com/book/show/9224826-a-guide-to-kernel-exploitation)
-	- advanced exploitation of a range of operating systems
-- [11: the tangled web 📕](http://www.goodreads.com/book/show/11553604-the-tangled-web)
-	- detailed look at the foundations of web protocols followed by a thorough examination of their weakness
-- [14: the web application hackers handbook 📖](https://leaksource.files.wordpress.com/2014/08/the-web-application-hackers-handbook.pdf)
-- [14: the browser hacker's handbook 📕](http://www.goodreads.com/book/show/17891588-the-browser-hacker-s-handbook)
-	- a detailed look into many web security topics   
+- [📕 The database hacker’s handbook (2005)](http://www.goodreads.com/book/show/369905.The_Database_Hacker_s_Handbook) - Most detailed book available for attacking databases (covers basic through advanced topics).
+- [📕 A guide to kernel exploitation (2010)](http://www.goodreads.com/book/show/9224826-a-guide-to-kernel-exploitation) - Advanced exploitation of a range of operating systems.
+- [📕 The tangled web (2011)](http://www.goodreads.com/book/show/11553604-the-tangled-web) - Detailed look at the foundations of web protocols followed by a thorough examination of their weakness.
+- [📖 The web application hackers handbook (2014)](https://leaksource.files.wordpress.com/2014/08/the-web-application-hackers-handbook.pdf)
+- [📕 The browser hacker's handbook (2014)](http://www.goodreads.com/book/show/17891588-the-browser-hacker-s-handbook) - A detailed look into many web security topics.
   
 ### Design
-- [1994: the non-designer's design book 📕](http://www.goodreads.com/book/show/41597.The_Non_Designer_s_Design_Book)
-- [09: design meets disability 📕](http://www.goodreads.com/book/show/5982641-design-meets-disability)
-- [the design of everyday things 📕](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
-- [the best interface is no interface: the simple path to brilliant technology 📕](http://www.goodreads.com/book/show/22758923-the-best-interface-is-no-interface)
+- [📕 The non-designer's design book (1994)](http://www.goodreads.com/book/show/41597.The_Non_Designer_s_Design_Book)
+- [📕 Design meets disability (2009)](http://www.goodreads.com/book/show/5982641-design-meets-disability)
+- [The design of everyday things 📕](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
+- [The best interface is no interface: the simple path to brilliant technology 📕](http://www.goodreads.com/book/show/22758923-the-best-interface-is-no-interface)
 
 ### Graphic design
-- [1992: the elements of typographic style 📕](http://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style)
-- [15: logo design love 📕](http://www.goodreads.com/book/show/6728983-logo-design-love)
+- [📕 The elements of typographic style (1992)](http://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style)
+- [📕 Logo design love (2015)](http://www.goodreads.com/book/show/6728983-logo-design-love)
 
 ### Politics
-- [1944: the road to serfdom 📕](http://www.goodreads.com/book/show/299215.The_Road_to_Serfdom)
-- [1974: the anatomy of the state 📕](http://www.goodreads.com/book/show/6613404-anatomy-of-the-state)
-- [02: understanding power: the indispensable chomsky 📕](http://www.goodreads.com/book/show/194805.Understanding_Power)
-- [11: the dictator's handbook: why bad behaviour is almost always good politics 📕](http://www.goodreads.com/book/show/11612989-the-dictator-s-handbook)
-- [13: the democracy project: a history, a crisis, a movement 📕](http://www.goodreads.com/book/show/13330433-the-democracy-project)
+- [📕 The road to serfdom (1944)](http://www.goodreads.com/book/show/299215.The_Road_to_Serfdom)
+- [📕 The anatomy of the state (1974)](http://www.goodreads.com/book/show/6613404-anatomy-of-the-state)
+- [📕 Understanding power: the indispensable chomsky (2002)](http://www.goodreads.com/book/show/194805.Understanding_Power)
+- [📕 The dictator's handbook: why bad behaviour is almost always good politics (2011)](http://www.goodreads.com/book/show/11612989-the-dictator-s-handbook)
+- [📕 The democracy project: a history, a crisis, a movement (2013)](http://www.goodreads.com/book/show/13330433-the-democracy-project)
 
 ### Computer Systems
-- [computer systems: a programmer’s perspective 📕](http://www.goodreads.com/book/show/829182.Computer_Systems)
+- [📕 Computer systems: a programmer’s perspective](http://www.goodreads.com/book/show/829182.Computer_Systems)
 
 ### Evolution
-- [1976: the selfish gene 📕](http://www.goodreads.com/book/show/61535.The_Selfish_Gene)
-- [1995: darwin's dangerous idea 📕](http://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea)
-- [09: life ascending: the ten great inventions of evolution 📕](http://www.goodreads.com/book/show/6429264-life-ascending)
+- [📕 The selfish gene (1976)](http://www.goodreads.com/book/show/61535.The_Selfish_Gene)
+- [📕 Darwin's dangerous idea (1995)](http://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea)
+- [📕 Life ascending: the ten great inventions of evolution (2009)](http://www.goodreads.com/book/show/6429264-life-ascending)
 
 ### Film Making
-- [05: on film making: an introduction to the craft of the director 📕](http://www.goodreads.com/book/show/875419.On_Filmmaking)
+- [📕 On film making: an introduction to the craft of the director (2005)](http://www.goodreads.com/book/show/875419.On_Filmmaking)
 
 ### Non Fiction
-- [1938: homage to catalonia 📕](http://www.goodreads.com/book/show/9646.Homage_to_Catalonia)
-- [1997: into thin air 📕](http://www.goodreads.com/book/show/1898.Into_Thin_Air)
-- [01: damned lies and statistics 📕](http://www.goodreads.com/book/show/51289.Damned_Lies_and_Statistics)
-- [09: coders at work: reflections on the craft of programming 📕](http://www.goodreads.com/book/show/6713575-coders-at-work)
+- [📕 Homage to catalonia (1938)](http://www.goodreads.com/book/show/9646.Homage_to_Catalonia)
+- [📕 Into thin air (1997)](http://www.goodreads.com/book/show/1898.Into_Thin_Air)
+- [📕 Damned lies and statistics (2001)](http://www.goodreads.com/book/show/51289.Damned_Lies_and_Statistics)
+- [📕 Coders at work: reflections on the craft of programming (2009)](http://www.goodreads.com/book/show/6713575-coders-at-work)
 
 ### Crypto
-- [1999: the code book 📕](http://www.goodreads.com/book/show/17994.The_Code_Book)
-- [14: engineering security 📖](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
-- [16: a graduate corse in applied cryptography 📖](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
+- [📕 The code book (1999)](http://www.goodreads.com/book/show/17994.The_Code_Book)
+- [📖 Engineering security (2014)](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
+- [📖 A graduate corse in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
 
 ## Related
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books)
