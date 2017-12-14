@@ -9,17 +9,21 @@
 	- [C](#c-language)
 	- [C++](#c-1-language)
 	- [D language](#d-language)
+	- [Go](#go)
+	- [Perl](#perl)
 - [Related](#related)
 
 ## Key
 The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. 
 
-Emojis befoes the books show if the book is free or not.
+Emojis before the books show if the book is free or not.
 
 |  Emoji |  Meaning |
 |---|---|
 | 📖  |  Book is freely available |
 | 📕  |  Book not freely available |
+
+The subdashes after the book may include notes and other useful material related to the book.
 
 ## Programming 
 - [📕 The art of computer programming (1968-)](http://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
@@ -58,7 +62,7 @@ Emojis befoes the books show if the book is free or not.
 - [📕 The D programming language (2010)](http://amzn.to/1ZTDmqH)
 - [📖 Programming in D (2015)](http://ddili.org/ders/d.en/index.html)
 
-#### Go
+### Go
 - [📖 Network programming with Go (2012)](https://jan.newmarch.name/go/)
 - [📖 The little go book (2014)](http://openmymind.net/The-Little-Go-Book/)
 - [📖 Go in action (2015)](https://github.com/miguellgt/books/blob/master/go/go-in-action.pdf)
