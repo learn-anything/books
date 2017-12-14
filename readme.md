@@ -24,8 +24,8 @@ Emojis after the book show if the book is free or not.
 ## Programming 
 - [The art of computer programming (1968-) 📕](http://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
 - [The psychology of computer programming (1971) 📕](http://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
-- [1974: the elements of programming style 📕](http://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
-- [1976: software reliability: principles and practices 📕](http://www.goodreads.com/book/show/2383920.Software_Reliability)
+- [The elements of programming style (1974) 📕](http://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
+- [Software reliability: principles and practices (1976) 📕](http://www.goodreads.com/book/show/2383920.Software_Reliability)
 - [1979: structure and interpretation of computer programs 📖](http://sarabander.github.io/sicp/html/index.xhtml)
 	- [SICP in Emacs Lisp](https://github.com/zv/SICP-guile)
 - [1980: mindstorms: children, computers, and powerful ideas 📖](http://mindstorms.media.mit.edu/)
