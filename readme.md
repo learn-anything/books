@@ -615,7 +615,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Supernatural: meetings with the ancient teachers of mankind (2005)](http://www.goodreads.com/book/show/53324.Supernatural)
 
 ## Strategy
-- [The art of war (~ 500 BC)📕](http://www.goodreads.com/book/show/10534.The_Art_of_War)
+- [📕 The art of war (~ 500 BC)](http://www.goodreads.com/book/show/10534.The_Art_of_War)
 
 ## Creativity
 - [📕 Creativity, inc (2014)](http://www.goodreads.com/book/show/18077903-creativity-inc)
@@ -717,8 +717,8 @@ The subdashes after the book may include notes and other useful material related
 ## Design
 - [📕 The non-designer's design book (1994)](http://www.goodreads.com/book/show/41597.The_Non_Designer_s_Design_Book)
 - [📕 Design meets disability (2009)](http://www.goodreads.com/book/show/5982641-design-meets-disability)
-- [The design of everyday things 📕](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
-- [The best interface is no interface: the simple path to brilliant technology 📕](http://www.goodreads.com/book/show/22758923-the-best-interface-is-no-interface)
+- [📕 The design of everyday things](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
+- [📕 The best interface is no interface: the simple path to brilliant technology](http://www.goodreads.com/book/show/22758923-the-best-interface-is-no-interface)
 
 ## Graphic design
 - [📕 The elements of typographic style (1992)](http://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style)
