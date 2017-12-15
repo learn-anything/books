@@ -7,7 +7,7 @@ Ensure your pull request adheres to the following guidelines:
 	3. Add appropriate emoji. If the book is free add 📖 before the name. If it is not, add 📕.
 - If you want to add a link to notes for the book, add it below the book as subdashed point.
 - Please add a short description of the book after the book name where it is appropriate.
-- You can also add other related websites and repositories in the end.
 - Check your spelling and grammar.
+- You can also add other related websites and repositories in the end.
 
 Thank you for your [suggestions](https://github.com/learn-anything/books/edit/master/readme.md)! 💜
