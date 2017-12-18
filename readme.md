@@ -12,7 +12,7 @@
 	- [D](#d-language)
 	- [Go](#go)
 	- [Perl](#perl)
-	- [Python](#python)	
+	- [Python](#python)
 	- [Java](#java)
 	- [Rust](#rust)
 	- [Scala](#scala)
@@ -36,7 +36,7 @@
 	- [Adventure](#adventure)
 	- [Thriller](#thriller)
 	- [Fantasy](#fantasy)
-		- [Fantasy series](#fantasy-series)	
+		- [Fantasy series](#fantasy-series)
 	- [Short Stories](#short-stories)
 - [Physics](#physics)
 - [Computer networking](#computer-networking)
@@ -100,7 +100,7 @@
 - [Related](#related)
 
 ## Key
-The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. 
+The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest.
 
 Emojis before the books show if the book is free or not.
 
@@ -111,7 +111,7 @@ Emojis before the books show if the book is free or not.
 
 The subdashes after the book may include notes and other useful material related to the book.
 
-## Programming 
+## Programming
 - [📕 The art of computer programming (1968-)](http://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
 - [📕 The psychology of computer programming (1971)](http://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
 - [📕 The elements of programming style (1974)](http://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
@@ -137,16 +137,16 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Programming languages: application and interpretation (2012)](http://cs.brown.edu/courses/cs173/2012/book/book.pdf)
 - [📖 Crafting interpreters (2012)](http://www.craftinginterpreters.com/introduction.html)
 
-### C 
+### C
 - [📕 The C programming language (1975)](http://www.goodreads.com/book/show/515601.The_C_Programming_Language)
 - [📕 21st century C (2014)](http://shop.oreilly.com/product/0636920033677.do)
 
-### C++ 
+### C++
 - [📕 C++ primer (1989)](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
 - [📕 Beginning c++ through game programming (2004](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 - [📖 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
-### D 
+### D
 - [📕 The D programming language (2010)](http://amzn.to/1ZTDmqH)
 - [📖 Programming in D (2015)](http://ddili.org/ders/d.en/index.html)
 
@@ -200,7 +200,7 @@ The subdashes after the book may include notes and other useful material related
 	- [Implementation in code](https://github.com/AlphaMarc/WYAH)
 - [📕 Programming in haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
 
-### Javascript 
+### Javascript
 - [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS)
 	- [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going)
 	- [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -373,7 +373,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Computer networking: a top-down approach (2000)](http://www.goodreads.com/book/show/83847.Computer_Networking)
 - [📕 Unix network programming, volume 1: the sockets networking api (2003)](http://www.goodreads.com/book/show/239240.UNIX_Network_Programming_Volume_1)
 - [📕 TCP/IP guide (2005)](http://www.goodreads.com/book/show/505564.The_TCP_IP_Guide)
-- [📖 High performance browser networking (2013)](https://hpbn.co/)  
+- [📖 High performance browser networking (2013)](https://hpbn.co/)
 - [📖 Openssl cookbook (2015)](https://www.feistyduck.com/library/openssl%2dcookbook/online/)
 - [📖 Beej's guide to network programming (2016)](http://beej.us/guide/bgnet/)
 - [📖 An introduction to computer networks](http://intronetworks.cs.luc.edu/current/html/)
@@ -508,7 +508,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Two hundred years together (2002)](http://www.goodreads.com/book/show/28008677-200-years-together-two-hundred-years-together?rating=2)
 - [📕 Masters of doom (2003)](http://www.goodreads.com/book/show/222146.Masters_of_Doom)
 - [📕 Stalin: the court of the red tsar (2003)](http://www.goodreads.com/book/show/282108.Stalin)
-- [The Third Reich trilogy (2003-2008)](https://www.goodreads.com/book/show/3761596-the-third-reich-at-war) 
+- [The Third Reich trilogy (2003-2008)](https://www.goodreads.com/book/show/3761596-the-third-reich-at-war)
 	- [📕 The coming of the third reich](http://www.goodreads.com/book/show/319473.The_Coming_of_the_Third_Reich)
 	- [📕 The third reich in power](http://www.goodreads.com/book/show/536788.The_Third_Reich_in_Power)
 	- [📕 The third reich at war](http://www.goodreads.com/book/show/3761596-the-third-reich-at-war)
@@ -523,7 +523,7 @@ The subdashes after the book may include notes and other useful material related
 ### Alternative history
 - [📕 The man in the high castle (1962)](http://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
 
-## Awareness 
+## Awareness
 - [📕 Last chance to see](http://www.goodreads.com/book/show/8696.Last_Chance_to_See)
 
 ## Computer science
@@ -620,7 +620,7 @@ The subdashes after the book may include notes and other useful material related
 ## Creativity
 - [📕 Creativity, inc (2014)](http://www.goodreads.com/book/show/18077903-creativity-inc)
 
-## Management 
+## Management
 - [📕 The mythical man-month (1975)](http://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)
 	- [Notes](https://github.com/andrewwoz/the-mythical-man-month-notes)
 - [📕 High output management (1983)](http://www.goodreads.com/book/show/324750.High_Output_Management)
@@ -693,13 +693,13 @@ The subdashes after the book may include notes and other useful material related
 ## Operating Systems
 - [📕 Operating system concepts (1983)](http://www.goodreads.com/book/show/83833.Operating_System_Concepts)
 - [📕 Modern operating systems (1992)](http://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
-- [📖 An efficient implementation of fundamental operating system services (1992)](http://valerieaurora.org/synthesis/SynthesisOS/ch1.html)  
+- [📖 An efficient implementation of fundamental operating system services (1992)](http://valerieaurora.org/synthesis/SynthesisOS/ch1.html)
 
 ### Linux
 - [📕 How linux works (2014)](http://www.goodreads.com/book/show/514432.How_Linux_Works)
 
 ### iOS
-- [iOS 10 programming fundamentals with swift  (2015) 📕](http://shop.oreilly.com/product/0636920055211.do)
+- [📕 iOS 10 programming fundamentals with swift  (2015)](http://shop.oreilly.com/product/0636920055211.do)
 
 ## Memoirs
 - [📕 Walden (1854)](http://www.goodreads.com/book/show/16902.Walden)
@@ -713,7 +713,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The tangled web (2011)](http://www.goodreads.com/book/show/11553604-the-tangled-web) - Detailed look at the foundations of web protocols followed by a thorough examination of their weakness.
 - [📖 The web application hackers handbook (2014)](https://leaksource.files.wordpress.com/2014/08/the-web-application-hackers-handbook.pdf)
 - [📕 The browser hacker's handbook (2014)](http://www.goodreads.com/book/show/17891588-the-browser-hacker-s-handbook) - A detailed look into many web security topics.
-  
+
 ## Design
 - [📕 The non-designer's design book (1994)](http://www.goodreads.com/book/show/41597.The_Non_Designer_s_Design_Book)
 - [📕 Design meets disability (2009)](http://www.goodreads.com/book/show/5982641-design-meets-disability)
