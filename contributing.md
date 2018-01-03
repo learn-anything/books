@@ -1,7 +1,8 @@
 # Contribution Guidelines
 Ensure your pull request adheres to the following guidelines:
 - Search included books before adding a new one, as yours may be a duplicate.
-- Use the following format: `<emoji> [Book name](link) - Description.`
+- Use the following format: `<emoji> [Name](link) (Year) - Description.`
+- Adding the Year is optional but is advised.
 - If the book is free, link to the free book and add 📖 emoji.
 - If the book is not free, link to the book on [Goodreads.com](https://www.goodreads.com/) and add 📕 emoji.
 - The book should be put into its appropriate category (Pick the one you think is closest if you are not sure).
