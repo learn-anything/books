@@ -414,7 +414,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
 
 ## Fitness
-- [📕 Starting strength: basic barbell training (2005)](http://www.goodreads.com/bookshow/2098799.Starting_Strength)
+- [📕 Starting strength: basic barbell training (2005)](https://www.goodreads.com/book/show/2098799.Starting_Strength)
 
 ## Algorithms
 - [📖 Algorithm design manual (1987)](https://github.com/haseebr/competitive-programming/blob/master/Materials/The%20Algorithm%20Design%20Manual%20by%20Steven%20S.%20Skiena.pdf)
