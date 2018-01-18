@@ -763,6 +763,9 @@ The subdashes after the book may include notes and other useful material related
 - [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
 
+## More lists 📝
+For more lists like this, see [here](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
