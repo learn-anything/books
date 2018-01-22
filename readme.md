@@ -185,6 +185,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Rust by example](http://rustbyexample.com/)
 - [📖 The rust programming language](https://doc.rust-lang.org/book/)
 - [📖 The rustonomicon](https://doc.rust-lang.org/nomicon/)
+- [📖 Discovery](https://japaric.github.io/discovery/README.html#Scope) - Discover the world of microcontrollers through Rust.
 
 ### Scala
 - [📕 Functional programming in scala (2014)](https://www.manning.com/books/functional-programming-in-scala)
