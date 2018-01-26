@@ -1,8 +1,18 @@
 # Interesting Books [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
+The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest.
+
+Emojis before the books show if the book is free or not.
+
+|  Emoji |  Meaning |
+|---|---|
+| 📖  |  Book is freely available |
+| 📕  |  Book not freely available |
+
+The subdashes after the book may include notes and other useful material related to the book.
+
 ## Contents
-- [Key](#key)
 - [Programming](#programming)
 - [Programming languages](#programming-languages)
 	- [C](#c)
@@ -96,18 +106,6 @@
 - [Non Fiction](#non-fiction)
 - [Cryptography](#cryptography)
 - [Related](#related)
-
-## Key
-The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest.
-
-Emojis before the books show if the book is free or not.
-
-|  Emoji |  Meaning |
-|---|---|
-| 📖  |  Book is freely available |
-| 📕  |  Book not freely available |
-
-The subdashes after the book may include notes and other useful material related to the book.
 
 ## Programming
 - [📕 The art of computer programming (1968-)](http://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
