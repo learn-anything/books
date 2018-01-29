@@ -230,7 +230,7 @@ The subdashes after the book may include notes and other useful material related
 	- [Go implementation](https://github.com/nathany/go-poodr)
 - [📕 Confident ruby (2013)](http://www.goodreads.com/book/show/15847933-confident-ruby)
 
-## Purescript
+### Purescript
 - [📖 Purescript book (2017)](https://github.com/paf31/purescript-book)
 
 ### Smalltalk
