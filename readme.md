@@ -31,6 +31,7 @@ The subdashes after the book may include notes and other useful material related
 	- [Typescript](#typescript)
 	- [Swift](#swift)
 	- [Ruby](#ruby)
+	- [Purescript](#purescript)
 	- [Smalltalk](#smalltalk)
 	- [Assembly](#assembly)
 - [Programming language design](#programming-language-design)
@@ -228,6 +229,9 @@ The subdashes after the book may include notes and other useful material related
 	- [Notes](https://github.com/jordanpoulton/practical_object_oriented_design_in_ruby)
 	- [Go implementation](https://github.com/nathany/go-poodr)
 - [📕 Confident ruby (2013)](http://www.goodreads.com/book/show/15847933-confident-ruby)
+
+## Purescript
+- [📖 Purescript book (2017)](https://github.com/paf31/purescript-book)
 
 ### Smalltalk
 - [📕 Smalltalk best practice patterns (1997)](http://www.goodreads.com/book/show/781561.Smalltalk_Best_Practice_Patterns)
