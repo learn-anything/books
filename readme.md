@@ -11,7 +11,7 @@ Emojis before the books show if the book is free or not.
 | 📖  |  Book is freely available |
 | 📕  |  Book not freely available |
 
-The subdashes after the book may include notes and other useful material related to the book.
+The subdashes after the book may include notes and other useful material related to the book. If you find a free version of the paid book, please swap the link.
 
 ## Contents
 - [Programming](#programming)
