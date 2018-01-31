@@ -441,7 +441,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The inner game of tennis (1974)](http://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
 - [📕 The 7 habits of highly effective people (1989)](http://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [📕 Peace is every step (1990)](http://www.goodreads.com/book/show/14572.Peace_Is_Every_Step)
-- [📕 Mindfulness in plain english  (1992)](http://www.goodreads.com/book/show/64369.Mindfulness_in_Plain_English)
+- [📖 Mindfulness in plain english (1992)](http://misc.equanimity.info/downloads/mindfulness_in_plain_english.pdf)
 - [📕 Mastery: the keys to success and long term fulfilment (1992)](http://www.goodreads.com/book/show/81940.Mastery)
 - [📕 Emptiness dancing (2004)](http://www.goodreads.com/book/show/190055.Emptiness_Dancing)
 - [📕 Eating animals (2009)](http://www.goodreads.com/book/show/6604712-eating-animals)
@@ -450,6 +450,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 A mind for numbers: how to excel at math and science  (2014)](http://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
 - [📕 The happiness advantage (2010)](http://www.goodreads.com/book/show/9484114-the-happiness-advantage)
 - [📕 Waking up: a guide to spirituality without religion (2014)](http://www.goodreads.com/book/show/18774981-waking-up)
+- [📖 Concentration and meditation](http://krishnamurti.abundanthope.org/index_htm_files/Concentration-and-Meditation.pdf)
 
 ## Artificial Intelligence
 - [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
