@@ -444,6 +444,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Mindfulness in plain english (1992)](http://misc.equanimity.info/downloads/mindfulness_in_plain_english.pdf)
 - [📕 Mastery: the keys to success and long term fulfilment (1992)](http://www.goodreads.com/book/show/81940.Mastery)
 - [📕 Emptiness dancing (2004)](http://www.goodreads.com/book/show/190055.Emptiness_Dancing)
+- [📕 Mindfulness, Bliss, and Beyond: A Meditator's Handbook (2006)](https://www.goodreads.com/book/show/206625.Mindfulness_Bliss_and_Beyond)
 - [📕 Eating animals (2009)](http://www.goodreads.com/book/show/6604712-eating-animals)
 - [📕 Models  (2011)](http://www.goodreads.com/book/show/12633800-models)
 - [📕 Mastery (2012)](http://www.goodreads.com/book/show/13589182-mastery)
