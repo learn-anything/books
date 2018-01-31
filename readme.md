@@ -55,7 +55,7 @@ The subdashes after the book may include notes and other useful material related
 - [Fitness](#fitness)
 - [Algorithms](#algorithms)
 - [Mindset](#mindset)
-- [Artificial Intelligence](#artificial-intelligence)
+- [Machine learning](#machine-learning)
 - [Startups](#startups)
 - [Economics](#economics)
 - [Statistics](#statistics)
@@ -454,7 +454,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Waking up: a guide to spirituality without religion (2014)](http://www.goodreads.com/book/show/18774981-waking-up)
 - [📖 Concentration and meditation](http://krishnamurti.abundanthope.org/index_htm_files/Concentration-and-Meditation.pdf)
 
-## Artificial Intelligence
+## Machine learning
 - [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
 - [📕 Artificial intelligence a modern approach (1994)](http://www.goodreads.com/book/show/27543.Artificial_Intelligence)
 - [📕 Machine learning (1997)](http://www.cs.cmu.edu/~tom/mlbook.html)
@@ -463,10 +463,11 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Machine learning: a probabilistic perspective (2012)](http://www.goodreads.com/book/show/15857489-machine-learning)
 - [📕 Superintelligence: paths, dangers, strategies (2014)](http://www.goodreads.com/book/show/20527133-superintelligence)
 - [📖 Understanding machine learning: from theory to algorithms (2014)](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+- [📖 Neural Networks and Deep Learning (2015)](http://neuralnetworksanddeeplearning.com/index.html)
 - [📕 Reinforcement learning: an introduction (2016)](http://www.goodreads.com/book/show/739791.Reinforcement_Learning)
 - [📕 Tensorflow machine learning cookbook (2017)](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook)
 	- [Code](https://github.com/nfmcclure/tensorflow_cookbook)
-- [📖 Deep learning ](http://www.deeplearningbook.org/)
+- [📖 Deep learning](http://www.deeplearningbook.org/)
 
 ## Startups
 - [📕 Zero to one (2014)](http://www.goodreads.com/book/show/18050143-zero-to-one)
