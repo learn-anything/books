@@ -401,6 +401,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Visual complex analysis (1997)](http://www.goodreads.com/book/show/149800.Visual_Complex_Analysis)
 - [📕 Geometry and the imagination (1999)](http://www.goodreads.com/book/show/719289.Geometry_and_the_Imagination)
 - [📕 A first course in linear algebra (2004)](http://linear.ups.edu/)
+- [📖 The haskell road to logic, math and programming (2004)](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 - [📕 The art of problem solving (2006)](http://www.goodreads.com/book/show/2872282-the-art-of-problem-solving-volume-1)
 - [📖 Logicomix (2008)](https://www.scribd.com/document/98921232/Bertrand-Russell-Logicomix)
 - [📕 The princeton companion to mathematics (2008)](http://www.goodreads.com/book/show/1471873.The_Princeton_Companion_to_Mathematics)
