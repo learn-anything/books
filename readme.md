@@ -570,6 +570,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Regular expressions cookbook (2009)](http://www.goodreads.com/book/show/6125777-regular-expressions-cookbook)
 
 ## Compilers
+- [📕 Compilers: Principles, Techniques, and Tools (1986)](https://www.goodreads.com/book/show/703102.Compilers)
 - [📕 Advanced compiler design and implementation](http://www.goodreads.com/book/show/887908.Advanced_Compiler_Design_and_Implementation)
 
 ## Science
