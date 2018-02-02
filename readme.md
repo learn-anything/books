@@ -393,6 +393,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 An introduction to commutative algebra (1969)](http://wstein.org/edu/2010/581b/books/atiyah-macdonald-introduction_to_commutative_algebra.pdf)
 - [📕 Mathematics made difficult (1972)](http://www.goodreads.com/book/show/3693042-mathematics-made-difficult)
 - [📖 A course in arithmetic (1973)](https://www.math.purdue.edu/~lipman/MA598/Serre-Course%20in%20Arithmetic.pdf)
+- [📖 Introductory functional analysis with applications (1978)](http://www-personal.acfr.usyd.edu.au/spns/cdm/resources/Kreyszig%20-%20Introductory%20Functional%20Analysis%20with%20Applications.pdf)
 - [📕 A book of abstract algebra (1982)](http://www.goodreads.com/book/show/8295305-a-book-of-abstract-algebra)
 - [📕 To mock a mockingbird (1985)](http://www.goodreads.com/book/show/194769.To_Mock_a_Mockingbird_and_Other_Logic_Puzzles)
 - [📖 Proofs and types (1989)](http://www.paultaylor.eu/stable/prot.pdf)
