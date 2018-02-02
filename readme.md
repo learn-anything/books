@@ -421,7 +421,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Starting strength: basic barbell training (2005)](https://www.goodreads.com/book/show/2098799.Starting_Strength)
 
 ## Algorithms
-- [📖 Algorithm design manual (1987)](https://github.com/haseebr/competitive-programming/blob/master/Materials/The%20Algorithm%20Design%20Manual%20by%20Steven%20S.%20Skiena.pdf)
+- [📖 Algorithm design manual (1987)](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf)
 - [📕 Introduction to algorithms (1990)](http://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)
 - [📕 Algorithm design (2005)](http://www.goodreads.com/book/show/145055.Algorithm_Design)
 - [📖 Algorithms etc by jeff erickson (2015)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
