@@ -548,6 +548,9 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Software foundations (2011)](https://softwarefoundations.cis.upenn.edu/current/index.html)
 - [📖 Introduction to data compression (2012)](https://github.com/gabrieldiego/tg/blob/master/ref/Introduction%20to%20Data%20Compression%20(4th%20Edition).pdf)
 
+## macOS
+- [📕 Mac OS X and IOS Internals: To the Apple's Core, Volume 1 User Mode (2015)](https://www.goodreads.com/book/show/24730644-mac-os-x-and-ios-internals)
+
 ## Web Development
 ### React.js
 - [📖 The Road to learn React](https://roadtoreact.com/)
