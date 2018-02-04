@@ -471,6 +471,9 @@ The subdashes after the book may include notes and other useful material related
 	- [Code](https://github.com/nfmcclure/tensorflow_cookbook)
 - [📖 Deep learning](http://www.deeplearningbook.org/)
 
+## Reinforcement learning
+- [📖 Reinforcement Learning: An Introduction (2018)](http://www.incompleteideas.net/book/bookdraft2018jan1.pdf)
+
 ## Startups
 - [📕 Zero to one (2014)](http://www.goodreads.com/book/show/18050143-zero-to-one)
 
