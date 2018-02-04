@@ -466,7 +466,6 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Superintelligence: paths, dangers, strategies (2014)](http://www.goodreads.com/book/show/20527133-superintelligence)
 - [📖 Understanding machine learning: from theory to algorithms (2014)](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 - [📖 Neural Networks and Deep Learning (2015)](http://neuralnetworksanddeeplearning.com/index.html)
-- [📕 Reinforcement learning: an introduction (2016)](http://www.goodreads.com/book/show/739791.Reinforcement_Learning)
 - [📕 Tensorflow machine learning cookbook (2017)](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook)
 	- [Code](https://github.com/nfmcclure/tensorflow_cookbook)
 - [📖 Deep learning](http://www.deeplearningbook.org/)
