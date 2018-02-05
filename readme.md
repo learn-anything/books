@@ -382,8 +382,8 @@ The subdashes after the book may include notes and other useful material related
 - [📖 An introduction to computer networks](http://intronetworks.cs.luc.edu/current/html/)
 
 ## Nutrition
-- [📕 How not to die (2015)](http://www.goodreads.com/book/show/25663961-how-not-to-die)
 - [📕 The Poor, Misunderstood Calorie: Calories Proper (2012)](https://www.goodreads.com/book/show/15874542-the-poor-misunderstood-calorie)
+- [📕 How not to die (2015)](http://www.goodreads.com/book/show/25663961-how-not-to-die)
 
 ## Math
 - [📖 A mathematician's apology (1940)](https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf)
