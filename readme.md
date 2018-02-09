@@ -255,7 +255,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 
 ## Vim
-- [📕 Practical vim (2012)](http://www.goodreads.com/book/show/13607232-practical-vim)
+- [📕 Practical vim: Edit Text at the Speed of Thought (2012)](http://www.goodreads.com/book/show/13607232-practical-vim)
 	- [Notes](https://github.com/gitig/Practical-Vim-Notes)
 - [📖 Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 - [📖 Vim user manual](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html) - Must read for anyone new to vim.
