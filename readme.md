@@ -1,7 +1,6 @@
 # Interesting Books [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 *Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
 
-## Key
 The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest.
 
 Emojis before the books show if the book is free or not.
@@ -13,7 +12,6 @@ Emojis before the books show if the book is free or not.
 
 The subdashes after the book may include notes and other useful material related to the book. If you find a free version of the paid book, please swap the link.
 
-## Contents
 - [Programming](#programming)
 - [Programming languages](#programming-languages)
 	- [C](#c)
@@ -782,6 +780,9 @@ The subdashes after the book may include notes and other useful material related
 - [Book notes](https://github.com/mgp/book-notes)
 - [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
+
+## Contributing
+See [contribution guidelines](contributing.md/#contribution-guidelines).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).

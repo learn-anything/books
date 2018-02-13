@@ -14,4 +14,4 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - You can also add other related websites and repositories in the end.
 
-Thank you for [your contributions](../../edit/master/readme.md)! 💜
+Thank you for [your suggestions](../../edit/master/readme.md)! 💜
