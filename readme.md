@@ -1,4 +1,4 @@
-# Interesting Books [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting Books [![Lists](https://img.shields.io/badge/More%20Lists-📒-blue.svg)](https://github.com/learn-anything/curated-lists#curated-lists-) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 *Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
 
 The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest.
@@ -785,7 +785,7 @@ The subdashes after the book may include notes and other useful material related
 See [contribution guidelines](contributing.md/#contribution-guidelines).
 
 ## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
+For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists-).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
