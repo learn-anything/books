@@ -402,6 +402,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Linear algebra done right (1995)](http://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right)
 - [📕 Visual complex analysis (1997)](http://www.goodreads.com/book/show/149800.Visual_Complex_Analysis)
 - [📕 Geometry and the imagination (1999)](http://www.goodreads.com/book/show/719289.Geometry_and_the_Imagination)
+- [📕 Combinatorial Optimization: Polyhedra and Efficiency (2002)](https://www.goodreads.com/book/show/1186653.Combinatorial_Optimization)
 - [📕 A first course in linear algebra (2004)](http://linear.ups.edu/)
 - [📖 The haskell road to logic, math and programming (2004)](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 - [📕 The art of problem solving (2006)](http://www.goodreads.com/book/show/2872282-the-art-of-problem-solving-volume-1)
