@@ -595,7 +595,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 What if? (2014)](http://www.goodreads.com/book/show/21413662-what-if)
 
 ## Computer graphics
-- [📖 The book of shaders (2017)](%F0%9F%90%99)
+- [📖 The book of shaders (2017)](http://thebookofshaders.com)
 
 ## Scifi
 - [📕 The sirens of titan (1959)](http://www.goodreads.com/book/show/4982.The_Sirens_of_Titan)
