@@ -459,6 +459,9 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Waking up: a guide to spirituality without religion (2014)](http://www.goodreads.com/book/show/18774981-waking-up)
 - [📖 Concentration and meditation](http://krishnamurti.abundanthope.org/index_htm_files/Concentration-and-Meditation.pdf)
 
+## Psychedelics
+- [📖 LSD: My Problem Child (1979)](https://www.erowid.org/library/books_online/lsd_my_problem_child)
+
 ## Machine learning
 - [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
 - [📕 Artificial intelligence a modern approach (1994)](http://www.goodreads.com/book/show/27543.Artificial_Intelligence)
