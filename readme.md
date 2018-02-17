@@ -420,6 +420,9 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Invitation to ergodic theory](http://bookstore.ams.org/stml-42)
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
 
+## Music production
+- [📕 Harmony for Computer Musicians (2010)](https://www.goodreads.com/book/show/8441567-harmony-for-computer-musicians)
+
 ## Fitness
 - [📕 Starting strength: basic barbell training (2005)](https://www.goodreads.com/book/show/2098799.Starting_Strength)
 
