@@ -241,7 +241,7 @@ The subdashes after the book may include notes and other useful material related
 ## Programming language design
 - [📖 Beautiful racket](http://beautifulracket.com/)
 
-### Programming interviews
+## Programming interviews
 - [📕 Cracking the coding interview (2008)](http://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
 	- [Solutions in swift](https://github.com/careercup/CtCI-6th-Edition-Swift)
 - [📕 Elements of programming interviews (2012)](http://www.goodreads.com/book/show/16253895-elements-of-programming-interviews)
@@ -259,9 +259,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 - [📖 Vim user manual](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html) - Must read for anyone new to vim.
 
-## Version Control
-
-### Git
+## Git
 - [📖 Git in practice (2014)](https://content.mirantis.com/rs/451-RBY-185/images/McQuaid-git-in-practice.pdf)
 - [📖 Pro git (2014)](https://git-scm.com/book/en/v2)
 
