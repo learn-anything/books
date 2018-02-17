@@ -122,6 +122,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The practice of programming (1999)](http://www.goodreads.com/book/show/1032758.The_Practice_of_Programming)
 - [📕 Refactoring (1999)](http://www.goodreads.com/book/show/44936.Refactoring)
 - [📕 How to design programs (2001)](http://www.goodreads.com/book/show/1119079.How_to_Design_Programs)
+- [📕 Inside the machine (2006)](https://www.goodreads.com/book/show/610830.Inside_the_Machine?from_search=true)
 - [📕 Clean code (2008)](http://www.goodreads.com/book/show/3735293-clean-code)
 - [📕 Design concepts in programming (2008)](http://www.goodreads.com/book/show/4412222-design-concepts-in-programming-languages)
 - [📕 Apprenticeship patterns (2010)](http://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
