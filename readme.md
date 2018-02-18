@@ -693,6 +693,7 @@ The subdashes after the book may include notes and other useful material related
 
 ## Game Development
 - [📕 Tricks of the 3D game programming gurus-advanced 3D graphics and rasterisation (2003)](http://www.goodreads.com/book/show/2042298.Tricks_of_the_3D_Game_Programming_Gurus)
+- [📕 Game programming patterns](http://gameprogrammingpatterns.com/)
 
 ## Art
 - [📕 Drawing on the right side of the brain (1979)](http://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain)
