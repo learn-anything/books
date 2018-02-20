@@ -450,6 +450,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice (1970)](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind)
 - [📖 Mindfulness in plain english (1992)](http://misc.equanimity.info/downloads/mindfulness_in_plain_english.pdf)
 - [📕 Mastery: the keys to success and long term fulfilment (1992)](http://www.goodreads.com/book/show/81940.Mastery)
+- [📕 The Art of Happiness (1998)](https://www.goodreads.com/book/show/38210.The_Art_of_Happiness)
 - [📕 The Quantum and the Lotus (2000)](https://www.goodreads.com/book/show/222652.The_Quantum_and_the_Lotus)
 - [📕 Emptiness dancing (2004)](http://www.goodreads.com/book/show/190055.Emptiness_Dancing)
 - [📕 Mindfulness, Bliss, and Beyond: A Meditator's Handbook (2006)](https://www.goodreads.com/book/show/206625.Mindfulness_Bliss_and_Beyond)
