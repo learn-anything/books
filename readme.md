@@ -779,6 +779,9 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Engineering security (2014)](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
 - [📖 A graduate corse in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
 
+## Cryptocurrencies
+- [📖 Mastering Ethereum (2018)](https://github.com/ethereumbook/ethereumbook)
+
 ## Related
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 - [Influenial cs books](https://github.com/chhantyal/influential-cs-books)
