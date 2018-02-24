@@ -450,6 +450,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Peace is every step (1990)](http://www.goodreads.com/book/show/14572.Peace_Is_Every_Step)
 - [📖 Mindfulness in plain english (1992)](http://misc.equanimity.info/downloads/mindfulness_in_plain_english.pdf)
 - [📕 Mastery: the keys to success and long term fulfilment (1992)](http://www.goodreads.com/book/show/81940.Mastery)
+- [📕 The Four Noble Truths (1992)](https://www.goodreads.com/book/show/25103623-the-four-noble-truths)
 - [📕 No Ajahn Chah: Reflections (1994)](https://www.goodreads.com/book/show/1948802.No_Ajahn_Chah)
 - [📕 The Art of Happiness (1998)](https://www.goodreads.com/book/show/38210.The_Art_of_Happiness)
 - [📕 The Quantum and the Lotus (2000)](https://www.goodreads.com/book/show/222652.The_Quantum_and_the_Lotus)
