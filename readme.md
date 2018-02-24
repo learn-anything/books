@@ -134,20 +134,20 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Programming languages: application and interpretation (2012)](http://cs.brown.edu/courses/cs173/2012/book/book.pdf)
 - [📖 Crafting interpreters (2012)](http://www.craftinginterpreters.com/introduction.html)
 
-### C
+## C
 - [📕 The C programming language (1975)](http://www.goodreads.com/book/show/515601.The_C_Programming_Language)
 - [📕 21st century C (2014)](http://shop.oreilly.com/product/0636920033677.do)
 
-### C++
+## C++
 - [📕 C++ primer (1989)](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
 - [📕 Beginning c++ through game programming (2004](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 - [📖 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
-### D
+## D
 - [📕 The D programming language (2010)](http://amzn.to/1ZTDmqH)
 - [📖 Programming in D (2015)](http://ddili.org/ders/d.en/index.html)
 
-### Go
+## Go
 - [📖 Network programming with Go (2012)](https://jan.newmarch.name/go/)
 - [📖 The little go book (2014)](http://openmymind.net/The-Little-Go-Book/)
 - [📖 Go in action (2015)](https://github.com/miguellgt/books/blob/master/go/go-in-action.pdf)
@@ -156,10 +156,10 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Web app with go - anti text book](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
 - [📖 Build web application with golang](%F0%9F%90%99)
 
-### Perl
+## Perl
 - [📖 Modern Perl (2016)](http://modernperlbooks.com/books/modern_perl_2016/index.html)
 
-### Python
+## Python
 - [📕 Python essential reference (1999)](https://www.goodreads.com/book/show/6666430-python-essential-reference)
 - [📖 Dive into python 3 (2004)](http://www.diveintopython3.net/)
 - [📖 Problem solving with algorithms and data structures using python (2005)](http://interactivepython.org/runestone/static/pythonds/index.html)
@@ -170,7 +170,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Inside the python virtual machine (2017)](https://leanpub.com/insidethepythonvirtualmachine)
 - [📖 Automate the boring stuff with python](https://automatetheboringstuff.com/)
 
-### Java
+## Java
 - [📕 Effective java (2001)](http://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide)
 	- [Code examples](https://github.com/marhan/effective-java-examples)
 	- [Notes](https://github.com/jwongo/effectivejava)
@@ -180,27 +180,26 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Java 8 in action (2014)](http://www.goodreads.com/book/show/20534354-java-8-in-action)
 - [📕 Test-driven java development (2015)](http://www.goodreads.com/book/show/26333479-test-driven-java-development)
 
-### Rust
+## Rust
 - [📖 Rust by example](http://rustbyexample.com/)
 - [📖 The rust programming language](https://doc.rust-lang.org/book/)
 - [📖 The rustonomicon](https://doc.rust-lang.org/nomicon/)
 - [📖 Discovery](https://japaric.github.io/discovery/README.html#Scope) - Discover the world of microcontrollers through Rust.
 
-### Scala
+## Scala
 - [📕 Functional programming in scala (2014)](https://www.manning.com/books/functional-programming-in-scala)
 
-### Lisp
+## Lisp
 - [📕 The little schemer (1974)](https://mitpress.mit.edu/books/little-schemer)
 - [📕 Lisp in small pieces (1994)](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
 
-### Haskell
+## Haskell
+- [📖 Learn You a Haskell for Great Good! (2011)](http://learnyouahaskell.com/)
 - [📖 Write you a haskell (2014)](http://dev.stephendiehl.com/fun/)
 	- [Implementation in code](https://github.com/AlphaMarc/WYAH)
 - [📕 Programming in haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
 
-- [📖  Learn You a Haskell for Great Good! (2011)](http://learnyouahaskell.com/)
-
-### Javascript
+## Javascript
 - [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS)
 	- [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going)
 	- [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -215,14 +214,14 @@ The subdashes after the book may include notes and other useful material related
 - [📖 The javascript way (2017)](https://leanpub.com/thejsway)
 - [📖 Exploring js](http://exploringjs.com/)
 
-### Typescript
+## Typescript
 - [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
 
-### Swift
+## Swift
 - [📖 Swift programming language (2014)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
 	- [Swift Cheat sheet](https://github.com/jugend/swift-cheat-sheet)
 
-### Ruby
+## Ruby
 - [📕 The well grounded rubyist (2009)](http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist)
 - [📕 Eloquent ruby (2011)](http://www.goodreads.com/book/show/9364729-eloquent-ruby)
 - [📕 Practical object oriented design in ruby (2012)](http://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby)
@@ -231,13 +230,13 @@ The subdashes after the book may include notes and other useful material related
 	- [Go implementation](https://github.com/nathany/go-poodr)
 - [📕 Confident ruby (2013)](http://www.goodreads.com/book/show/15847933-confident-ruby)
 
-### Purescript
+## Purescript
 - [📖 Purescript book (2017)](https://github.com/paf31/purescript-book)
 
-### Smalltalk
+## Smalltalk
 - [📕 Smalltalk best practice patterns (1997)](http://www.goodreads.com/book/show/781561.Smalltalk_Best_Practice_Patterns)
 
-### Assembly
+## Assembly
 - [📖 Assembly language succinctly (2014)](https://www.syncfusion.com/resources/techportal/details/ebooks/assemblylanguage)
 
 ## Programming language design
@@ -329,26 +328,26 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Harry potter and the methods of rationality (2015)](http://www.hpmor.com/wordpress/wp-content/uploads/2012/03/Harry-Potter-and-the-Methods-of-Rationality.pdf)
 - [📖 Unsong (2017)](http://unsongbook.com/)
 
-### Comedy
+## Comedy
 - [📕 A confederacy of dunces (1980)](http://www.goodreads.com/book/show/310612.A_Confederacy_of_Dunces)
 
-### Adventure
+## Adventure
 - [📕 The count of monte cristo (1844)](http://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo)
 
-### Thriller
+## Thriller
 - [📕 And then there were none  (1939)](http://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
 
-### Fantasy
+## Fantasy
 - [📕 The stand (1978)](http://www.goodreads.com/book/show/149267.The_Stand)
 - [📕 American gods (2001)](https://www.goodreads.com/book/show/30165203-american-gods)
 - [📕 The night circus (2011)](http://www.goodreads.com/book/show/9361589-the-night-circus)
 
-#### Fantasy series
+### Fantasy series
 - [📕 A song of ice and fire](http://www.goodreads.com/series/43790-a-song-of-ice-and-fire)
 - [📕 The stormlight archive](http://www.goodreads.com/series/49075-the-stormlight-archive)
 - [📕 The wheel of time](http://www.goodreads.com/series/41526-the-wheel-of-time)
 
-### Short Stories
+## Short Stories
 - [📕 Ficciones (1941-1956)](http://www.goodreads.com/book/show/426504.Ficciones)
 - [📕 The little prince  (1943)](http://www.goodreads.com/book/show/157993.The_Little_Prince)
 - [📖 The last question  (1956)](http://www.goodreads.com/book/show/4808763-the-last-question)
@@ -544,7 +543,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Conquerors: how portugal forged the first global empire (2015)](http://www.goodreads.com/book/show/25255039-conquerors)
 - [📕 Homo deus: a brief history of tomorrow (2015)](http://www.goodreads.com/book/show/31138556-homo-deus)
 
-### Alternative history
+## Alternative history
 - [📕 The man in the high castle (1962)](http://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
 
 ## Awareness
@@ -568,13 +567,13 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Mac OS X and IOS Internals: To the Apple's Core, Volume 1 User Mode (2015)](https://www.goodreads.com/book/show/24730644-mac-os-x-and-ios-internals)
 
 ## Web Development
-### React.js
+## React.js
 - [📖 The Road to learn React](https://roadtoreact.com/)
 
 ## Node.js
 - [📖 Node up and running (2012)](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
 
-### Web design
+## Web design
 - [📕 Don’t make me think (2000)](http://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 
 ## Chemistry
@@ -622,7 +621,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The dispossessed](http://www.goodreads.com/book/show/13651.The_Dispossessed)
 - [📕 Blindsight](http://www.goodreads.com/book/show/48484.Blindsight)
 
-### SciFi Series
+## SciFi Series
 - [📕 The baroque cycle](https://www.goodreads.com/series/49317-the-baroque-cycle)
 - [📕 Hyperion cantos](http://www.goodreads.com/series/40461-hyperion-cantos)
 - [📕 The dark tower](https://www.goodreads.com/series/40750-the-dark-tower)
@@ -726,10 +725,10 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Programming with Posix Threads (1993)](https://www.goodreads.com/book/show/987956.Programming_with_Posix_Threads)
 - [📖 An efficient implementation of fundamental operating system services (1992)](http://valerieaurora.org/synthesis/SynthesisOS/ch1.html)
 
-### Linux
+## Linux
 - [📕 How linux works (2014)](http://www.goodreads.com/book/show/514432.How_Linux_Works)
 
-### iOS
+## iOS
 - [📕 iOS 10 programming fundamentals with swift  (2015)](http://shop.oreilly.com/product/0636920055211.do)
 
 ## Memoirs
