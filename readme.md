@@ -447,6 +447,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Be here now (1971)](http://www.goodreads.com/book/show/29254.Be_Here_Now)
 - [📕 The inner game of tennis (1974)](http://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
 - [📕 The 7 habits of highly effective people (1989)](http://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
+- [📕 The Zen Teaching of Bodhidharma (1989)](https://www.goodreads.com/book/show/238863.The_Zen_Teaching_of_Bodhidharma)
 - [📕 Peace is every step (1990)](http://www.goodreads.com/book/show/14572.Peace_Is_Every_Step)
 - [📖 Mindfulness in plain english (1992)](http://misc.equanimity.info/downloads/mindfulness_in_plain_english.pdf)
 - [📕 Mastery: the keys to success and long term fulfilment (1992)](http://www.goodreads.com/book/show/81940.Mastery)
