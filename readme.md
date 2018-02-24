@@ -198,6 +198,8 @@ The subdashes after the book may include notes and other useful material related
 	- [Implementation in code](https://github.com/AlphaMarc/WYAH)
 - [📕 Programming in haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
 
+- [📖  Learn You a Haskell for Great Good! (2011)](http://learnyouahaskell.com/)
+
 ### Javascript
 - [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS)
 	- [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going)
