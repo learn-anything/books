@@ -730,6 +730,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Modern operating systems (1992)](http://www.goodreads.com/book/show/166195.Modern_Operating_Systems)
 - [📕 Programming with Posix Threads (1993)](https://www.goodreads.com/book/show/987956.Programming_with_Posix_Threads)
 - [📖 An efficient implementation of fundamental operating system services (1992)](http://valerieaurora.org/synthesis/SynthesisOS/ch1.html)
+- [📖 Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 
 ## Linux
 - [📕 How linux works (2014)](http://www.goodreads.com/book/show/514432.How_Linux_Works)
