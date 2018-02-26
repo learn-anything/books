@@ -1,5 +1,5 @@
-# Interesting Books [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists)
-*Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
+# Interesting Books [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#readme)
+*Please read the [contribution guidelines](contributing.md/#contribution-guidelines#readme) before contributing.*
 
 The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest.
 
@@ -805,10 +805,10 @@ The subdashes after the book may include notes and other useful material related
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
 
 ## Contributing
-See [contribution guidelines](contributing.md/#contribution-guidelines).
+See [contribution guidelines](contributing.md/#contribution-guidelines#readme).
 
 ## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists).
+For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
