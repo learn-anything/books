@@ -187,6 +187,9 @@ The subdashes after the book may include notes and other useful material related
 - [📖 The rustonomicon](https://doc.rust-lang.org/nomicon/)
 - [📖 Discovery](https://japaric.github.io/discovery/README.html#Scope) - Discover the world of microcontrollers through Rust.
 
+## R
+- [📖 R for Data Science (2017)](http://r4ds.had.co.nz/)
+
 ## Scala
 - [📕 Functional programming in scala (2014)](https://www.manning.com/books/functional-programming-in-scala)
 
