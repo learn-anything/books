@@ -662,7 +662,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Structures: or why things don't fall down (1978)](http://www.goodreads.com/book/show/245344.Structures)
 
 ## Data Science
-- [📕 Designing data intensive applications (2014)](http://shop.oreilly.com/product/0636920032175.do)
+- [📕 Designing Data-Intensive Applications (2014)](http://shop.oreilly.com/product/0636920032175.do)
 
 ## Databases
 - [📕 The data warehouse toolkit (1996)](http://www.goodreads.com/book/show/748203.The_Data_Warehouse_Toolkit)
