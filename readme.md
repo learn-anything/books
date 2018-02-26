@@ -163,7 +163,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Python essential reference (1999)](https://www.goodreads.com/book/show/6666430-python-essential-reference)
 - [📖 Dive into python 3 (2004)](http://www.diveintopython3.net/)
 - [📖 Problem solving with algorithms and data structures using python (2005)](http://interactivepython.org/runestone/static/pythonds/index.html)
-- [📕 Python cookbook (2011)](https://www.goodreads.com/book/show/17152735-python-cookbook)
+- [📖 Python cookbook (2011)](https://d.cxcore.net/Python/Python_Cookbook_3rd_Edition.pdf)
 - [📕 Data structures and algorithms in python (2013)](http://www.goodreads.com/book/show/13838796-data-structures-and-algorithms-in-python)
 - [📕 Test driven development with python (2014)](http://www.goodreads.com/book/show/17912811-test-driven-web-development-with-python)
 - [📕 Effective python (2015)](http://www.goodreads.com/book/show/23020812-effective-python)
