@@ -13,6 +13,7 @@ Emojis before the books show if the book is free or not.
 The subdashes after the book may include notes and other useful material related to the book. If you find a free version of the paid book, please swap the link.
 
 - [Programming](#programming)
+- [Functional programming](#functional-programming)
 - [Programming languages](#programming-languages)
 	- [C](#c)
 	- [C++](#c-1)
@@ -129,6 +130,9 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The art of readable code: simple and practical techniques for writing better code (2011)](http://www.goodreads.com/book/show/8677004-the-art-of-readable-code)
 - [📕 Programming in the large with design patterns (2012)](http://www.goodreads.com/book/show/16418148-programming-in-the-large-with-design-patterns)
 - [📖 Composing programs](http://www.composingprograms.com/)
+
+## Functional programming
+- [📕 Pearls of Functional Algorithm Design (2010)](https://www.goodreads.com/book/show/8693802-pearls-of-functional-algorithm-design)
 
 ## Programming languages
 - [📖 Programming languages: application and interpretation (2012)](http://cs.brown.edu/courses/cs173/2012/book/book.pdf)
