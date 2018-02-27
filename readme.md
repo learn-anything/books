@@ -643,7 +643,7 @@ The subdashes after the book may include notes and other useful material related
 
 ## Psychedelics
 - [📕 The invisible landscape: mind, hallucinogens, and the i ching (1994)](http://www.goodreads.com/book/show/191375.The_Invisible_Landscape)
-- [📕 The cosmic serpent: dna and the origins of knowledge (1998)](http://www.goodreads.com/book/show/865516.The_Cosmic_Serpent)
+- [📖 The Cosmic Serpent: DNA and the origins of knowledge (1998)](https://www.indybay.org/uploads/2011/04/17/cosmicserp.pdf)
 - [📕 Breaking open the head (2002)](http://www.goodreads.com/book/show/1815.Breaking_Open_the_Head)
 - [📕 Supernatural: meetings with the ancient teachers of mankind (2005)](http://www.goodreads.com/book/show/53324.Supernatural)
 
