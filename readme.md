@@ -123,7 +123,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The practice of programming (1999)](http://www.goodreads.com/book/show/1032758.The_Practice_of_Programming)
 - [📕 Refactoring (1999)](http://www.goodreads.com/book/show/44936.Refactoring)
 - [📕 How to design programs (2001)](http://www.goodreads.com/book/show/1119079.How_to_Design_Programs)
-- [📕 Inside the machine (2006)](https://www.goodreads.com/book/show/610830.Inside_the_Machine?from_search=true)
+- [📕 Inside the machine (2006)](https://www.goodreads.com/book/show/610830.Inside_the_Machine)
 - [📕 Clean code (2008)](http://www.goodreads.com/book/show/3735293-clean-code)
 - [📕 Design concepts in programming (2008)](http://www.goodreads.com/book/show/4412222-design-concepts-in-programming-languages)
 - [📕 Apprenticeship patterns (2010)](http://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
@@ -443,6 +443,7 @@ The subdashes after the book may include notes and other useful material related
 ## Mindset
 - [📕 Tao te ching (6th century BC)](http://www.goodreads.com/book/show/67896.Tao_Te_Ching)
 - [📕 Meditations (161)](http://www.goodreads.com/book/show/30659.Meditations)
+- [📕 The Zen Teaching of Huang Po: On the Transmission of Mind (857)](https://www.goodreads.com/book/show/276779.The_Zen_Teaching_of_Huang_Po)
 - [📕 Siddhartha (1922)](http://www.goodreads.com/book/show/52036.Siddhartha)
 - [📕 How to win friends and influence people  (1936)](http://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 - [📕 Think and grow rich (1937)](http://www.goodreads.com/book/show/30186948-think-and-grow-rich)
