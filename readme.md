@@ -12,6 +12,7 @@ Emojis before the books show if the book is free or not.
 
 The subdashes after the book may include notes and other useful material related to the book. If you find a free version of the paid book, please swap the link.
 
+##### Contents
 - [Programming](#programming)
 - [Functional programming](#functional-programming)
 - [Programming languages](#programming-languages)
