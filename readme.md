@@ -793,6 +793,9 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Damned lies and statistics (2001)](http://www.goodreads.com/book/show/51289.Damned_Lies_and_Statistics)
 - [📕 Coders at work: reflections on the craft of programming (2009)](http://www.goodreads.com/book/show/6713575-coders-at-work)
 
+## Writing
+- [📕 Style: Lessons in Clarity and Grace (1981)](https://www.goodreads.com/book/show/6966800)
+
 ## Cryptography
 - [📕 The code book (1999)](http://www.goodreads.com/book/show/17994.The_Code_Book)
 - [📖 Engineering security (2014)](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
