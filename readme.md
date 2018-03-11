@@ -482,6 +482,7 @@ The subdashes after the book may include notes and other useful material related
 
 ## Psychedelics
 - [📖 LSD: My Problem Child (1979)](https://www.erowid.org/library/books_online/lsd_my_problem_child)
+- [📖 Tryptamines i Have Known And Loved: The Chemistry Continues](https://erowid.org/library/books_online/tihkal/tihkal.shtml)
 
 ## Machine learning
 - [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
