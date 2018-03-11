@@ -416,6 +416,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 A first course in linear algebra (2004)](http://linear.ups.edu/)
 - [📖 The haskell road to logic, math and programming (2004)](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 - [📕 The art of problem solving (2006)](http://www.goodreads.com/book/show/2872282-the-art-of-problem-solving-volume-1)
+- [📕 Category Theory (2006)](https://www.goodreads.com/book/show/2047855.Category_Theory)
 - [📖 Logicomix (2008)](https://www.scribd.com/document/98921232/Bertrand-Russell-Logicomix)
 - [📕 The princeton companion to mathematics (2008)](http://www.goodreads.com/book/show/1471873.The_Princeton_Companion_to_Mathematics)
 - [📕 Visual group theory (2009)](http://www.goodreads.com/book/show/7629307-visual-group-theory-maa-classroom-resource-materials)
