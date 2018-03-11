@@ -408,6 +408,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 To mock a mockingbird (1985)](http://www.goodreads.com/book/show/194769.To_Mock_a_Mockingbird_and_Other_Logic_Puzzles)
 - [📖 Proofs and types (1989)](http://www.paultaylor.eu/stable/prot.pdf)
 - [📕 Concrete mathematics (1994)](http://www.goodreads.com/book/show/112243.Concrete_Mathematics)
+- [📕 How to prove it (1994)](https://www.goodreads.com/book/show/739735.How_to_Prove_It)
 - [📕 Linear algebra done right (1995)](http://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right)
 - [📕 Visual complex analysis (1997)](http://www.goodreads.com/book/show/149800.Visual_Complex_Analysis)
 - [📕 Geometry and the imagination (1999)](http://www.goodreads.com/book/show/719289.Geometry_and_the_Imagination)
