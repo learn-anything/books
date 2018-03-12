@@ -472,12 +472,13 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Emptiness dancing (2004)](http://www.goodreads.com/book/show/190055.Emptiness_Dancing)
 - [📕 Mindfulness, Bliss, and Beyond: A Meditator's Handbook (2006)](https://www.goodreads.com/book/show/206625.Mindfulness_Bliss_and_Beyond)
 - [📕 Eating animals (2009)](http://www.goodreads.com/book/show/6604712-eating-animals)
+- [📕 The happiness advantage (2010)](http://www.goodreads.com/book/show/9484114-the-happiness-advantage)
 - [📕 Models  (2011)](http://www.goodreads.com/book/show/12633800-models)
 - [📕 Mastery (2012)](http://www.goodreads.com/book/show/13589182-mastery)
 - [📕 A mind for numbers: how to excel at math and science  (2014)](http://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
 - [📕 Spaciousness: The Radical Dzogchen of the Vajra-Heart: Longchenpa's Treasury of the Dharmadhatu (2014)](https://www.goodreads.com/book/show/22783031-spaciousness)
-- [📕 The happiness advantage (2010)](http://www.goodreads.com/book/show/9484114-the-happiness-advantage)
 - [📕 Waking up: a guide to spirituality without religion (2014)](http://www.goodreads.com/book/show/18774981-waking-up)
+- [📕 Deep Work: Rules for Focused Success in a Distracted World (2016)](https://www.goodreads.com/book/show/25744928)
 - [📖 Concentration and meditation](http://krishnamurti.abundanthope.org/index_htm_files/Concentration-and-Meditation.pdf)
 
 ## Psychedelics
