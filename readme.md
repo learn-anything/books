@@ -809,16 +809,16 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Mastering Ethereum (2018)](https://github.com/ethereumbook/ethereumbook)
 
 ## Related
-- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
-- [Influenial cs books](https://github.com/chhantyal/influential-cs-books)
-- [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions/)
-- [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books)
-- [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
-- [Awesome scifi](https://github.com/sindresorhus/awesome-scifi)
-- [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy)
-- [Book notes](https://github.com/mgp/book-notes)
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books#readme)
+- [Influenial cs books](https://github.com/chhantyal/influential-cs-books#readme)
+- [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
+- [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
+- [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
+- [Awesome scifi](https://github.com/sindresorhus/awesome-scifi#readme)
+- [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
+- [Book notes](https://github.com/mgp/book-notes#readme)
 - [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
-- [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/)
+- [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
