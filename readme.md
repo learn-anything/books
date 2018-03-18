@@ -607,6 +607,7 @@ The subdashes after the book may include notes and other useful material related
 
 ## Compilers
 - [📕 Compilers: Principles, Techniques, and Tools (1986)](https://www.goodreads.com/book/show/703102.Compilers)
+- [📕 Modern Compiler Implementation in ML (1997)](https://www.goodreads.com/book/show/258558.Modern_Compiler_Implementation_in_ML)
 - [📕 Advanced compiler design and implementation](http://www.goodreads.com/book/show/887908.Advanced_Compiler_Design_and_Implementation)
 
 ## Science
