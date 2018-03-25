@@ -503,6 +503,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Reinforcement Learning: An Introduction (2018)](http://www.incompleteideas.net/book/bookdraft2018jan1.pdf)
 
 ## Startups
+- [📕 Running Lean (2012)](https://www.goodreads.com/book/show/13078769-running-lean)
 - [📕 Zero to one (2014)](http://www.goodreads.com/book/show/18050143-zero-to-one)
 - [📕 Just fucking ship (2014)](https://www.goodreads.com/book/show/23700819-just-fucking-ship)
 
