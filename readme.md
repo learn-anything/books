@@ -504,6 +504,7 @@ The subdashes after the book may include notes and other useful material related
 
 ## Startups
 - [📕 Zero to one (2014)](http://www.goodreads.com/book/show/18050143-zero-to-one)
+- [📕 Just fucking ship (2014)](https://www.goodreads.com/book/show/23700819-just-fucking-ship)
 
 ## Economics
 - [📕 Capital (1867)](http://www.goodreads.com/book/show/325785.Capital_Vol_1)
