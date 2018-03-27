@@ -598,7 +598,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Don’t make me think (2000)](http://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 
 ## Chemistry
-- [📕 Modern quantum chemistry: introduction to advanced electronic structure theory  (1982)](http://www.goodreads.com/book/show/237496.Modern_Quantum_Chemistry)
+- [📕 Modern quantum chemistry: introduction to advanced electronic structure theory (1982)](http://www.goodreads.com/book/show/237496.Modern_Quantum_Chemistry)
 - [📕 Tryptamines i have known and loved: the chemistry continues (1997)](http://www.goodreads.com/book/show/271921.Tihkal)
 - [📕 Drugs 2.0: the web revolution that's changing how the world gets high (2013)](http://www.goodreads.com/book/show/20613641-drugs-unlimited)
 
@@ -612,6 +612,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Compilers: Principles, Techniques, and Tools (1986)](https://www.goodreads.com/book/show/703102.Compilers)
 - [📕 Modern Compiler Implementation in ML (1997)](https://www.goodreads.com/book/show/258558.Modern_Compiler_Implementation_in_ML)
 - [📕 Advanced compiler design and implementation](http://www.goodreads.com/book/show/887908.Advanced_Compiler_Design_and_Implementation)
+- [📖 Compiler Construction by Niklaus Wirth](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
 
 ## Science
 - [📕 The structure of scientific revolutions (1962)](http://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions)
