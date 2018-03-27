@@ -124,6 +124,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The practice of programming (1999)](http://www.goodreads.com/book/show/1032758.The_Practice_of_Programming)
 - [📕 Refactoring (1999)](http://www.goodreads.com/book/show/44936.Refactoring)
 - [📕 How to design programs (2001)](http://www.goodreads.com/book/show/1119079.How_to_Design_Programs)
+- [📕 Computer Systems: A Programmer's Perspective (2002)](https://www.goodreads.com/book/show/829182.Computer_Systems)
 - [📕 Inside the machine (2006)](https://www.goodreads.com/book/show/610830.Inside_the_Machine)
 - [📕 Clean code (2008)](http://www.goodreads.com/book/show/3735293-clean-code)
 - [📕 Design concepts in programming (2008)](http://www.goodreads.com/book/show/4412222-design-concepts-in-programming-languages)
@@ -485,6 +486,7 @@ The subdashes after the book may include notes and other useful material related
 
 ## Psychedelics
 - [📖 LSD: My Problem Child (1979)](https://www.erowid.org/library/books_online/lsd_my_problem_child)
+- [📕 Tryptamine Palace: 5-MeO-DMT and the Sonoran Desert Toad (2009)](https://www.goodreads.com/book/show/5519081-tryptamine-palace)
 - [📖 Tryptamines I Have Known And Loved: The Chemistry Continues](https://erowid.org/library/books_online/tihkal/tihkal.shtml)
 
 ## Machine learning
@@ -517,6 +519,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Imperialism, the highest stage of capitalism (1917)](http://www.goodreads.com/book/show/179609.Imperialism)
 - [📕 The worldly philosophers (1953)](http://www.goodreads.com/book/show/82120.The_Worldly_Philosophers)
 - [📕 Principles of economics (1997)](http://www.goodreads.com/book/show/1753460.Principles_of_Economics)
+- [📕 Introductory Econometrics: A Modern Approach (1999)](https://www.goodreads.com/book/show/390475.Introductory_Econometrics)
 - [📕 Microeconomics and behaviour (2000)](http://www.goodreads.com/book/show/5986495-microeconomics-and-behavior)
 - [📕 Debt: first 5000 years (2011)](http://www.goodreads.com/book/show/6617037-debt)
 - [📕 How asia works: success and failure in the world’s most dynamic region (2013)](http://www.goodreads.com/book/show/16144575-how-asia-works)
