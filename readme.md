@@ -426,6 +426,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 The napkin project (2017)](https://usamo.files.wordpress.com/2017/02/napkin-2017-02-15.pdf)
 - [📖 Mathematics for computer science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 - [📖 Immersive linear algebra  (2017)](http://immersivemath.com/ila/index.html)
+- [📖 Category Theory for Programmers (2018)](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [📕 Physically based rendering: from theory to implementation ](http://www.pbrt.org/)
 - [📕 Invitation to ergodic theory](http://bookstore.ams.org/stml-42)
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
