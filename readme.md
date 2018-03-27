@@ -130,6 +130,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Apprenticeship patterns (2010)](http://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
 - [📕 The art of readable code: simple and practical techniques for writing better code (2011)](http://www.goodreads.com/book/show/8677004-the-art-of-readable-code)
 - [📕 Programming in the large with design patterns (2012)](http://www.goodreads.com/book/show/16418148-programming-in-the-large-with-design-patterns)
+- [📕 Dynamic Programming and Optimal Control (2012)](http://www.athenasc.com/dpbook.html)
 - [📖 Composing programs](http://www.composingprograms.com/)
 
 ## Functional programming
