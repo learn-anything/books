@@ -499,6 +499,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Neural Networks and Deep Learning (2015)](http://neuralnetworksanddeeplearning.com/index.html)
 - [📕 Tensorflow machine learning cookbook (2017)](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook)
 	- [Code](https://github.com/nfmcclure/tensorflow_cookbook)
+- [📕 Hands-On Machine Learning with Scikit-Learn and TensorFlow (2017)](https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow)
 - [📖 Deep learning](http://www.deeplearningbook.org/)
 
 ## Reinforcement learning
