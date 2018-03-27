@@ -103,6 +103,8 @@ The subdashes after the book may include notes and other useful material related
 - [Graphic design](#graphic-design)
 - [Politics](#politics)
 - [Computer Systems](#computer-systems)
+- [Writing](#writing)
+- [Poetry](#poetry)
 - [Evolution](#evolution)
 - [Film Making](#film-making)
 - [Non Fiction](#non-fiction)
@@ -333,6 +335,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The perks of being a wallflower  (1999)](http://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower)
 - [📕 Cryptonomicon (1999)](http://www.goodreads.com/book/show/816.Cryptonomicon)
 - [📕 House of leaves (2000)](http://www.goodreads.com/book/show/24800.House_of_Leaves)
+- [📕 The Bug (2003)](https://www.goodreads.com/book/show/138805.The_Bug)
 - [📕 The road (2006)](http://www.goodreads.com/book/show/6288.The_Road)
 - [📖 The metamorphosis of prime intellect (2007)](http://localroger.com/prime-intellect/mopiidx.html)
 - [📕 The passage (2010)](http://www.goodreads.com/series/53226-the-passage)
@@ -482,7 +485,13 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Spaciousness: The Radical Dzogchen of the Vajra-Heart: Longchenpa's Treasury of the Dharmadhatu (2014)](https://www.goodreads.com/book/show/22783031-spaciousness)
 - [📕 Waking up: a guide to spirituality without religion (2014)](http://www.goodreads.com/book/show/18774981-waking-up)
 - [📕 Deep Work: Rules for Focused Success in a Distracted World (2016)](https://www.goodreads.com/book/show/25744928)
+- [📕 The Daily Stoic: 366 Meditations for Clarity, Effectiveness, and Serenity (2016)](https://www.goodreads.com/book/show/29093292-the-daily-stoic)
 - [📖 Concentration and meditation](http://krishnamurti.abundanthope.org/index_htm_files/Concentration-and-Meditation.pdf)
+
+## Drugs
+- [📕 A Primer of Drug Action (1975)](https://www.goodreads.com/book/show/1134902.A_Primer_of_Drug_Action)
+- [📕 Drugged: The Science and Culture Behind Psychotropic Drugs (2013)](https://www.goodreads.com/book/show/17847528-drugged)
+- [📕 Pleasures of the Brain (2009)](https://www.goodreads.com/book/show/6777669-pleasures-of-the-brain)
 
 ## Psychedelics
 - [📖 LSD: My Problem Child (1979)](https://www.erowid.org/library/books_online/lsd_my_problem_child)
@@ -811,6 +820,9 @@ The subdashes after the book may include notes and other useful material related
 
 ## Writing
 - [📕 Style: Lessons in Clarity and Grace (1981)](https://www.goodreads.com/book/show/6966800)
+
+## Poetry
+- [📕 Letters to a Young Poet (1929)](https://www.goodreads.com/book/show/46199)
 
 ## Cryptography
 - [📕 The code book (1999)](http://www.goodreads.com/book/show/17994.The_Code_Book)
