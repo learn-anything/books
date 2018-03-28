@@ -178,6 +178,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Effective python (2015)](http://www.goodreads.com/book/show/23020812-effective-python)
 - [📕 Fluent python (2015)](http://www.goodreads.com/book/show/22800567-fluent-python)
 - [📖 Inside the python virtual machine (2017)](https://leanpub.com/insidethepythonvirtualmachine)
+- [📖 Full Speed Python (2018)](https://github.com/joaoventura/full-speed-python)
 - [📖 Automate the boring stuff with python](https://automatetheboringstuff.com/)
 
 ## Java
