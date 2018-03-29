@@ -414,6 +414,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 To mock a mockingbird (1985)](http://www.goodreads.com/book/show/194769.To_Mock_a_Mockingbird_and_Other_Logic_Puzzles)
 - [📖 Proofs and types (1989)](http://www.paultaylor.eu/stable/prot.pdf)
 - [📕 Primes of the Form X2 + Ny2: Fermat, Class Field Theory, and Complex Multiplication (1989)](https://www.goodreads.com/book/show/507227.Primes_of_the_Form_X2_Ny2)
+- [📕 Algebraic Number Theory (1992)](https://www.goodreads.com/book/show/4556825-algebraic-number-theory)
 - [📕 Concrete mathematics (1994)](http://www.goodreads.com/book/show/112243.Concrete_Mathematics)
 - [📕 How to prove it (1994)](https://www.goodreads.com/book/show/739735.How_to_Prove_It)
 - [📕 Linear algebra done right (1995)](http://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right)
