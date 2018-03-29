@@ -426,6 +426,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Logicomix (2008)](https://www.scribd.com/document/98921232/Bertrand-Russell-Logicomix)
 - [📕 The princeton companion to mathematics (2008)](http://www.goodreads.com/book/show/1471873.The_Princeton_Companion_to_Mathematics)
 - [📕 Visual group theory (2009)](http://www.goodreads.com/book/show/7629307-visual-group-theory-maa-classroom-resource-materials)
+- [📕 Algebra: Chapter 0 (2009)](https://www.goodreads.com/book/show/6829004)
 - [📕 Essentials of discrete mathematics (2009)](http://www.goodreads.com/book/show/12132668-essentials-of-discrete-mathematics)
 - [📕 Foundations of analysis (2012)](http://www.goodreads.com/book/show/682044.Foundations_of_Mathematical_Analysis)
 - [📖 Homotopy type theory (2013)](https://hott.github.io/book/nightly/hott-online-1075-g3c53219.pdf)
