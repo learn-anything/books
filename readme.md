@@ -435,6 +435,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Category Theory for Programmers (2018)](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [📕 Physically based rendering: from theory to implementation ](http://www.pbrt.org/)
 - [📕 Invitation to ergodic theory](http://bookstore.ams.org/stml-42)
+- [📖 Abstract Algebra: Theory and Applications](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
 
 ## Music production
