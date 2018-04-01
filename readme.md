@@ -162,6 +162,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Go in action (2015)](https://github.com/miguellgt/books/blob/master/go/go-in-action.pdf)
 - [📕 The go programming language (2015)](http://www.goodreads.com/book/show/25080953-the-go-programming-language)
 	- [Notes](https://github.com/namit/The-Go-Programming-Language)
+- [📖 Go 101 (2018)](https://go101.org/article/101.html)
 - [📖 Web app with go - anti text book](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
 - [📖 Build web application with golang](%F0%9F%90%99)
 
