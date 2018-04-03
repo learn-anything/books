@@ -191,6 +191,9 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Introduction to programming in java: an interdisciplinary approach (2008)](http://introcs.cs.princeton.edu/java/home/chapter1.pdf)
 - [📕 Java 8 in action (2014)](http://www.goodreads.com/book/show/20534354-java-8-in-action)
 - [📕 Test-driven java development (2015)](http://www.goodreads.com/book/show/26333479-test-driven-java-development)
+- [📕 Spring Boot: How To Get Started and Build a Microservice (2018)](http://codeboje.de/spring-boot-book/)
+- [📕 Spring Boot and Single-Page Applications: Integrate Your Microservice Securely with Your Single-Page Application (2017)](http://codeboje.de/spring-boot-single-page-applications/)
+- [📕 Spring Boot Intermediate Microservices: Resilient Microservices with Spring Boot 2 and Spring Cloud (2017)](http://codeboje.de/spring-boot-intermediate-microservices/)
 
 ## Rust
 - [📖 Rust by example](http://rustbyexample.com/)
