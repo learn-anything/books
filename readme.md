@@ -812,12 +812,6 @@ The subdashes after the book may include notes and other useful material related
 ## Computer Systems
 - [📕 Computer systems: a programmer’s perspective](http://www.goodreads.com/book/show/829182.Computer_Systems)
 
-## Frameworks
-### Spring Boot
-- [📕 Spring Boot Intermediate Microservices: Resilient Microservices with Spring Boot 2 and Spring Cloud (2017)](http://codeboje.de/spring-boot-intermediate-microservices/)
-- [📕 Spring Boot and Single-Page Applications: Integrate Your Microservice Securely with Your Single-Page Application (2017)](http://codeboje.de/spring-boot-single-page-applications/)
-- [📕 Spring Boot: How To Get Started and Build a Microservice (2018)](http://codeboje.de/spring-boot-book/)
-
 ## Evolution
 - [📕 The selfish gene (1976)](http://www.goodreads.com/book/show/61535.The_Selfish_Gene)
 - [📕 Darwin's dangerous idea (1995)](http://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea)
