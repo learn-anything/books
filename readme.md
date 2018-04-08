@@ -18,7 +18,7 @@ The subdashes after the book may include notes and other useful material related
 - [Programming languages](#programming-languages)
 	- [C](#c)
 	- [C++](#c-1)
-	- [D](#d-language)
+	- [D](#d)
 	- [Go](#go)
 	- [Perl](#perl)
 	- [Python](#python)
