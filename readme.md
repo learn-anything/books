@@ -466,7 +466,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Think and grow rich (1937)](http://www.goodreads.com/book/show/30186948-think-and-grow-rich)
 - [📕 The stranger (1942)](http://www.goodreads.com/book/show/49552.The_Stranger)
 - [📕 Man’s search for meaning (1946)](http://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
-- [📕 The wisdom of insecurity: a message for an age of anxiety (1951)](http://www.goodreads.com/book/show/551520.The_Wisdom_of_Insecurity)
+- [📖 The wisdom of insecurity: a message for an age of anxiety (1951)](https://antilogicalism.files.wordpress.com/2017/07/wisdom-of-insecurity.pdf)
 - [📕 The first and last freedom (1954)](http://www.goodreads.com/book/show/64710.The_First_and_Last_Freedom)
 - [📕 The way of zen  (1957)](http://www.goodreads.com/book/show/514210.The_Way_of_Zen)
 - [📕 The book on the taboo against knowing who you are  (1966)](http://www.goodreads.com/book/show/60551.The_Book_on_the_Taboo_Against_Knowing_Who_You_Are)
