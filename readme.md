@@ -811,6 +811,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The democracy project: a history, a crisis, a movement (2013)](http://www.goodreads.com/book/show/13330433-the-democracy-project)
 
 ## Computer Systems
+- [📖 NASA System Engineering (2007)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook.pdf)
 - [📕 Computer systems: a programmer’s perspective](http://www.goodreads.com/book/show/829182.Computer_Systems)
 
 ## Evolution
