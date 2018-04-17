@@ -53,6 +53,7 @@ The subdashes after the book may include notes and other useful material related
 - [Nutrition](#nutrition)
 - [Math](#math)
 - [Fitness](#fitness)
+- [Biology](#biology)
 - [Algorithms](#algorithms)
 - [Mindset](#mindset)
 - [Machine learning](#machine-learning)
@@ -450,6 +451,9 @@ The subdashes after the book may include notes and other useful material related
 
 ## Fitness
 - [📕 Starting strength: basic barbell training (2005)](https://www.goodreads.com/book/show/2098799.Starting_Strength)
+
+## Biology
+- [Molecular Biology of the Cell (1983)](https://www.goodreads.com/book/show/13400.Molecular_Biology_of_the_Cell)
 
 ## Algorithms
 - [📖 Algorithm design manual (1987)](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf)
