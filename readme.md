@@ -618,6 +618,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Site Reliability Engineering](https://landing.google.com/sre/book.html)
 
 ## React.js
+- [📖 React in Patterns (2018)](https://krasimir.gitbooks.io/react-in-patterns/content/)
 - [📖 The Road to learn React](https://roadtoreact.com/)
 
 ## Node.js
