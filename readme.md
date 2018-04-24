@@ -617,6 +617,9 @@ The subdashes after the book may include notes and other useful material related
 ## Web Development
 - [📖 Site Reliability Engineering](https://landing.google.com/sre/book.html)
 
+## CSS
+- [📖 Learn CSS Layout the pedantic way (2015)](http://book.mixu.net/css/)
+
 ## React.js
 - [📖 React in Patterns (2018)](https://krasimir.gitbooks.io/react-in-patterns/content/)
 - [📖 The Road to learn React](https://roadtoreact.com/)
