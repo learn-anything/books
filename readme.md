@@ -31,6 +31,7 @@ The subdashes after the book may include notes and other useful material related
 	- [Typescript](#typescript)
 	- [Swift](#swift)
 	- [Ruby](#ruby)
+	- [Prolog](#prolog)
 	- [Purescript](#purescript)
 	- [Smalltalk](#smalltalk)
 	- [Assembly](#assembly)
@@ -248,6 +249,9 @@ The subdashes after the book may include notes and other useful material related
 
 ## Purescript
 - [📖 Purescript book (2017)](https://github.com/paf31/purescript-book)
+
+## Prolog
+- [📖 The Power of Prolog (2018)](https://www.metalevel.at/prolog)
 
 ## Smalltalk
 - [📕 Smalltalk best practice patterns (1997)](http://www.goodreads.com/book/show/781561.Smalltalk_Best_Practice_Patterns)
