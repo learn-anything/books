@@ -27,13 +27,14 @@ The subdashes after the book may include notes and other useful material related
 	- [Scala](#scala)
 	- [Lisp](#lisp)
 	- [Haskell](#haskell)
-	- [Javascript](#javascript)
-	- [Typescript](#typescript)
+	- [JavaScript](#javascript)
+	- [TypeScript](#typescript)
 	- [Swift](#swift)
 	- [Ruby](#ruby)
 	- [Prolog](#prolog)
 	- [Purescript](#purescript)
 	- [Smalltalk](#smalltalk)
+	- [ReasonML](#reasonml)
 	- [Assembly](#assembly)
 - [Programming language design](#programming-language-design)
 - [Programming interviews](#programming-interviews)
@@ -216,7 +217,7 @@ The subdashes after the book may include notes and other useful material related
 	- [Implementation in code](https://github.com/AlphaMarc/WYAH)
 - [📕 Programming in haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
 
-## Javascript
+## JavaScript
 - [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS)
 	- [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going)
 	- [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -231,7 +232,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 The javascript way (2017)](https://leanpub.com/thejsway)
 - [📖 Exploring js](http://exploringjs.com/)
 
-## Typescript
+## TypeScript
 - [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
 
 ## Swift
@@ -255,6 +256,9 @@ The subdashes after the book may include notes and other useful material related
 
 ## Smalltalk
 - [📕 Smalltalk best practice patterns (1997)](http://www.goodreads.com/book/show/781561.Smalltalk_Best_Practice_Patterns)
+
+## ReasonML
+- [📖 Exploring ReasonML (2018)](http://reasonmlhub.com/exploring-reasonml/toc.html)
 
 ## Assembly
 - [📖 Assembly language succinctly (2014)](https://www.syncfusion.com/resources/techportal/details/ebooks/assemblylanguage)
