@@ -537,6 +537,7 @@ The subdashes after the book may include notes and other useful material related
 	- [Code](https://github.com/nfmcclure/tensorflow_cookbook)
 - [📕 Hands-On Machine Learning with Scikit-Learn and TensorFlow (2017)](https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow)
 - [📖 Deep learning](http://www.deeplearningbook.org/)
+- [📖 The Nature of Code (2012)](http://natureofcode.com/book/)
 
 ## Reinforcement learning
 - [📖 Reinforcement Learning: An Introduction (2018)](http://www.incompleteideas.net/book/bookdraft2018jan1.pdf)
