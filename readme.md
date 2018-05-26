@@ -238,6 +238,7 @@ The subdashes after the book may include notes and other useful material related
 ## Swift
 - [📖 Swift programming language (2014)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
 	- [Swift Cheat sheet](https://github.com/jugend/swift-cheat-sheet)
+- [📕 Hacking with macOS (2018)](https://www.hackingwithswift.com/store/hacking-with-macos)
 
 ## Ruby
 - [📕 The well grounded rubyist (2009)](http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist)
