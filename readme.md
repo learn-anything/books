@@ -141,6 +141,7 @@ The subdashes after the book may include notes and other useful material related
 
 ## Functional programming
 - [📕 Pearls of Functional Algorithm Design (2010)](https://www.goodreads.com/book/show/8693802-pearls-of-functional-algorithm-design)
+- [📖 Mostly adequate guide to FP (in JavaScript)](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
 
 ## Programming languages
 - [📖 Programming languages: application and interpretation (2012)](http://cs.brown.edu/courses/cs173/2012/book/book.pdf)
