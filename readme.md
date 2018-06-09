@@ -201,6 +201,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 The rust programming language](https://doc.rust-lang.org/book/)
 - [📖 The rustonomicon](https://doc.rust-lang.org/nomicon/)
 - [📖 Discovery](https://japaric.github.io/discovery/README.html#Scope) - Discover the world of microcontrollers through Rust.
+- [📖 Rust and WebAssembly (2018)](https://rustwasm.github.io/book/)
 
 ## R
 - [📖 R for Data Science (2017)](http://r4ds.had.co.nz/)
@@ -794,6 +795,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Programming with Posix Threads (1993)](https://www.goodreads.com/book/show/987956.Programming_with_Posix_Threads)
 - [📖 An efficient implementation of fundamental operating system services (1992)](http://valerieaurora.org/synthesis/SynthesisOS/ch1.html)
 - [📖 Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
+- [📖 intermezzOS](https://intermezzos.github.io/book/second-edition/)
 
 ## Linux
 - [📕 How linux works (2014)](http://www.goodreads.com/book/show/514432.How_Linux_Works)
@@ -819,6 +821,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Design meets disability (2009)](http://www.goodreads.com/book/show/5982641-design-meets-disability)
 - [📕 The design of everyday things](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
 - [📕 The best interface is no interface: the simple path to brilliant technology](http://www.goodreads.com/book/show/22758923-the-best-interface-is-no-interface)
+- [📖 The Shape of Design](https://shapeofdesignbook.com)
 
 ## Graphic design
 - [📕 The elements of typographic style (1992)](http://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style)
