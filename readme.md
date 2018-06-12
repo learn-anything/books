@@ -137,6 +137,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The art of readable code: simple and practical techniques for writing better code (2011)](http://www.goodreads.com/book/show/8677004-the-art-of-readable-code)
 - [📕 Programming in the large with design patterns (2012)](http://www.goodreads.com/book/show/16418148-programming-in-the-large-with-design-patterns)
 - [📕 Dynamic Programming and Optimal Control (2012)](http://www.athenasc.com/dpbook.html)
+- [📖 How These Things Work (2016)](http://reasonablypolymorphic.com/book/preface)
 - [📖 Composing programs](http://www.composingprograms.com/)
 
 ## Functional programming
