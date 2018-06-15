@@ -54,6 +54,7 @@ The subdashes after the book may include notes and other useful material related
 - [Computer networking](#computer-networking)
 - [Nutrition](#nutrition)
 - [Math](#math)
+- [Category theory](#category-theory)
 - [Fitness](#fitness)
 - [Biology](#biology)
 - [Algorithms](#algorithms)
@@ -443,7 +444,6 @@ The subdashes after the book may include notes and other useful material related
 - [📕 A first course in linear algebra (2004)](http://linear.ups.edu/)
 - [📖 The haskell road to logic, math and programming (2004)](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 - [📕 The art of problem solving (2006)](http://www.goodreads.com/book/show/2872282-the-art-of-problem-solving-volume-1)
-- [📕 Category Theory (2006)](https://www.goodreads.com/book/show/2047855.Category_Theory)
 - [📖 Logicomix (2008)](https://www.scribd.com/document/98921232/Bertrand-Russell-Logicomix)
 - [📕 The princeton companion to mathematics (2008)](http://www.goodreads.com/book/show/1471873.The_Princeton_Companion_to_Mathematics)
 - [📕 Visual group theory (2009)](http://www.goodreads.com/book/show/7629307-visual-group-theory-maa-classroom-resource-materials)
@@ -455,11 +455,15 @@ The subdashes after the book may include notes and other useful material related
 - [📖 The napkin project (2017)](https://usamo.files.wordpress.com/2017/02/napkin-2017-02-15.pdf)
 - [📖 Mathematics for computer science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 - [📖 Immersive linear algebra  (2017)](http://immersivemath.com/ila/index.html)
-- [📖 Category Theory for Programmers (2018)](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [📕 Physically based rendering: from theory to implementation](http://www.pbrt.org/)
 - [📕 Invitation to ergodic theory](http://bookstore.ams.org/stml-42)
 - [📖 Abstract Algebra: Theory and Applications](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
+
+## Category theory
+- [📕 Category Theory (2006)](https://www.goodreads.com/book/show/2047855.Category_Theory)
+- [📖 Category Theory in Context (2016)](http://www.math.jhu.edu/~eriehl/context.pdf)
+- [📖 Category Theory for Programmers (2018)](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
 ## Music production
 - [📕 Harmony for Computer Musicians (2010)](https://www.goodreads.com/book/show/8441567-harmony-for-computer-musicians)
