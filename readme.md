@@ -461,7 +461,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
 
 ## Category theory
-- [📕 Category Theory (2006)](https://www.goodreads.com/book/show/2047855.Category_Theory)
+- [📖 Category Theory (2006)](http://angg.twu.net/MINICATS/awodey__category_theory.pdf)
 - [📖 Category Theory in Context (2016)](http://www.math.jhu.edu/~eriehl/context.pdf)
 - [📖 Basic Category Theory (2016)](https://arxiv.org/pdf/1612.09375.pdf)
 - [📖 Category Theory for Programmers (2018)](https://github.com/hmemcpy/milewski-ctfp-pdf)
