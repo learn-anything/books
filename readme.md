@@ -571,6 +571,7 @@ The subdashes after the book may include notes and other useful material related
 
 ## Statistics
 - [📕 The visual display of quantitative information (1983)](http://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information)
+- [📕 Bayesian Data Analysis (1995)](https://www.goodreads.com/book/show/619590.Bayesian_Data_Analysis)
 - [📖 The elements of statistical learning  (2001)](http://statweb.stanford.edu/%7Etibs/ElemStatLearn/printings/ESLII_print10.pdf)
 - [📖 All of statistics (2004)](http://www.stat.cmu.edu/~larry/all-of-statistics/)
 - [📕 Introduction to bayesian statistics (2007)](http://www.goodreads.com/book/show/2378169.Introduction_to_Bayesian_Statistics)
