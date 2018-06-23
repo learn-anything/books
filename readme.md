@@ -235,6 +235,7 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Learning javascript design patterns (2015)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [📖 The javascript way (2017)](https://leanpub.com/thejsway)
 - [📖 Exploring js](http://exploringjs.com/)
+- [📖 Builder Book: Build a Full Stack JavaScript Web App from Scratch (2018)](https://builderbook.org/book)
 
 ## TypeScript
 - [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
