@@ -54,6 +54,7 @@ The subdashes after the book may include notes and other useful material related
 - [Computer networking](#computer-networking)
 - [Nutrition](#nutrition)
 - [Math](#math)
+- [Type theory](#type-theory)
 - [Category theory](#category-theory)
 - [Fitness](#fitness)
 - [Biology](#biology)
@@ -462,11 +463,14 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Abstract Algebra: Theory and Applications](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
 
+## Type theory
+- [📕 Type Theory and Formal Proof: An Introduction (2014)](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
+
 ## Category theory
-- [📖 Category Theory (2006)](http://angg.twu.net/MINICATS/awodey__category_theory.pdf)
-- [📖 Category Theory in Context (2016)](http://www.math.jhu.edu/~eriehl/context.pdf)
-- [📖 Basic Category Theory (2016)](https://arxiv.org/pdf/1612.09375.pdf)
 - [📖 Category Theory for Programmers (2018)](https://github.com/hmemcpy/milewski-ctfp-pdf)
+- [📖 Basic Category Theory (2016)](https://arxiv.org/pdf/1612.09375.pdf)
+- [📖 Category Theory in Context (2016)](http://www.math.jhu.edu/~eriehl/context.pdf)
+- [📖 Category Theory (2006)](http://angg.twu.net/MINICATS/awodey__category_theory.pdf)
 
 ## Music production
 - [📕 Harmony for Computer Musicians (2010)](https://www.goodreads.com/book/show/8441567-harmony-for-computer-musicians)
