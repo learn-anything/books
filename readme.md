@@ -54,6 +54,7 @@ The subdashes after the book may include notes and other useful material related
 - [Computer networking](#computer-networking)
 - [Nutrition](#nutrition)
 - [Math](#math)
+- [Logic](#logic)
 - [Type theory](#type-theory)
 - [Category theory](#category-theory)
 - [Fitness](#fitness)
@@ -445,14 +446,11 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Combinatorial Optimization: Polyhedra and Efficiency (2002)](https://www.goodreads.com/book/show/1186653.Combinatorial_Optimization)
 - [📖 Sets for Mathematics (2003)](http://patryshev.com/books/Sets%20for%20Mathematics.pdf)
 - [📕 A first course in linear algebra (2004)](http://linear.ups.edu/)
-- [📖 The haskell road to logic, math and programming (2004)](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 - [📕 The art of problem solving (2006)](http://www.goodreads.com/book/show/2872282-the-art-of-problem-solving-volume-1)
-- [📖 Logicomix (2008)](https://www.scribd.com/document/98921232/Bertrand-Russell-Logicomix)
 - [📕 The princeton companion to mathematics (2008)](http://www.goodreads.com/book/show/1471873.The_Princeton_Companion_to_Mathematics)
 - [📕 Visual group theory (2009)](http://www.goodreads.com/book/show/7629307-visual-group-theory-maa-classroom-resource-materials)
 - [📕 Algebra: Chapter 0 (2009)](https://www.goodreads.com/book/show/6829004)
 - [📕 Essentials of discrete mathematics (2009)](http://www.goodreads.com/book/show/12132668-essentials-of-discrete-mathematics)
-- [📖 Introduction to Lambda Calculus (2000)](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
 - [📕 Foundations of analysis (2012)](http://www.goodreads.com/book/show/682044.Foundations_of_Mathematical_Analysis)
 - [📖 Homotopy type theory (2013)](https://hott.github.io/book/nightly/hott-online-1075-g3c53219.pdf)
 - [📖 The napkin project (2017)](https://usamo.files.wordpress.com/2017/02/napkin-2017-02-15.pdf)
@@ -462,6 +460,12 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Invitation to ergodic theory](http://bookstore.ams.org/stml-42)
 - [📖 Abstract Algebra: Theory and Applications](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
+
+## Logic
+- [forallx: Cambridge (2017)](http://people.ds.cam.ac.uk/tecb2/forallx.shtml) - Covers both truth-functional logic and first-order logic, introducing students to semantics and to a Fitch-style natural deduction system.
+- [📖 Logicomix (2008)](https://www.scribd.com/document/98921232/Bertrand-Russell-Logicomix)
+- [📖 The Haskell road to logic, math and programming (2004)](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
+- [📖 Introduction to Lambda Calculus (2000)](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
 
 ## Type theory
 - [📕 Type Theory and Formal Proof: An Introduction (2014)](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
