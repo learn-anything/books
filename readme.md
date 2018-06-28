@@ -110,6 +110,7 @@ The subdashes after the book may include notes and other useful material related
 - [Politics](#politics)
 - [Computer Systems](#computer-systems)
 - [Writing](#writing)
+- [Minimalism](#minimalism)
 - [Poetry](#poetry)
 - [Evolution](#evolution)
 - [Film Making](#film-making)
@@ -873,6 +874,9 @@ The subdashes after the book may include notes and other useful material related
 
 ## Writing
 - [📕 Style: Lessons in Clarity and Grace (1981)](https://www.goodreads.com/book/show/6966800)
+
+## Minimalism
+- [📕 Goodbye, Things: The New Japanese Minimalism (2017)](https://www.goodreads.com/book/show/30231806-goodbye-things)
 
 ## Poetry
 - [📕 Letters to a Young Poet (1929)](https://www.goodreads.com/book/show/46199)
