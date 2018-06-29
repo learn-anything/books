@@ -215,14 +215,15 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Functional programming in scala (2014)](https://www.manning.com/books/functional-programming-in-scala)
 
 ## Lisp
-- [📕 The little schemer (1974)](https://mitpress.mit.edu/books/little-schemer)
 - [📕 Lisp in small pieces (1994)](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
+- [📕 The little schemer (1974)](https://mitpress.mit.edu/books/little-schemer)
 
 ## Haskell
-- [📖 Learn You a Haskell for Great Good! (2011)](http://learnyouahaskell.com/)
+- [📕 Haskell in Depth (2018)](https://www.manning.com/books/haskell-in-depth) - Explores the important language features and programming skills you’ll need to build production-quality software using Haskell.
+- [📕 Programming in haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
 - [📖 Write you a haskell (2014)](http://dev.stephendiehl.com/fun/)
 	- [Implementation in code](https://github.com/AlphaMarc/WYAH)
-- [📕 Programming in haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
+- [📖 Learn You a Haskell for Great Good! (2011)](http://learnyouahaskell.com/)
 
 ## JavaScript
 - [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS)
