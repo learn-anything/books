@@ -71,6 +71,7 @@ The subdashes after the book may include notes and other useful material related
 - [Awareness](#awareness)
 - [Computer science](#computer-science)
 - [Computational complexity](#computational-complexity)
+- [Reverse engineering](#reverse-engineering)
 - [Web Development](#web-development)
 	- [React.js](#react.js)
 	- [Node.js](#node.js)
@@ -650,6 +651,9 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The Nature of Computation (2011)](https://www.goodreads.com/book/show/3043127-the-nature-of-computation)
 - [📖 Computational Complexity: A Modern Approach (2007)](http://theory.cs.princeton.edu/complexity/book.pdf)
 - [📕 Computational Complexity (1993)](https://www.goodreads.com/book/show/138562.Computational_Complexity)
+
+## Reverse engineering
+- [📖 Reverse Engineering for Beginners (2018)](https://beginners.re/RE4B-EN.pdf)
 
 ## macOS
 - [📕 Mac OS X and IOS Internals: To the Apple's Core, Volume 1 User Mode (2015)](https://www.goodreads.com/book/show/24730644-mac-os-x-and-ios-internals)
