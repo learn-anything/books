@@ -70,6 +70,7 @@ The subdashes after the book may include notes and other useful material related
 	- [Alternative history](#alternative-history)
 - [Awareness](#awareness)
 - [Computer science](#computer-science)
+- [Computational complexity](#computational-complexity)
 - [Web Development](#web-development)
 	- [React.js](#react.js)
 	- [Node.js](#node.js)
@@ -631,18 +632,24 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Last chance to see](http://www.goodreads.com/book/show/8696.Last_Chance_to_See)
 
 ## Computer science
-- [📕 The new turing omnibus (1989)](http://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus)
+- [📖 Introduction to data compression (2012)](https://github.com/gabrieldiego/tg/blob/master/ref/Introduction%20to%20Data%20Compression%20(4th%20Edition).pdf)
+- [📖 Software foundations (2011)](https://softwarefoundations.cis.upenn.edu/current/index.html)
+- [📕 The nature of computation  (2011)](http://www.nature-of-computation.org/)
+- [📕 Annotated turing (2008)](http://www.goodreads.com/book/show/2333956.The_Annotated_Turing)
+- [📕 The elements of computing systems (2005)](http://www.goodreads.com/book/show/910789.The_Elements_of_Computing_Systems)
+	- [Computer implementation](https://github.com/havivha/Nand2Tetris)
+- [📕 Advanced topics in types and programming languages (2004)](https://www.cis.upenn.edu/%7Ebcpierce/attapl/)
+- [📕 Types and programming languages (2002)](https://www.cis.upenn.edu/%7Ebcpierce/tapl/)
+- [📕 Gems of Theoretical Computer Science (1998)](https://www.goodreads.com/book/show/4715024-gems-of-theoretical-computer-science)
 - [📕 Introduction to the theory of computation (1996)](http://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation)
 	- [Solutions](https://github.com/ryandougherty/Introduction-to-the-Theory-of-Computation-Solutions)
 - [📖 Purely functional data structures (1996)](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
-- [📕 Types and programming languages (2002)](https://www.cis.upenn.edu/%7Ebcpierce/tapl/)
-- [📕 Advanced topics in types and programming languages (2004)](https://www.cis.upenn.edu/%7Ebcpierce/attapl/)
-- [📕 The elements of computing systems (2005)](http://www.goodreads.com/book/show/910789.The_Elements_of_Computing_Systems)
-	- [Computer implementation](https://github.com/havivha/Nand2Tetris)
-- [📕 Annotated turing (2008)](http://www.goodreads.com/book/show/2333956.The_Annotated_Turing)
-- [📕 The nature of computation  (2011)](http://www.nature-of-computation.org/)
-- [📖 Software foundations (2011)](https://softwarefoundations.cis.upenn.edu/current/index.html)
-- [📖 Introduction to data compression (2012)](https://github.com/gabrieldiego/tg/blob/master/ref/Introduction%20to%20Data%20Compression%20(4th%20Edition).pdf)
+- [📕 The new Turing Omnibus (1989)](http://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus)
+
+## Computational complexity
+- [📕 The Nature of Computation (2011)](https://www.goodreads.com/book/show/3043127-the-nature-of-computation)
+- [📖 Computational Complexity: A Modern Approach (2007)](http://theory.cs.princeton.edu/complexity/book.pdf)
+- [📕 Computational Complexity (1993)](https://www.goodreads.com/book/show/138562.Computational_Complexity)
 
 ## macOS
 - [📕 Mac OS X and IOS Internals: To the Apple's Core, Volume 1 User Mode (2015)](https://www.goodreads.com/book/show/24730644-mac-os-x-and-ios-internals)
