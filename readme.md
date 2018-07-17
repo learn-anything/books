@@ -474,6 +474,7 @@ The subdashes after the book may include notes and other useful material related
 
 ## Type theory
 - [📕 Type Theory and Formal Proof: An Introduction (2014)](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
+- [📖 Type Theory & Functional Programming (1999)](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
 
 ## Category theory
 - [📖 Category Theory for Programmers (2018)](https://github.com/hmemcpy/milewski-ctfp-pdf)
