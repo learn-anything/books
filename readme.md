@@ -796,6 +796,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The intelligent investor (1949)](http://www.goodreads.com/book/show/106835.The_Intelligent_Investor)
 
 ## Spirituality
+- [📕 The Quantum and the Lotus: A Journey to the Frontiers Where Science and Buddhism Meet (2000)](https://www.goodreads.com/book/show/222652.The_Quantum_and_the_Lotus)
 - [📕 Journey of souls: case studies of life between lives (1994)](http://www.goodreads.com/book/show/104979.Journey_of_Souls)
 
 ## Game Development
