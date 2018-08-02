@@ -73,8 +73,9 @@ The subdashes after the book may include notes and other useful material related
 - [Computational complexity](#computational-complexity)
 - [Reverse engineering](#reverse-engineering)
 - [Web Development](#web-development)
-	- [React.js](#react.js)
-	- [Node.js](#node.js)
+	- [React](#react)
+	- [Redux](#redux)
+	- [Node](#node)
 	- [Web design](#web-design)
 - [Chemistry](#chemistry)
 - [Visualisation](#visualisation)
@@ -667,11 +668,14 @@ The subdashes after the book may include notes and other useful material related
 ## CSS
 - [📖 Learn CSS Layout the pedantic way (2015)](http://book.mixu.net/css/)
 
-## React.js
+## React
 - [📖 React in Patterns (2018)](https://krasimir.gitbooks.io/react-in-patterns/content/)
 - [📖 The Road to learn React](https://roadtoreact.com/)
 
-## Node.js
+## Redux
+- [📖 Redux Book (2018)](https://read.reduxbook.com/)
+
+## Node
 - [📖 Node up and running (2012)](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
 
 ## Web design
