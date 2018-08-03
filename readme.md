@@ -629,6 +629,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Political order and political decay (2014)](http://www.goodreads.com/book/show/20575435-political-order-and-political-decay)
 - [📕 Conquerors: how portugal forged the first global empire (2015)](http://www.goodreads.com/book/show/25255039-conquerors)
 - [📕 Homo deus: a brief history of tomorrow (2015)](http://www.goodreads.com/book/show/31138556-homo-deus)
+- [📕 Beyond Germs: Native Depopulation in North America (2015)](https://www.goodreads.com/book/show/25362826-beyond-germs)
 
 ## Alternative history
 - [📕 The man in the high castle (1962)](http://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
