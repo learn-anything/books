@@ -609,6 +609,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 The gulag archipelago (1973)](http://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956)
 - [📕 American slavery, american freedom (1975)](http://www.goodreads.com/book/show/43365.American_Slavery_American_Freedom)
 - [📕 A people’s history of the united states (1980)](http://www.goodreads.com/book/show/2767.A_People_s_History_of_the_United_States)
+- [📕 Hackers: Heroes of the Computer Revolution (1984)](https://www.goodreads.com/book/show/56829.Hackers)
 - [📕 The making of atomic bomb (1986)](http://www.goodreads.com/book/show/16884.The_Making_of_the_Atomic_Bomb)
 - [📕 Lenin's tomb: the last days of the soviet empire (1993)](http://www.goodreads.com/book/show/113206.Lenin_s_Tomb)
 - [📕 Why the allies won (1995)](http://www.goodreads.com/book/show/831378.Why_the_Allies_Won)
