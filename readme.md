@@ -306,6 +306,9 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Unix power tools (1993)](http://www.goodreads.com/book/show/172314.UNIX_Power_Tools)
 - [📖 An introduction to unix (2014)](http://www.oliverelliott.org/article/computing/tut_unix/)
 
+## Kubernetes
+- [📕 Kubernetes: Up & Running (2016)](https://www.goodreads.com/book/show/26759355-kubernetes)
+
 ## Fiction
 - [📕 Notes from underground (1864)](http://www.goodreads.com/book/show/17876.Notes_from_Underground_White_Nights_The_Dream_of_a_Ridiculous_Man_and_Selections_from_The_House_of_the_Dead)
 - [📕 Crime and punishment (1866)](http://www.goodreads.com/book/show/7144.Crime_and_Punishment)
