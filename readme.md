@@ -416,6 +416,7 @@ The subdashes after the book may include notes and other useful material related
 - [📕 Computer networking: a top-down approach (2000)](http://www.goodreads.com/book/show/83847.Computer_Networking)
 - [📕 Unix network programming, volume 1: the sockets networking api (2003)](http://www.goodreads.com/book/show/239240.UNIX_Network_Programming_Volume_1)
 - [📕 TCP/IP guide (2005)](http://www.goodreads.com/book/show/505564.The_TCP_IP_Guide)
+- [📖 Computer Networks: A Systems Approach (2012)](https://book.systemsapproach.org/)
 - [📖 High performance browser networking (2013)](https://hpbn.co/)
 - [📖 Openssl cookbook (2015)](https://www.feistyduck.com/library/openssl%2dcookbook/online/)
 - [📖 Beej's guide to network programming (2016)](http://beej.us/guide/bgnet/)
