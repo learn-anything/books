@@ -12,6 +12,7 @@ Emojis before the books show if the book is free or not.
 
 The subdashes after the book may include notes and other useful material related to the book. If you find a free version of the paid book, please swap the link.
 
+---
 ##### Contents
 - [Algorithms](#algorithms)
 - [Art](#art)
@@ -127,12 +128,12 @@ The subdashes after the book may include notes and other useful material related
 	- [React](#react)
 	- [Redux](#redux)
 	- [Web design](#web-design)
-
+---
 - [Related](#related)
 - [Contributing](contributing.md)
 - [More Lists](https://github.com/learn-anything/curated-lists#readme)
 
-***
+---
 
 ## Algorithms
 - [📖 Algorithm design manual (1987)](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf)
@@ -928,7 +929,7 @@ The subdashes after the book may include notes and other useful material related
 ### Web design
 - [📕 Don’t make me think (2000)](http://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 
-***
+---
 
 ## Related
 - [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
