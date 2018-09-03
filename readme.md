@@ -103,7 +103,6 @@ The subdashes after the book may include notes and other useful material related
 - [Psychology](#psychology)
 - [Regular Expressions](#regular-expressions)
 - [Reinforcement learning](#reinforcement-learning)
-- [Related](#related)
 - [Reverse engineering](#reverse-engineering)
 - [Science](#science)
 - [SciFi](#scifi)
@@ -128,6 +127,10 @@ The subdashes after the book may include notes and other useful material related
 	- [React](#react)
 	- [Redux](#redux)
 	- [Web design](#web-design)
+
+- [Related](#related)
+- [Contributing](contributing.md)
+- [More Lists](https://github.com/learn-anything/curated-lists#readme)
 
 ***
 
@@ -928,15 +931,14 @@ The subdashes after the book may include notes and other useful material related
 ***
 
 ## Related
+- [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
+- [Awesome scifi](https://github.com/sindresorhus/awesome-scifi#readme)
+- [Book notes](https://github.com/mgp/book-notes#readme)
+- [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books#readme)
 - [Influenial cs books](https://github.com/chhantyal/influential-cs-books#readme)
-- [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
-- [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
-- [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
-- [Awesome scifi](https://github.com/sindresorhus/awesome-scifi#readme)
-- [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
-- [Book notes](https://github.com/mgp/book-notes#readme)
 - [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
+- [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
 
 ## Contributing
