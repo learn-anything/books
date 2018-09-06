@@ -83,6 +83,7 @@ The subdashes after the book may include notes and other useful material related
 	- [C++](#c-1)
 	- [D](#d)
 	- [Go](#go)
+	- [Clojure](#clojure)
 	- [Haskell](#haskell)
 	- [Java](#java)
 	- [JavaScript](#javascript)
@@ -666,6 +667,9 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Go 101 (2018)](https://go101.org/article/101.html)
 - [📖 Web app with go - anti text book](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
 - [📖 Build web application with golang](%F0%9F%90%99)
+
+### Clojure
+- [📕 Elements of Clojure (2017)](https://www.goodreads.com/book/show/31159768-elements-of-clojure)
 
 ### Haskell
 - [📕 Haskell in Depth (2018)](https://www.manning.com/books/haskell-in-depth) - Explores the important language features and programming skills you’ll need to build production-quality software using Haskell.
