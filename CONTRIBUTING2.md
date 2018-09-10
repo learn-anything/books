@@ -1,5 +1,7 @@
 # Contribution Guidelines
+
 Ensure your pull request adheres to the following guidelines:
+
 - Search included books before adding a new one, as yours may be a duplicate.
 - Use the following format: `<📕 or 📖> [Name](link) (Year) - Description.`
 - If you can't find the year the book was written in, you can skip adding the year.
