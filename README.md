@@ -1,5 +1,5 @@
 # Awesome Books [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md#readme) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
 The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest.
 
@@ -131,7 +131,7 @@ The subdashes after the book may include notes and other useful material related
   - [Web design](#web-design)
 ---
 - [Related](#related)
-- [Contributing](contributing.md)
+- [Contributing](CONTRIBUTING.md)
 - [More Lists](https://github.com/learn-anything/curated-lists#readme)
 
 ---
@@ -948,7 +948,7 @@ The subdashes after the book may include notes and other useful material related
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
 
 ## Contributing
-See [contribution guidelines](contributing.md#readme).
+See [contribution guidelines](CONTRIBUTING.md#readme).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
