@@ -705,8 +705,9 @@ The subdashes after the book may include notes and other useful material related
 - [📖 Builder Book: Build a Full Stack JavaScript Web App from Scratch (2018)](https://builderbook.org/book)
 
 ### Lisp
-- [📕 Lisp in small pieces (1994)](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
+- [📖 Practical Common Lisp (2005)](http://www.gigamonkeys.com/book/)
 - [📕 The little schemer (1974)](https://mitpress.mit.edu/books/little-schemer)
+- [📕 Lisp in small pieces (1994)](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
 
 ### Perl
 - [📖 Modern Perl (2016)](http://modernperlbooks.com/books/modern_perl_2016/index.html)
