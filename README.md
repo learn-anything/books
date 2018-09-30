@@ -1,18 +1,11 @@
-# Awesome Books [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
+# Books
 
-The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest.
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 
-Emojis before the books show if the book is free or not.
-
-|  Emoji |  Meaning |
-|---|---|
-| 📖  |  Book is freely available |
-| 📕  |  Book not freely available |
-
-The subdashes after the book may include notes and other useful material related to the book. If you find a free version of the paid book, please swap the link.
+The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. Emojis before the books show if the book is free or not.
 
 ---
+
 ##### Contents
 - [Algorithms](#algorithms)
 - [Art](#art)
@@ -129,10 +122,7 @@ The subdashes after the book may include notes and other useful material related
   - [React](#react)
   - [Redux](#redux)
   - [Web design](#web-design)
----
-- [Related](#related)
-- [Contributing](CONTRIBUTING.md)
-- [More Lists](https://github.com/learn-anything/curated-lists#readme)
+- [Other](#other)
 
 ---
 
@@ -934,9 +924,7 @@ The subdashes after the book may include notes and other useful material related
 ### Web design
 - [📕 Don’t make me think (2000)](http://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 
----
-
-## Related
+## Other
 - [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
 - [Awesome scifi](https://github.com/sindresorhus/awesome-scifi#readme)
 - [Book notes](https://github.com/mgp/book-notes#readme)
@@ -947,11 +935,7 @@ The subdashes after the book may include notes and other useful material related
 - [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
 
-## Contributing
-See [contribution guidelines](CONTRIBUTING.md#readme).
+---
 
-## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
