@@ -722,12 +722,13 @@ The number after the book name stands for the year in which the book was written
 
 - [📖 Network programming with Go (2012)](https://jan.newmarch.name/go/)
 - [📖 The little go book (2014)](http://openmymind.net/The-Little-Go-Book/)
-- [📖 Go in action (2015)](https://github.com/miguellgt/books/blob/master/go/go-in-action.pdf)
+- [📖 Go in action (2015)](https://github.com/iMarcoGovea/books/blob/master/golang/go-in-action.pdf)
 - [📕 The go programming language (2015)](http://www.goodreads.com/book/show/25080953-the-go-programming-language)
   - [Notes](https://github.com/namit/The-Go-Programming-Language)
 - [📖 Go 101 (2018)](https://go101.org/article/101.html)
 - [📖 Web app with go - anti text book](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
-- [📖 Build web application with golang](%F0%9F%90%99)
+- [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
+  - [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions)
 
 ### Clojure
 
