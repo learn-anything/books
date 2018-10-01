@@ -169,6 +169,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 The effective executive (1967)](http://www.goodreads.com/book/show/48019.The_Effective_Executive)
 - [📕 The hard things about hard things (2014)](http://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things)
 - [📕 Give and take: why helping others drives our success (2014)](http://www.goodreads.com/book/show/16158498-give-and-take)
+- [📕 MAKE: Bootstrapper's Handbook (2018)](https://www.goodreads.com/book/show/39165640-make)
 
 ## Category theory
 
