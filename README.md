@@ -170,6 +170,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 The hard things about hard things (2014)](http://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things)
 - [📕 Give and take: why helping others drives our success (2014)](http://www.goodreads.com/book/show/16158498-give-and-take)
 - [📕 MAKE: Bootstrapper's Handbook (2018)](https://www.goodreads.com/book/show/39165640-make)
+- [📕 The Lean Startup (2011)](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 
 ## Category theory
 
