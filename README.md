@@ -1,6 +1,7 @@
 # Books
 
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+[![Contribute](https://img.shields.io/badge/-contributing-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md)
 
 The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. Emojis before the books show if the book is free or not.
 
