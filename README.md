@@ -609,7 +609,6 @@ The number after the book name stands for the year in which the book was written
 - [📕 Molecular basis of neuropharmacology: a foundation for clinical neuroscience (2001)](http://www.goodreads.com/book/show/818044.Molecular_Basis_of_Neuropharmacology)
 - [📕 Synaptic self: how our brains become who we are (2002)](http://www.goodreads.com/book/show/151132.Synaptic_Self)
 - [📕 The Brain That Changes Itself (2007)](https://www.goodreads.com/book/show/570172.The_Brain_That_Changes_Itself)
-- [📕 Thinking, fast and slow (2011)](http://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
 ## Non Fiction
 
@@ -887,9 +886,9 @@ The number after the book name stands for the year in which the book was written
 
 ## Psychology
 
-- [📕 Influence: the psychology of persuasion (1984)](http://www.goodreads.com/book/show/28815.Influence)
-- [📕 On intelligence (2004)](http://www.goodreads.com/book/show/27539.On_Intelligence)
 - [📕 Thinking, Fast and Slow (2011)](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+- [📕 On intelligence (2004)](http://www.goodreads.com/book/show/27539.On_Intelligence)
+- [📕 Influence: the psychology of persuasion (1984)](http://www.goodreads.com/book/show/28815.Influence)
 
 ## Regular Expressions
 
