@@ -233,6 +233,7 @@ The number after the book name stands for the year in which the book was written
   - [Solutions](https://github.com/ryandougherty/Introduction-to-the-Theory-of-Computation-Solutions)
 - [📖 Purely functional data structures (1996)](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 - [📕 The new Turing Omnibus (1989)](http://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus)
+- [📕 Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
 
 ## Computer Systems
 
