@@ -889,6 +889,7 @@ The number after the book name stands for the year in which the book was written
 
 - [📕 Influence: the psychology of persuasion (1984)](http://www.goodreads.com/book/show/28815.Influence)
 - [📕 On intelligence (2004)](http://www.goodreads.com/book/show/27539.On_Intelligence)
+- [📕 Thinking, Fast and Slow (2011)](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
 ## Regular Expressions
 
