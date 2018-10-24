@@ -95,6 +95,7 @@ The number after the book name stands for the year in which the book was written
   - [Smalltalk](#smalltalk)
   - [Swift](#swift)
   - [TypeScript](#typescript)
+  - [Agda](#agda)
 - [Programming](#programming)
 - [Psychedelics](#psychedelics)
 - [Psychology](#psychology)
@@ -846,6 +847,10 @@ The number after the book name stands for the year in which the book was written
 ### TypeScript
 
 - [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
+
+### Agda
+
+- [📖 Programming Language Foundations in Agda (2018)](https://plfa.github.io/)
 
 ## Programming
 
