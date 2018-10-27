@@ -877,6 +877,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 Programming in the large with design patterns (2012)](http://www.goodreads.com/book/show/16418148-programming-in-the-large-with-design-patterns)
 - [📕 Dynamic Programming and Optimal Control (2012)](http://www.athenasc.com/dpbook.html)
 - [📖 How These Things Work (2016)](http://reasonablypolymorphic.com/book/preface)
+- [📕 Introduction to the Theory of Complex Systems (2018)](https://www.goodreads.com/book/show/40404857-introduction-to-the-theory-of-complex-systems)
 - [📖 Composing programs](http://www.composingprograms.com/)
 
 ## Psychedelics
