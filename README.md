@@ -11,6 +11,7 @@ The number after the book name stands for the year in which the book was written
 
 - [Algorithms](#algorithms)
 - [Art](#art)
+- [Autobiography](#autobiography)
 - [Awareness](#awareness)
 - [Biographies](#biographies)
 - [Biology](#biology)
@@ -140,6 +141,10 @@ The number after the book name stands for the year in which the book was written
 ## Art
 
 - [📕 Drawing on the right side of the brain (1979)](http://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain)
+
+## Autobiography
+
+- [📕 I know why the caged bird sings (1993)](https://www.goodreads.com/book/show/13214.I_Know_Why_the_Caged_Bird_Sings)
 
 ## Awareness
 
