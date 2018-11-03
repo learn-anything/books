@@ -501,6 +501,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 Artificial intelligence a modern approach (1994)](http://www.goodreads.com/book/show/27543.Artificial_Intelligence)
 - [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
 - [📖 Deep learning](http://www.deeplearningbook.org/)
+- [📖 The Nature of Code (2012)](http://natureofcode.com/book/)
 
 ## Management
 
