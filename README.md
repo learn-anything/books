@@ -118,13 +118,14 @@ The number after the book name stands for the year in which the book was written
 - [Unix](#unix)
 - [Version Control](#version-control)
   - [Git](#git)
-- [Visualisation](#visualisation)
+- [Visualization](#visualization)
 - [Writing](#writing)
 - [Web Development](#web-development)
   - [CSS](#css)
   - [Node](#node)
   - [React](#react)
   - [Redux](#redux)
+  - [Webpack](#webpack)
   - [Web design](#web-design)
 - [Other](#other)
 
@@ -1022,7 +1023,7 @@ The number after the book name stands for the year in which the book was written
 - [📖 Git in practice (2014)](https://content.mirantis.com/rs/451-RBY-185/images/McQuaid-git-in-practice.pdf)
 - [📖 Pro git (2014)](https://git-scm.com/book/en/v2)
 
-## Visualisation
+## Visualization
 
 - [📕 Envisioning information (1990)](http://www.goodreads.com/book/show/17745.Envisioning_Information)
 
@@ -1050,6 +1051,10 @@ The number after the book name stands for the year in which the book was written
 ### Redux
 
 - [📖 Redux Book (2018)](https://read.reduxbook.com/)
+
+### Webpack
+
+- [📖 Webpack: From apprentice to master (2018)](https://survivejs.com/webpack/preface/)
 
 ### Web design
 
