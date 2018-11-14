@@ -13,6 +13,7 @@ The number after the book name stands for the year in which the book was written
 - [Art](#art)
 - [Autobiography](#autobiography)
 - [Awareness](#awareness)
+- [Basic Income](#basic-income)
 - [Biographies](#biographies)
 - [Biology](#biology)
 - [Business](#business)
@@ -150,6 +151,10 @@ The number after the book name stands for the year in which the book was written
 ## Awareness
 
 - [📕 Last chance to see](http://www.goodreads.com/book/show/8696.Last_Chance_to_See)
+
+## Basic Income
+
+- [📖 World After Capital (2018)](http://worldaftercapital.org/)
 
 ## Biographies
 
