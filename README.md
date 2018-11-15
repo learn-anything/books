@@ -85,6 +85,7 @@ The number after the book name stands for the year in which the book was written
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Lisp](#lisp)
+  - [OCaml](#ocaml)
   - [Perl](#perl)
   - [Prolog](#prolog)
   - [Purescript](#purescript)
@@ -790,6 +791,11 @@ The number after the book name stands for the year in which the book was written
 - [📖 Practical Common Lisp (2005)](http://www.gigamonkeys.com/book/)
 - [📕 The little schemer (1974)](https://mitpress.mit.edu/books/little-schemer)
 - [📕 Lisp in small pieces (1994)](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
+
+### OCaml
+
+- [📖 Real World OCaml (2018)](http://dev.realworldocaml.org/)
+
 
 ### Perl
 
