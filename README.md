@@ -11,7 +11,9 @@ The number after the book name stands for the year in which the book was written
 
 - [Algorithms](#algorithms)
 - [Art](#art)
+- [Autobiography](#autobiography)
 - [Awareness](#awareness)
+- [Basic Income](#basic-income)
 - [Biographies](#biographies)
 - [Biology](#biology)
 - [Business](#business)
@@ -83,6 +85,7 @@ The number after the book name stands for the year in which the book was written
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Lisp](#lisp)
+  - [OCaml](#ocaml)
   - [Perl](#perl)
   - [Prolog](#prolog)
   - [Purescript](#purescript)
@@ -95,6 +98,7 @@ The number after the book name stands for the year in which the book was written
   - [Smalltalk](#smalltalk)
   - [Swift](#swift)
   - [TypeScript](#typescript)
+  - [Agda](#agda)
 - [Programming](#programming)
 - [Psychedelics](#psychedelics)
 - [Psychology](#psychology)
@@ -116,13 +120,14 @@ The number after the book name stands for the year in which the book was written
 - [Unix](#unix)
 - [Version Control](#version-control)
   - [Git](#git)
-- [Visualisation](#visualisation)
+- [Visualization](#visualization)
 - [Writing](#writing)
 - [Web Development](#web-development)
   - [CSS](#css)
   - [Node](#node)
   - [React](#react)
   - [Redux](#redux)
+  - [Webpack](#webpack)
   - [Web design](#web-design)
 - [Other](#other)
 
@@ -140,9 +145,17 @@ The number after the book name stands for the year in which the book was written
 
 - [📕 Drawing on the right side of the brain (1979)](http://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain)
 
+## Autobiography
+
+- [📕 I know why the caged bird sings (1993)](https://www.goodreads.com/book/show/13214.I_Know_Why_the_Caged_Bird_Sings)
+
 ## Awareness
 
 - [📕 Last chance to see](http://www.goodreads.com/book/show/8696.Last_Chance_to_See)
+
+## Basic Income
+
+- [📖 World After Capital (2018)](http://worldaftercapital.org/)
 
 ## Biographies
 
@@ -247,9 +260,10 @@ The number after the book name stands for the year in which the book was written
 
 ## Cryptography
 
-- [📕 The code book (1999)](http://www.goodreads.com/book/show/17994.The_Code_Book)
+- [📖 Practical Cryptography for Developers (2018)](https://cryptobook.nakov.com/?q=)
+- [📖 Graduate course in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
 - [📖 Engineering security (2014)](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
-- [📖 A graduate corse in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
+- [📕 The code book (1999)](http://www.goodreads.com/book/show/17994.The_Code_Book)
 
 ## Cryptocurrencies
 
@@ -421,6 +435,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Game Development
 
+- [📕 Game Engine Architecture Book (2018)](https://www.gameenginebook.com/)
 - [📕 Tricks of the 3D game programming gurus-advanced 3D graphics and rasterisation (2003)](http://www.goodreads.com/book/show/2042298.Tricks_of_the_3D_Game_Programming_Gurus)
 - [📕 Game programming patterns](http://gameprogrammingpatterns.com/)
 
@@ -495,6 +510,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 Artificial intelligence a modern approach (1994)](http://www.goodreads.com/book/show/27543.Artificial_Intelligence)
 - [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
 - [📖 Deep learning](http://www.deeplearningbook.org/)
+- [📖 The Nature of Code (2012)](http://natureofcode.com/book/)
 
 ## Management
 
@@ -609,7 +625,6 @@ The number after the book name stands for the year in which the book was written
 - [📕 Molecular basis of neuropharmacology: a foundation for clinical neuroscience (2001)](http://www.goodreads.com/book/show/818044.Molecular_Basis_of_Neuropharmacology)
 - [📕 Synaptic self: how our brains become who we are (2002)](http://www.goodreads.com/book/show/151132.Synaptic_Self)
 - [📕 The Brain That Changes Itself (2007)](https://www.goodreads.com/book/show/570172.The_Brain_That_Changes_Itself)
-- [📕 Thinking, fast and slow (2011)](http://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
 ## Non Fiction
 
@@ -739,6 +754,7 @@ The number after the book name stands for the year in which the book was written
 ### Haskell
 
 - [📕 Haskell in Depth (2018)](https://www.manning.com/books/haskell-in-depth) - Explores the important language features and programming skills you’ll need to build production-quality software using Haskell.
+- [📕 Thinking with Types (2018)](https://leanpub.com/thinking-with-types) - Type-Level Programming in Haskell.
 - [📕 Programming in haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
 - [📖 Write you a haskell (2014)](http://dev.stephendiehl.com/fun/)
   - [Implementation in code](https://github.com/AlphaMarc/WYAH)
@@ -777,6 +793,11 @@ The number after the book name stands for the year in which the book was written
 - [📖 Practical Common Lisp (2005)](http://www.gigamonkeys.com/book/)
 - [📕 The little schemer (1974)](https://mitpress.mit.edu/books/little-schemer)
 - [📕 Lisp in small pieces (1994)](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
+
+### OCaml
+
+- [📖 Real World OCaml (2018)](http://dev.realworldocaml.org/)
+
 
 ### Perl
 
@@ -848,6 +869,10 @@ The number after the book name stands for the year in which the book was written
 
 - [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
 
+### Agda
+
+- [📖 Programming Language Foundations in Agda (2018)](https://plfa.github.io/)
+
 ## Programming
 
 - [📕 The art of computer programming (1968-)](http://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
@@ -873,6 +898,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 Programming in the large with design patterns (2012)](http://www.goodreads.com/book/show/16418148-programming-in-the-large-with-design-patterns)
 - [📕 Dynamic Programming and Optimal Control (2012)](http://www.athenasc.com/dpbook.html)
 - [📖 How These Things Work (2016)](http://reasonablypolymorphic.com/book/preface)
+- [📕 Introduction to the Theory of Complex Systems (2018)](https://www.goodreads.com/book/show/40404857-introduction-to-the-theory-of-complex-systems)
 - [📖 Composing programs](http://www.composingprograms.com/)
 
 ## Psychedelics
@@ -887,8 +913,9 @@ The number after the book name stands for the year in which the book was written
 
 ## Psychology
 
-- [📕 Influence: the psychology of persuasion (1984)](http://www.goodreads.com/book/show/28815.Influence)
+- [📕 Thinking, Fast and Slow (2011)](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [📕 On intelligence (2004)](http://www.goodreads.com/book/show/27539.On_Intelligence)
+- [📕 Influence: the psychology of persuasion (1984)](http://www.goodreads.com/book/show/28815.Influence)
 
 ## Regular Expressions
 
@@ -1010,7 +1037,7 @@ The number after the book name stands for the year in which the book was written
 - [📖 Git in practice (2014)](https://content.mirantis.com/rs/451-RBY-185/images/McQuaid-git-in-practice.pdf)
 - [📖 Pro git (2014)](https://git-scm.com/book/en/v2)
 
-## Visualisation
+## Visualization
 
 - [📕 Envisioning information (1990)](http://www.goodreads.com/book/show/17745.Envisioning_Information)
 
@@ -1038,6 +1065,10 @@ The number after the book name stands for the year in which the book was written
 ### Redux
 
 - [📖 Redux Book (2018)](https://read.reduxbook.com/)
+
+### Webpack
+
+- [📖 Webpack: From apprentice to master (2018)](https://survivejs.com/webpack/preface/)
 
 ### Web design
 
