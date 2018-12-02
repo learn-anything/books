@@ -521,6 +521,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Math
 
+- [📕 Programmer's Introduction to Mathematics (2018)](https://pimbook.org/)
 - [📖 A mathematician's apology (1940)](https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf)
 - [📕 Handbook of mathematics (1945)](http://www.goodreads.com/book/show/1904487.Handbook_of_Mathematics)
 - [📕 Fantasia mathematica (1958)](http://www.goodreads.com/book/show/74703.Fantasia_Mathematica)
