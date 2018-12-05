@@ -204,7 +204,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 Compilers: Principles, Techniques, and Tools (1986)](https://www.goodreads.com/book/show/703102.Compilers)
 - [📖 Compiler Construction by Niklaus Wirth (1996)](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
 - [📕 Modern Compiler Implementation in ML (1997)](https://www.goodreads.com/book/show/258558.Modern_Compiler_Implementation_in_ML)
-- [📕 Advanced compiler design and implementation](http://www.goodreads.com/book/show/887908.Advanced_Compiler_Design_and_Implementation)
+- [📕 Advanced Compiler Design and Implementation (1997)](http://www.goodreads.com/book/show/887908.Advanced_Compiler_Design_and_Implementation)
 
 ## Computational complexity
 
@@ -521,6 +521,7 @@ The number after the book name stands for the year in which the book was written
 
 ## Math
 
+- [📕 Programmer's Introduction to Mathematics (2018)](https://pimbook.org/)
 - [📖 A mathematician's apology (1940)](https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf)
 - [📕 Handbook of mathematics (1945)](http://www.goodreads.com/book/show/1904487.Handbook_of_Mathematics)
 - [📕 Fantasia mathematica (1958)](http://www.goodreads.com/book/show/74703.Fantasia_Mathematica)
@@ -755,8 +756,9 @@ The number after the book name stands for the year in which the book was written
 
 - [📕 Haskell in Depth (2018)](https://www.manning.com/books/haskell-in-depth) - Explores the important language features and programming skills you’ll need to build production-quality software using Haskell.
 - [📕 Thinking with Types (2018)](https://leanpub.com/thinking-with-types) - Type-Level Programming in Haskell.
-- [📕 Programming in haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
-- [📖 Write you a haskell (2014)](http://dev.stephendiehl.com/fun/)
+- [📕 The Haskell School of Music (2018)](https://www.goodreads.com/book/show/18299474-the-haskell-school-of-music)
+- [📕 Programming in Haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
+- [📖 Write you a Haskell (2014)](http://dev.stephendiehl.com/fun/)
   - [Implementation in code](https://github.com/AlphaMarc/WYAH)
 - [📖 Learn You a Haskell for Great Good! (2011)](http://learnyouahaskell.com/)
 
