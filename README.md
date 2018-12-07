@@ -501,6 +501,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 Tensorflow machine learning cookbook (2017)](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook)
   - [Code](https://github.com/nfmcclure/tensorflow_cookbook)
 - [📕 Hands-On Machine Learning with Scikit-Learn and TensorFlow (2017)](https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow)
+- [📕 Machine Learning with Go (2017)](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go) - Build simple, maintainable, and easy to deploy machine learning applications.
 - [📖 Neural Networks and Deep Learning (2015)](http://neuralnetworksanddeeplearning.com/index.html)
 - [📖 Understanding machine learning: from theory to algorithms (2014)](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 - [📕 Superintelligence: paths, dangers, strategies (2014)](http://www.goodreads.com/book/show/20527133-superintelligence)
