@@ -53,6 +53,7 @@ The number after the book name stands for the year in which the book was written
   - [Alternative history](#alternative-history)
 - [Investing](#investing)
 - [Kubernetes](#kubernetes)
+- [Leadership](#leadership)
 - [Logic](#logic)
 - [Machine learning](#machine-learning)
 - [Management](#management-)
@@ -486,6 +487,10 @@ The number after the book name stands for the year in which the book was written
 ## Kubernetes
 
 - [📕 Kubernetes: Up & Running (2016)](https://www.goodreads.com/book/show/26759355-kubernetes)
+
+## Leadership
+
+- [📕 The Five Dysfunctions of a Team: A Leadership Fable (2002)](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
 
 ## Logic
 
