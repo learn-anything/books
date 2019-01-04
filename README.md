@@ -211,9 +211,9 @@ The number after the book name stands for the year in which the book was written
 
 ## Computational complexity
 
-- [📕 The Nature of Computation (2011)](https://www.goodreads.com/book/show/3043127-the-nature-of-computation)
-- [📖 Computational Complexity: A Modern Approach (2007)](http://theory.cs.princeton.edu/complexity/book.pdf)
 - [📕 Computational Complexity (1993)](https://www.goodreads.com/book/show/138562.Computational_Complexity)
+- [📖 Computational Complexity: A Modern Approach (2007)](http://theory.cs.princeton.edu/complexity/book.pdf)
+- [📕 The Nature of Computation (2011)](https://www.goodreads.com/book/show/3043127-the-nature-of-computation)
 
 ## Computer graphics
 
@@ -236,25 +236,25 @@ The number after the book name stands for the year in which the book was written
 
 ## Computer science
 
-- [📖 Introduction to data compression (2012)](<https://github.com/gabrieldiego/tg/blob/master/ref/Introduction%20to%20Data%20Compression%20(4th%20Edition).pdf>)
-- [📖 Software foundations (2011)](https://softwarefoundations.cis.upenn.edu/current/index.html)
-- [📕 The nature of computation (2011)](http://www.nature-of-computation.org/)
-- [📕 Annotated turing (2008)](http://www.goodreads.com/book/show/2333956.The_Annotated_Turing)
-- [📕 The elements of computing systems (2005)](http://www.goodreads.com/book/show/910789.The_Elements_of_Computing_Systems)
-  - [Computer implementation](https://github.com/havivha/Nand2Tetris)
-- [📕 Advanced topics in types and programming languages (2004)](https://www.cis.upenn.edu/%7Ebcpierce/attapl/)
-- [📕 Types and programming languages (2002)](https://www.cis.upenn.edu/%7Ebcpierce/tapl/)
-- [📕 Gems of Theoretical Computer Science (1998)](https://www.goodreads.com/book/show/4715024-gems-of-theoretical-computer-science)
+- [📕 The new Turing Omnibus (1989)](http://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus)
+- [📖 Purely functional data structures (1996)](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 - [📕 Introduction to the theory of computation (1996)](http://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation)
   - [Solutions](https://github.com/ryandougherty/Introduction-to-the-Theory-of-Computation-Solutions)
-- [📖 Purely functional data structures (1996)](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
-- [📕 The new Turing Omnibus (1989)](http://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus)
+- [📕 Gems of Theoretical Computer Science (1998)](https://www.goodreads.com/book/show/4715024-gems-of-theoretical-computer-science)
+- [📕 Types and programming languages (2002)](https://www.cis.upenn.edu/%7Ebcpierce/tapl/)
+- [📕 Advanced topics in types and programming languages (2004)](https://www.cis.upenn.edu/%7Ebcpierce/attapl/)
+- [📕 The elements of computing systems (2005)](http://www.goodreads.com/book/show/910789.The_Elements_of_Computing_Systems)
+  - [Computer implementation](https://github.com/havivha/Nand2Tetris)
+- [📕 Annotated turing (2008)](http://www.goodreads.com/book/show/2333956.The_Annotated_Turing)
+- [📕 The nature of computation (2011)](http://www.nature-of-computation.org/)
+- [📖 Software foundations (2011)](https://softwarefoundations.cis.upenn.edu/current/index.html)
+- [📖 Introduction to data compression (2012)](<https://github.com/gabrieldiego/tg/blob/master/ref/Introduction%20to%20Data%20Compression%20(4th%20Edition).pdf>)
 
 ## Computer Systems
 
+- [📖 NASA System Engineering (2007)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook.pdf)
 - [📖 Distributed systems (2013)](http://book.mixu.net/distsys/)
 - [📕 General Systems Thinking (2015)](https://www.goodreads.com/book/show/583766.An_Introduction_to_General_Systems_Thinking)
-- [📖 NASA System Engineering (2007)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook.pdf)
 - [📕 Computer systems: a programmer’s perspective](http://www.goodreads.com/book/show/829182.Computer_Systems)
 
 ## Creativity
@@ -263,10 +263,10 @@ The number after the book name stands for the year in which the book was written
 
 ## Cryptography
 
-- [📖 Practical Cryptography for Developers (2018)](https://cryptobook.nakov.com/?q=)
-- [📖 Graduate course in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
-- [📖 Engineering security (2014)](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
 - [📕 The code book (1999)](http://www.goodreads.com/book/show/17994.The_Code_Book)
+- [📖 Engineering security (2014)](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
+- [📖 Graduate course in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
+- [📖 Practical Cryptography for Developers (2018)](https://cryptobook.nakov.com/?q=)
 
 ## Cryptocurrencies
 
@@ -438,8 +438,8 @@ The number after the book name stands for the year in which the book was written
 
 ## Game Development
 
-- [📕 Game Engine Architecture Book (2018)](https://www.gameenginebook.com/)
 - [📕 Tricks of the 3D game programming gurus-advanced 3D graphics and rasterisation (2003)](http://www.goodreads.com/book/show/2042298.Tricks_of_the_3D_Game_Programming_Gurus)
+- [📕 Game Engine Architecture Book (2018)](https://www.gameenginebook.com/)
 - [📕 Game programming patterns](http://gameprogrammingpatterns.com/)
 
 ## Graphic design
@@ -495,30 +495,30 @@ The number after the book name stands for the year in which the book was written
 
 ## Logic
 
-- [forallx: Cambridge (2017)](http://people.ds.cam.ac.uk/tecb2/forallx.shtml) - Covers both truth-functional logic and first-order logic, introducing students to semantics and to a Fitch-style natural deduction system.
-- [📖 Logicomix (2008)](https://www.scribd.com/document/98921232/Bertrand-Russell-Logicomix)
-- [📖 The Haskell road to logic, math and programming (2004)](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 - [📖 Introduction to Lambda Calculus (2000)](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
+- [📖 The Haskell road to logic, math and programming (2004)](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
+- [📖 Logicomix (2008)](https://www.scribd.com/document/98921232/Bertrand-Russell-Logicomix)
+- [forallx: Cambridge (2017)](http://people.ds.cam.ac.uk/tecb2/forallx.shtml) - Covers both truth-functional logic and first-order logic, introducing students to semantics and to a Fitch-style natural deduction system.
 
 ## Machine learning
 
-- [📖 Interpretable Machine Learning (2018)](https://christophm.github.io/interpretable-ml-book/index.html)
+- [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
+- [📕 Artificial intelligence a modern approach (1994)](http://www.goodreads.com/book/show/27543.Artificial_Intelligence)
+- [📕 Machine learning (1997)](http://www.cs.cmu.edu/~tom/mlbook.html)
+- [📖 The quest for artificial intelligence - a history of ideas and achievements (2009)](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
+- [📕 Introduction to artificial intelligence (2011)](http://www.goodreads.com/book/show/11328752-introduction-to-artificial-intelligence)
+- [📕 Machine learning: a probabilistic perspective (2012)](http://www.goodreads.com/book/show/15857489-machine-learning)
+- [📖 The Nature of Code (2012)](http://natureofcode.com/book/)
+- [📕 Superintelligence: paths, dangers, strategies (2014)](http://www.goodreads.com/book/show/20527133-superintelligence)
+- [📖 Understanding machine learning: from theory to algorithms (2014)](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+- [📖 Neural Networks and Deep Learning (2015)](http://neuralnetworksanddeeplearning.com/index.html)
 - [📕 Deep Larning with Python (2017)](https://www.goodreads.com/book/show/33986067-deep-learning-with-python)
 - [📕 Tensorflow machine learning cookbook (2017)](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook)
   - [Code](https://github.com/nfmcclure/tensorflow_cookbook)
 - [📕 Hands-On Machine Learning with Scikit-Learn and TensorFlow (2017)](https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow)
 - [📕 Machine Learning with Go (2017)](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go) - Build simple, maintainable, and easy to deploy machine learning applications.
-- [📖 Neural Networks and Deep Learning (2015)](http://neuralnetworksanddeeplearning.com/index.html)
-- [📖 Understanding machine learning: from theory to algorithms (2014)](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
-- [📕 Superintelligence: paths, dangers, strategies (2014)](http://www.goodreads.com/book/show/20527133-superintelligence)
-- [📕 Machine learning: a probabilistic perspective (2012)](http://www.goodreads.com/book/show/15857489-machine-learning)
-- [📕 Introduction to artificial intelligence (2011)](http://www.goodreads.com/book/show/11328752-introduction-to-artificial-intelligence)
-- [📖 The quest for artificial intelligence - a history of ideas and achievements (2009)](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
-- [📕 Machine learning (1997)](http://www.cs.cmu.edu/~tom/mlbook.html)
-- [📕 Artificial intelligence a modern approach (1994)](http://www.goodreads.com/book/show/27543.Artificial_Intelligence)
-- [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
+- [📖 Interpretable Machine Learning (2018)](https://christophm.github.io/interpretable-ml-book/index.html)
 - [📖 Deep learning](http://www.deeplearningbook.org/)
-- [📖 The Nature of Code (2012)](http://natureofcode.com/book/)
 
 ## Management
 
@@ -529,7 +529,6 @@ The number after the book name stands for the year in which the book was written
 
 ## Math
 
-- [📕 Programmer's Introduction to Mathematics (2018)](https://pimbook.org/)
 - [📖 A mathematician's apology (1940)](https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf)
 - [📕 Handbook of mathematics (1945)](http://www.goodreads.com/book/show/1904487.Handbook_of_Mathematics)
 - [📕 Fantasia mathematica (1958)](http://www.goodreads.com/book/show/74703.Fantasia_Mathematica)
@@ -566,6 +565,7 @@ The number after the book name stands for the year in which the book was written
 - [📖 The napkin project (2017)](https://usamo.files.wordpress.com/2017/02/napkin-2017-02-15.pdf)
 - [📖 Mathematics for computer science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 - [📖 Immersive linear algebra (2017)](http://immersivemath.com/ila/index.html)
+- [📕 Programmer's Introduction to Mathematics (2018)](https://pimbook.org/)
 - [📕 Physically based rendering: from theory to implementation](http://www.pbrt.org/)
 - [📕 Invitation to ergodic theory](http://bookstore.ams.org/stml-42)
 - [📖 Abstract Algebra: Theory and Applications](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
@@ -763,13 +763,13 @@ The number after the book name stands for the year in which the book was written
 
 ### Haskell
 
+- [📖 Learn You a Haskell for Great Good! (2011)](http://learnyouahaskell.com/)
+- [📖 Write you a Haskell (2014)](http://dev.stephendiehl.com/fun/)
+  - [Implementation in code](https://github.com/AlphaMarc/WYAH)
+- [📕 Programming in Haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
 - [📕 Haskell in Depth (2018)](https://www.manning.com/books/haskell-in-depth) - Explores the important language features and programming skills you’ll need to build production-quality software using Haskell.
 - [📕 Thinking with Types (2018)](https://leanpub.com/thinking-with-types) - Type-Level Programming in Haskell.
 - [📕 The Haskell School of Music (2018)](https://www.goodreads.com/book/show/18299474-the-haskell-school-of-music)
-- [📕 Programming in Haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
-- [📖 Write you a Haskell (2014)](http://dev.stephendiehl.com/fun/)
-  - [Implementation in code](https://github.com/AlphaMarc/WYAH)
-- [📖 Learn You a Haskell for Great Good! (2011)](http://learnyouahaskell.com/)
 
 ### Java
 
@@ -791,19 +791,19 @@ The number after the book name stands for the year in which the book was written
   - [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
   - [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
   - [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+- [📖 Exploring js](http://exploringjs.com/)
 - [📖 Eloquent JavaScript (2011)](http://eloquentjavascript.net/00_intro.html)
 - [📕 Effective JavaScript: 68 specific ways to harness the power of JavaScript (2012)](http://www.goodreads.com/book/show/13705402-effective-javascript)
 - [📕 Secrets of the JavaScript ninja (2013)](http://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
 - [📖 Learning JavaScript design patterns (2015)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [📖 The JavaScript way (2017)](https://leanpub.com/thejsway)
-- [📖 Exploring js](http://exploringjs.com/)
 - [📖 Builder Book: Build a Full Stack JavaScript Web App from Scratch (2018)](https://builderbook.org/book)
 
 ### Lisp
 
-- [📖 Practical Common Lisp (2005)](http://www.gigamonkeys.com/book/)
 - [📕 The little schemer (1974)](https://mitpress.mit.edu/books/little-schemer)
 - [📕 Lisp in small pieces (1994)](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
+- [📖 Practical Common Lisp (2005)](http://www.gigamonkeys.com/book/)
 
 ### OCaml
 
@@ -1036,8 +1036,8 @@ The number after the book name stands for the year in which the book was written
 
 ## Type theory
 
-- [📕 Type Theory and Formal Proof: An Introduction (2014)](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
 - [📖 Type Theory & Functional Programming (1999)](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
+- [📕 Type Theory and Formal Proof: An Introduction (2014)](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
 
 ## Unix
 
