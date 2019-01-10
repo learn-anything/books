@@ -337,7 +337,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 The glass bead game (1943)](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game)
 - [📕 Animal farm (1945)](http://www.goodreads.com/book/show/7613.Animal_Farm)
 - [📕 The plague (1947)](http://www.goodreads.com/book/show/11989.The_Plague)
-- [📕 No longer human (1948)](http://www.wikiwand.com/en/No_Longer_Human)
+- [📕 No longer human (1948)](http://en.wikipedia.org/wiki/No_Longer_Human)
 - [📕 Nineteen eighty-four (1949)](https://www.goodreads.com/book/show/5470.1984)
 - [📕 Bel: An essay on man in revolt (1951)](http://www.goodreads.com/book/show/11990.The_Rebel)
 - [📕 East of eden (1952)](http://www.goodreads.com/book/show/4406.East_of_Eden)
