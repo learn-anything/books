@@ -519,6 +519,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 Machine Learning with Go (2017)](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go) - Build simple, maintainable, and easy to deploy machine learning applications.
 - [📖 Interpretable Machine Learning (2018)](https://christophm.github.io/interpretable-ml-book/index.html)
 - [📖 Deep learning](http://www.deeplearningbook.org/)
+- [📖 Interpretable machine learning (2018)](https://christophm.github.io/interpretable-ml-book/) - Explaining the decisions and behavior of machine learning models.
 
 ## Management
 
