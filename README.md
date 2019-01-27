@@ -103,6 +103,7 @@ The number after the book name stands for the year in which the book was written
 - [Programming](#programming)
 - [Psychedelics](#psychedelics)
 - [Psychology](#psychology)
+- [Quantum physics](#quantum-physics)
 - [Regular Expressions](#regular-expressions)
 - [Reinforcement learning](#reinforcement-learning)
 - [Reverse engineering](#reverse-engineering)
@@ -928,6 +929,10 @@ The number after the book name stands for the year in which the book was written
 - [📕 Thinking, Fast and Slow (2011)](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [📕 On intelligence (2004)](http://www.goodreads.com/book/show/27539.On_Intelligence)
 - [📕 Influence: the psychology of persuasion (1984)](http://www.goodreads.com/book/show/28815.Influence)
+
+## Quantum physics
+
+- [📕 Quantum: A Guide for the Perplexed (2003)](https://www.goodreads.com/book/show/100034.Quantum)
 
 ## Regular Expressions
 
