@@ -141,7 +141,8 @@ The number after the book name stands for the year in which the book was written
 - [📖 Algorithm design manual (1987)](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf)
 - [📕 Introduction to algorithms (1990)](http://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)
 - [📕 Algorithm design (2005)](http://www.goodreads.com/book/show/145055.Algorithm_Design)
-- [📖 Algorithms etc by jeff erickson (2015)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+- [📖 Algorithms by Dasgupta (2006)](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
+- [📖 Algorithms etc by Jeff Erickson (2015)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [📖 Algorithm design: parallel and sequential](http://www.parallel-algorithms-book.com/)
 
 ## Art
