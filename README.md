@@ -10,6 +10,7 @@ The number after the book name stands for the year in which the book was written
 ##### Contents
 
 - [Algorithms](#algorithms)
+- [Architexture](#architexture)
 - [Art](#art)
 - [Autobiography](#autobiography)
 - [Awareness](#awareness)
@@ -26,6 +27,7 @@ The number after the book name stands for the year in which the book was written
 - [Computer science](#computer-science)
 - [Computer Systems](#computer-systems)
 - [Creativity](#creativity)
+- [Cybernetics](#cybernetics) 
 - [Cryptography](#cryptography)
 - [Cryptocurrencies](#cryptocurrencies)
 - [Data Science](#data-science)
@@ -34,6 +36,7 @@ The number after the book name stands for the year in which the book was written
 - [Drugs](#drugs)
 - [Economics](#economics)
 - [Engineering](#engineering)
+- [Environment](#environment)
 - [Evolution](#evolution)
 - [Fiction](#fiction)
   - [Adventure](#adventure)
@@ -144,6 +147,10 @@ The number after the book name stands for the year in which the book was written
 - [📖 Algorithms by Dasgupta (2006)](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
 - [📖 Algorithms etc by Jeff Erickson (2015)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [📖 Algorithm design: parallel and sequential](http://www.parallel-algorithms-book.com/)
+
+## Architexture
+
+- [📕 The Underdome Guide to Energy Reform (2015)](https://www.amazon.com/Underdome-Guide-Energy-Reform/dp/1616893974)
 
 ## Art
 
@@ -263,6 +270,13 @@ The number after the book name stands for the year in which the book was written
 
 - [📕 Creativity, inc (2014)](http://www.goodreads.com/book/show/18077903-creativity-inc)
 
+
+## Cybernetics
+
+- [📕 The human use of human beings (2015)](https://www.amazon.com/Human-Use-Beings-Cybernetics-Society/dp/0306803208)
+- [📕 Techniques of the observer : on vision and modernity in the nineteenth… (1990)](http://www.goodreads.com/book/show/18077903-creativity-inc)
+
+
 ## Cryptography
 
 - [📕 The code book (1999)](http://www.goodreads.com/book/show/17994.The_Code_Book)
@@ -289,7 +303,11 @@ The number after the book name stands for the year in which the book was written
 - [📕 The design of everyday things](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
 - [📕 The best interface is no interface: the simple path to brilliant technology](http://www.goodreads.com/book/show/22758923-the-best-interface-is-no-interface)
 - [📖 The Shape of Design](https://shapeofdesignbook.com)
+- [📕 Alien Phenomenology or what its like to be a thing (2012)](https://www.amazon.com/Alien-Phenomenology-What-Thing-Posthumanities/dp/0816678987)
+- [📕 The Best Interface Is No Interface: The Simple Path to Brilliant Technology](http://www.nointerface.com/book/)
+- [📕 Speculative Everything (2013)](https://www.amazon.com/Speculative-Everything-Design-Fiction-Dreaming/dp/0262019841)
 
+The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 ## Drugs
 
 - [📕 A Primer of Drug Action (1975)](https://www.goodreads.com/book/show/1134902.A_Primer_of_Drug_Action)
@@ -320,6 +338,14 @@ The number after the book name stands for the year in which the book was written
 - [📕 The selfish gene (1976)](http://www.goodreads.com/book/show/61535.The_Selfish_Gene)
 - [📕 Darwin's dangerous idea (1995)](http://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea)
 - [📕 Life ascending: the ten great inventions of evolution (2009)](http://www.goodreads.com/book/show/6429264-life-ascending)
+
+## Environment
+
+- [📕 Natural Capitalism ](https://www.amazon.com/Natural-Capitalism-Creating-Industrial-Revolution/dp/0316353000/ref=pd_sim_14_3/130-6303428-7700756?_encoding=UTF8&pd_rd_i=0316353000&pd_rd_r=7b42d779-2aa1-11e9-b037-33f16b2f8627&pd_rd_w=O3EQB&pd_rd_wg=d2rgH&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=DF75RT052ANV9TD21XC6&psc=1&refRID=DF75RT052ANV9TD21XC6)
+- [📕 Reinventing Fire (2013)](https://www.amazon.com/Reinventing-Fire-Business-Solutions-Energy/dp/1603585389/ref=sr_1_1?s=books&ie=UTF8&qid=1549520862&sr=1-1&keywords=reinventing+fire)
+- [📕 Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming (2017)](https://www.drawdown.org/)
+- [📕 Whole Earth Discipline (2009)](https://www.amazon.com/Whole-Earth-Discipline-Ecopragmatist-Manifesto/dp/0670021210)
+
 
 ## Fiction
 
