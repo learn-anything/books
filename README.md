@@ -10,7 +10,7 @@ The number after the book name stands for the year in which the book was written
 ##### Contents
 
 - [Algorithms](#algorithms)
-- [Architexture](#architexture)
+- [Architecture](#architecture)
 - [Art](#art)
 - [Autobiography](#autobiography)
 - [Awareness](#awareness)
@@ -148,7 +148,7 @@ The number after the book name stands for the year in which the book was written
 - [📖 Algorithms etc by Jeff Erickson (2015)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [📖 Algorithm design: parallel and sequential](http://www.parallel-algorithms-book.com/)
 
-## Architexture
+## Architecture
 
 - [📕 The Underdome Guide to Energy Reform (2015)](https://www.amazon.com/Underdome-Guide-Energy-Reform/dp/1616893974)
 
