@@ -846,6 +846,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 ### Prolog
 
 - [📖 The Power of Prolog (2018)](https://www.metalevel.at/prolog)
+- [📖 Logic Programming with Prolog (2005)](https://drive.uqu.edu.sa/_/fbshareef/files/textbook.pdf)
 
 ### Purescript
 
