@@ -159,6 +159,8 @@ The number after the book name stands for the year in which the book was written
 ## Autobiography
 
 - [📕 I know why the caged bird sings (1993)](https://www.goodreads.com/book/show/13214.I_Know_Why_the_Caged_Bird_Sings)
+- [📕 Hit Refresh (2017)](https://www.goodreads.com/book/show/30835567-hit-refresh)
+- [📕 Becoming (2018)](https://www.goodreads.com/book/show/38746485-becoming)
 
 ## Awareness
 
@@ -182,6 +184,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 Einstein: his life and universe (2007)](http://www.goodreads.com/book/show/10884.Einstein)
 - [📕 The strangest man (2009)](http://www.goodreads.com/book/show/6629359-the-strangest-man)
 - [📕 Steve Jobs (2011)](http://www.goodreads.com/book/show/11084145-steve-jobs)
+- [📕 The Everything Store: Jeff Bezos and the Age of Amazon (2013)](https://www.goodreads.com/book/show/17660462-the-everything-store)
 - [📕 Elon Musk: tesla, spacex, and the quest for a fantastic future (2015)](http://www.goodreads.com/book/show/22543496-elon-musk)
 - [📕 Trump revealed: the definitive biography of the 45th president (2017)](http://www.goodreads.com/book/show/29906336-trump-revealed)
 
