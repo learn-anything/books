@@ -10,6 +10,7 @@ The number after the book name stands for the year in which the book was written
 ##### Contents
 
 - [Algorithms](#algorithms)
+- [Architecture](#architecture)
 - [Art](#art)
 - [Autobiography](#autobiography)
 - [Awareness](#awareness)
@@ -26,6 +27,7 @@ The number after the book name stands for the year in which the book was written
 - [Computer science](#computer-science)
 - [Computer Systems](#computer-systems)
 - [Creativity](#creativity)
+- [Cybernetics](#cybernetics) 
 - [Cryptography](#cryptography)
 - [Cryptocurrencies](#cryptocurrencies)
 - [Data Science](#data-science)
@@ -34,6 +36,7 @@ The number after the book name stands for the year in which the book was written
 - [Drugs](#drugs)
 - [Economics](#economics)
 - [Engineering](#engineering)
+- [Environment](#environment)
 - [Evolution](#evolution)
 - [Fiction](#fiction)
   - [Adventure](#adventure)
@@ -53,6 +56,7 @@ The number after the book name stands for the year in which the book was written
   - [Alternative history](#alternative-history)
 - [Investing](#investing)
 - [Kubernetes](#kubernetes)
+- [Leadership](#leadership)
 - [Logic](#logic)
 - [Machine learning](#machine-learning)
 - [Management](#management-)
@@ -102,6 +106,7 @@ The number after the book name stands for the year in which the book was written
 - [Programming](#programming)
 - [Psychedelics](#psychedelics)
 - [Psychology](#psychology)
+- [Quantum physics](#quantum-physics)
 - [Regular Expressions](#regular-expressions)
 - [Reinforcement learning](#reinforcement-learning)
 - [Reverse engineering](#reverse-engineering)
@@ -109,6 +114,7 @@ The number after the book name stands for the year in which the book was written
 - [SciFi](#scifi)
   - [SciFi Series](#scifi-series)
 - [Security](#security)
+- [Sleep](#sleep)
 - [Society](#society)
 - [Spirituality](#spirituality)
 - [Startups](#startups)
@@ -138,8 +144,13 @@ The number after the book name stands for the year in which the book was written
 - [📖 Algorithm design manual (1987)](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf)
 - [📕 Introduction to algorithms (1990)](http://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)
 - [📕 Algorithm design (2005)](http://www.goodreads.com/book/show/145055.Algorithm_Design)
-- [📖 Algorithms etc by jeff erickson (2015)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+- [📖 Algorithms by Dasgupta (2006)](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
+- [📖 Algorithms etc by Jeff Erickson (2015)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [📖 Algorithm design: parallel and sequential](http://www.parallel-algorithms-book.com/)
+
+## Architecture
+
+- [📕 The Underdome Guide to Energy Reform (2015)](https://www.amazon.com/Underdome-Guide-Energy-Reform/dp/1616893974)
 
 ## Art
 
@@ -148,6 +159,8 @@ The number after the book name stands for the year in which the book was written
 ## Autobiography
 
 - [📕 I know why the caged bird sings (1993)](https://www.goodreads.com/book/show/13214.I_Know_Why_the_Caged_Bird_Sings)
+- [📕 Hit Refresh (2017)](https://www.goodreads.com/book/show/30835567-hit-refresh)
+- [📕 Becoming (2018)](https://www.goodreads.com/book/show/38746485-becoming)
 
 ## Awareness
 
@@ -159,24 +172,26 @@ The number after the book name stands for the year in which the book was written
 
 ## Biographies
 
-- [📕 The autobiography of malcolm x (1965)](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X)
+- [📕 The autobiography of Malcolm X (1965)](http://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X)
 - [📕 Napoleon bonaparte: an intimate biography (1971)](http://www.goodreads.com/book/show/22175392-napoleon-bonaparte-an-intimate-biography?rating=1)
 - [📕 The power broker (1974)](http://www.goodreads.com/book/show/1111.The_Power_Broker)
-- [📕 Surely you’re joking mr Feynman (1984)](http://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_)
-- [📕 The man who knew infinity: a life of the genius ramanujan (1991)](http://www.goodreads.com/book/show/106139.The_Man_Who_Knew_Infinity)
+- [📕 Surely you’re joking Mr Feynman (1984)](http://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_)
+- [📕 The man who knew infinity: a life of the genius Ramanujan (1991)](http://www.goodreads.com/book/show/106139.The_Man_Who_Knew_Infinity)
 - [📕 Speak, memory (1951)](http://www.goodreads.com/book/show/30594.Speak_Memory)
 - [📕 Madame curie: a biography (2001)](http://www.goodreads.com/book/show/341166.Madame_Curie)
 - [📕 Benjamin franklin: an american life (2004)](http://www.goodreads.com/book/show/10883.Benjamin_Franklin)
-- [📕 Team of rivals: the political genius of abraham lincoln (2005)](http://www.goodreads.com/book/show/2199.Team_of_Rivals)
+- [📕 Team of rivals: the political genius of Abraham Lincoln (2005)](http://www.goodreads.com/book/show/2199.Team_of_Rivals)
 - [📕 Einstein: his life and universe (2007)](http://www.goodreads.com/book/show/10884.Einstein)
 - [📕 The strangest man (2009)](http://www.goodreads.com/book/show/6629359-the-strangest-man)
-- [📕 Steve jobs (2011)](http://www.goodreads.com/book/show/11084145-steve-jobs)
-- [📕 Elon musk: tesla, spacex, and the quest for a fantastic future (2015)](http://www.goodreads.com/book/show/22543496-elon-musk)
+- [📕 Steve Jobs (2011)](http://www.goodreads.com/book/show/11084145-steve-jobs)
+- [📕 The Everything Store: Jeff Bezos and the Age of Amazon (2013)](https://www.goodreads.com/book/show/17660462-the-everything-store)
+- [📕 Elon Musk: tesla, spacex, and the quest for a fantastic future (2015)](http://www.goodreads.com/book/show/22543496-elon-musk)
 - [📕 Trump revealed: the definitive biography of the 45th president (2017)](http://www.goodreads.com/book/show/29906336-trump-revealed)
 
 ## Biology
 
-- [Molecular Biology of the Cell (1983)](https://www.goodreads.com/book/show/13400.Molecular_Biology_of_the_Cell)
+- [📕 Molecular Biology of the Cell (1983)](https://www.goodreads.com/book/show/13400.Molecular_Biology_of_the_Cell)
+- [📕 Rang & Dale's Pharmacology (1987)](https://www.goodreads.com/book/show/380577.Rang_Dale_s_Pharmacology)
 
 ## Business
 
@@ -208,9 +223,9 @@ The number after the book name stands for the year in which the book was written
 
 ## Computational complexity
 
-- [📕 The Nature of Computation (2011)](https://www.goodreads.com/book/show/3043127-the-nature-of-computation)
-- [📖 Computational Complexity: A Modern Approach (2007)](http://theory.cs.princeton.edu/complexity/book.pdf)
 - [📕 Computational Complexity (1993)](https://www.goodreads.com/book/show/138562.Computational_Complexity)
+- [📖 Computational Complexity: A Modern Approach (2007)](http://theory.cs.princeton.edu/complexity/book.pdf)
+- [📕 The Nature of Computation (2011)](https://www.goodreads.com/book/show/3043127-the-nature-of-computation)
 
 ## Computer graphics
 
@@ -233,37 +248,44 @@ The number after the book name stands for the year in which the book was written
 
 ## Computer science
 
-- [📖 Introduction to data compression (2012)](<https://github.com/gabrieldiego/tg/blob/master/ref/Introduction%20to%20Data%20Compression%20(4th%20Edition).pdf>)
-- [📖 Software foundations (2011)](https://softwarefoundations.cis.upenn.edu/current/index.html)
-- [📕 The nature of computation (2011)](http://www.nature-of-computation.org/)
-- [📕 Annotated turing (2008)](http://www.goodreads.com/book/show/2333956.The_Annotated_Turing)
-- [📕 The elements of computing systems (2005)](http://www.goodreads.com/book/show/910789.The_Elements_of_Computing_Systems)
-  - [Computer implementation](https://github.com/havivha/Nand2Tetris)
-- [📕 Advanced topics in types and programming languages (2004)](https://www.cis.upenn.edu/%7Ebcpierce/attapl/)
-- [📕 Types and programming languages (2002)](https://www.cis.upenn.edu/%7Ebcpierce/tapl/)
-- [📕 Gems of Theoretical Computer Science (1998)](https://www.goodreads.com/book/show/4715024-gems-of-theoretical-computer-science)
+- [📕 The new Turing Omnibus (1989)](http://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus)
+- [📖 Purely functional data structures (1996)](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 - [📕 Introduction to the theory of computation (1996)](http://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation)
   - [Solutions](https://github.com/ryandougherty/Introduction-to-the-Theory-of-Computation-Solutions)
-- [📖 Purely functional data structures (1996)](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
-- [📕 The new Turing Omnibus (1989)](http://www.goodreads.com/book/show/964709.The_New_Turing_Omnibus)
+- [📕 Gems of Theoretical Computer Science (1998)](https://www.goodreads.com/book/show/4715024-gems-of-theoretical-computer-science)
+- [📕 Types and programming languages (2002)](https://www.cis.upenn.edu/%7Ebcpierce/tapl/)
+- [📕 Advanced topics in types and programming languages (2004)](https://www.cis.upenn.edu/%7Ebcpierce/attapl/)
+- [📕 The elements of computing systems (2005)](http://www.goodreads.com/book/show/910789.The_Elements_of_Computing_Systems)
+  - [Computer implementation](https://github.com/havivha/Nand2Tetris)
+- [📕 Annotated turing (2008)](http://www.goodreads.com/book/show/2333956.The_Annotated_Turing)
+- [📕 The nature of computation (2011)](http://www.nature-of-computation.org/)
+- [📖 Software foundations (2011)](https://softwarefoundations.cis.upenn.edu/current/index.html)
+- [📖 Introduction to data compression (2012)](<https://github.com/gabrieldiego/tg/blob/master/ref/Introduction%20to%20Data%20Compression%20(4th%20Edition).pdf>)
 
 ## Computer Systems
 
+- [📖 NASA System Engineering (2007)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook.pdf)
 - [📖 Distributed systems (2013)](http://book.mixu.net/distsys/)
 - [📕 General Systems Thinking (2015)](https://www.goodreads.com/book/show/583766.An_Introduction_to_General_Systems_Thinking)
-- [📖 NASA System Engineering (2007)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook.pdf)
 - [📕 Computer systems: a programmer’s perspective](http://www.goodreads.com/book/show/829182.Computer_Systems)
 
 ## Creativity
 
 - [📕 Creativity, inc (2014)](http://www.goodreads.com/book/show/18077903-creativity-inc)
 
+
+## Cybernetics
+
+- [📕 The human use of human beings (2015)](https://www.amazon.com/Human-Use-Beings-Cybernetics-Society/dp/0306803208)
+- [📕 Techniques of the observer : on vision and modernity in the nineteenth… (1990)](http://www.goodreads.com/book/show/18077903-creativity-inc)
+
+
 ## Cryptography
 
-- [📖 Practical Cryptography for Developers (2018)](https://cryptobook.nakov.com/?q=)
-- [📖 Graduate course in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
-- [📖 Engineering security (2014)](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
 - [📕 The code book (1999)](http://www.goodreads.com/book/show/17994.The_Code_Book)
+- [📖 Engineering security (2014)](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
+- [📖 Graduate course in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
+- [📖 Practical Cryptography for Developers (2018)](https://cryptobook.nakov.com/?q=)
 
 ## Cryptocurrencies
 
@@ -284,7 +306,11 @@ The number after the book name stands for the year in which the book was written
 - [📕 The design of everyday things](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
 - [📕 The best interface is no interface: the simple path to brilliant technology](http://www.goodreads.com/book/show/22758923-the-best-interface-is-no-interface)
 - [📖 The Shape of Design](https://shapeofdesignbook.com)
+- [📕 Alien Phenomenology or what its like to be a thing (2012)](https://www.amazon.com/Alien-Phenomenology-What-Thing-Posthumanities/dp/0816678987)
+- [📕 The Best Interface Is No Interface: The Simple Path to Brilliant Technology](http://www.nointerface.com/book/)
+- [📕 Speculative Everything (2013)](https://www.amazon.com/Speculative-Everything-Design-Fiction-Dreaming/dp/0262019841)
 
+The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 ## Drugs
 
 - [📕 A Primer of Drug Action (1975)](https://www.goodreads.com/book/show/1134902.A_Primer_of_Drug_Action)
@@ -316,6 +342,14 @@ The number after the book name stands for the year in which the book was written
 - [📕 Darwin's dangerous idea (1995)](http://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea)
 - [📕 Life ascending: the ten great inventions of evolution (2009)](http://www.goodreads.com/book/show/6429264-life-ascending)
 
+## Environment
+
+- [📕 Natural Capitalism ](https://www.amazon.com/Natural-Capitalism-Creating-Industrial-Revolution/dp/0316353000/ref=pd_sim_14_3/130-6303428-7700756?_encoding=UTF8&pd_rd_i=0316353000&pd_rd_r=7b42d779-2aa1-11e9-b037-33f16b2f8627&pd_rd_w=O3EQB&pd_rd_wg=d2rgH&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=DF75RT052ANV9TD21XC6&psc=1&refRID=DF75RT052ANV9TD21XC6)
+- [📕 Reinventing Fire (2013)](https://www.amazon.com/Reinventing-Fire-Business-Solutions-Energy/dp/1603585389/ref=sr_1_1?s=books&ie=UTF8&qid=1549520862&sr=1-1&keywords=reinventing+fire)
+- [📕 Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming (2017)](https://www.drawdown.org/)
+- [📕 Whole Earth Discipline (2009)](https://www.amazon.com/Whole-Earth-Discipline-Ecopragmatist-Manifesto/dp/0670021210)
+
+
 ## Fiction
 
 - [📕 Notes from underground (1864)](http://www.goodreads.com/book/show/17876.Notes_from_Underground_White_Nights_The_Dream_of_a_Ridiculous_Man_and_Selections_from_The_House_of_the_Dead)
@@ -334,7 +368,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 The glass bead game (1943)](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game)
 - [📕 Animal farm (1945)](http://www.goodreads.com/book/show/7613.Animal_Farm)
 - [📕 The plague (1947)](http://www.goodreads.com/book/show/11989.The_Plague)
-- [📕 No longer human (1948)](http://www.wikiwand.com/en/No_Longer_Human)
+- [📕 No longer human (1948)](http://en.wikipedia.org/wiki/No_Longer_Human)
 - [📕 Nineteen eighty-four (1949)](https://www.goodreads.com/book/show/5470.1984)
 - [📕 Bel: An essay on man in revolt (1951)](http://www.goodreads.com/book/show/11990.The_Rebel)
 - [📕 East of eden (1952)](http://www.goodreads.com/book/show/4406.East_of_Eden)
@@ -435,8 +469,8 @@ The number after the book name stands for the year in which the book was written
 
 ## Game Development
 
-- [📕 Game Engine Architecture Book (2018)](https://www.gameenginebook.com/)
 - [📕 Tricks of the 3D game programming gurus-advanced 3D graphics and rasterisation (2003)](http://www.goodreads.com/book/show/2042298.Tricks_of_the_3D_Game_Programming_Gurus)
+- [📕 Game Engine Architecture Book (2018)](https://www.gameenginebook.com/)
 - [📕 Game programming patterns](http://gameprogrammingpatterns.com/)
 
 ## Graphic design
@@ -486,31 +520,37 @@ The number after the book name stands for the year in which the book was written
 
 - [📕 Kubernetes: Up & Running (2016)](https://www.goodreads.com/book/show/26759355-kubernetes)
 
+## Leadership
+
+- [📕 The Five Dysfunctions of a Team: A Leadership Fable (2002)](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
+
 ## Logic
 
-- [forallx: Cambridge (2017)](http://people.ds.cam.ac.uk/tecb2/forallx.shtml) - Covers both truth-functional logic and first-order logic, introducing students to semantics and to a Fitch-style natural deduction system.
-- [📖 Logicomix (2008)](https://www.scribd.com/document/98921232/Bertrand-Russell-Logicomix)
-- [📖 The Haskell road to logic, math and programming (2004)](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 - [📖 Introduction to Lambda Calculus (2000)](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
+- [📖 The Haskell road to logic, math and programming (2004)](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
+- [📖 Logicomix (2008)](https://www.scribd.com/document/98921232/Bertrand-Russell-Logicomix)
+- [forallx: Cambridge (2017)](http://people.ds.cam.ac.uk/tecb2/forallx.shtml) - Covers both truth-functional logic and first-order logic, introducing students to semantics and to a Fitch-style natural deduction system.
 
 ## Machine learning
 
-- [📖 Interpretable Machine Learning (2018)](https://christophm.github.io/interpretable-ml-book/index.html)
+- [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
+- [📕 Artificial intelligence a modern approach (1994)](http://www.goodreads.com/book/show/27543.Artificial_Intelligence)
+- [📕 Machine learning (1997)](http://www.cs.cmu.edu/~tom/mlbook.html)
+- [📖 The quest for artificial intelligence - a history of ideas and achievements (2009)](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
+- [📕 Introduction to artificial intelligence (2011)](http://www.goodreads.com/book/show/11328752-introduction-to-artificial-intelligence)
+- [📕 Machine learning: a probabilistic perspective (2012)](http://www.goodreads.com/book/show/15857489-machine-learning)
+- [📖 The Nature of Code (2012)](http://natureofcode.com/book/)
+- [📕 Superintelligence: paths, dangers, strategies (2014)](http://www.goodreads.com/book/show/20527133-superintelligence)
+- [📖 Understanding machine learning: from theory to algorithms (2014)](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+- [📖 Neural Networks and Deep Learning (2015)](http://neuralnetworksanddeeplearning.com/index.html)
 - [📕 Deep Larning with Python (2017)](https://www.goodreads.com/book/show/33986067-deep-learning-with-python)
 - [📕 Tensorflow machine learning cookbook (2017)](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook)
   - [Code](https://github.com/nfmcclure/tensorflow_cookbook)
 - [📕 Hands-On Machine Learning with Scikit-Learn and TensorFlow (2017)](https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow)
-- [📖 Neural Networks and Deep Learning (2015)](http://neuralnetworksanddeeplearning.com/index.html)
-- [📖 Understanding machine learning: from theory to algorithms (2014)](http://www.cs.huji.ac.il/%7Eshais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
-- [📕 Superintelligence: paths, dangers, strategies (2014)](http://www.goodreads.com/book/show/20527133-superintelligence)
-- [📕 Machine learning: a probabilistic perspective (2012)](http://www.goodreads.com/book/show/15857489-machine-learning)
-- [📕 Introduction to artificial intelligence (2011)](http://www.goodreads.com/book/show/11328752-introduction-to-artificial-intelligence)
-- [📖 The quest for artificial intelligence - a history of ideas and achievements (2009)](http://ai.stanford.edu/~nilsson/QAI/qai.pdf)
-- [📕 Machine learning (1997)](http://www.cs.cmu.edu/~tom/mlbook.html)
-- [📕 Artificial intelligence a modern approach (1994)](http://www.goodreads.com/book/show/27543.Artificial_Intelligence)
-- [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
+- [📕 Machine Learning with Go (2017)](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go) - Build simple, maintainable, and easy to deploy machine learning applications.
+- [📖 Interpretable Machine Learning (2018)](https://christophm.github.io/interpretable-ml-book/index.html)
 - [📖 Deep learning](http://www.deeplearningbook.org/)
-- [📖 The Nature of Code (2012)](http://natureofcode.com/book/)
+- [📖 Interpretable machine learning (2018)](https://christophm.github.io/interpretable-ml-book/) - Explaining the decisions and behavior of machine learning models.
 
 ## Management
 
@@ -521,7 +561,6 @@ The number after the book name stands for the year in which the book was written
 
 ## Math
 
-- [📕 Programmer's Introduction to Mathematics (2018)](https://pimbook.org/)
 - [📖 A mathematician's apology (1940)](https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf)
 - [📕 Handbook of mathematics (1945)](http://www.goodreads.com/book/show/1904487.Handbook_of_Mathematics)
 - [📕 Fantasia mathematica (1958)](http://www.goodreads.com/book/show/74703.Fantasia_Mathematica)
@@ -558,6 +597,7 @@ The number after the book name stands for the year in which the book was written
 - [📖 The napkin project (2017)](https://usamo.files.wordpress.com/2017/02/napkin-2017-02-15.pdf)
 - [📖 Mathematics for computer science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 - [📖 Immersive linear algebra (2017)](http://immersivemath.com/ila/index.html)
+- [📕 Programmer's Introduction to Mathematics (2018)](https://pimbook.org/)
 - [📕 Physically based rendering: from theory to implementation](http://www.pbrt.org/)
 - [📕 Invitation to ergodic theory](http://bookstore.ams.org/stml-42)
 - [📖 Abstract Algebra: Theory and Applications](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
@@ -622,6 +662,7 @@ The number after the book name stands for the year in which the book was written
 
 - [📕 The man who mistook his wife for a hat (1985)](http://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales)
 - [📕 Descartes' error (1994)](http://www.goodreads.com/book/show/103867.Descartes_Error)
+- [📕 The Body Electric: Electromagnetism and the Foundation of Life (1998)](https://www.goodreads.com/book/show/277641.The_Body_Electric)
 - [📕 Principles of neural science (2000)](http://www.goodreads.com/book/show/826396.Principles_of_Neural_Science)
 - [📕 Molecular basis of neuropharmacology: a foundation for clinical neuroscience (2001)](http://www.goodreads.com/book/show/818044.Molecular_Basis_of_Neuropharmacology)
 - [📕 Synaptic self: how our brains become who we are (2002)](http://www.goodreads.com/book/show/151132.Synaptic_Self)
@@ -754,13 +795,13 @@ The number after the book name stands for the year in which the book was written
 
 ### Haskell
 
+- [📖 Learn You a Haskell for Great Good! (2011)](http://learnyouahaskell.com/)
+- [📖 Write you a Haskell (2014)](http://dev.stephendiehl.com/fun/)
+  - [Implementation in code](https://github.com/AlphaMarc/WYAH)
+- [📕 Programming in Haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
 - [📕 Haskell in Depth (2018)](https://www.manning.com/books/haskell-in-depth) - Explores the important language features and programming skills you’ll need to build production-quality software using Haskell.
 - [📕 Thinking with Types (2018)](https://leanpub.com/thinking-with-types) - Type-Level Programming in Haskell.
 - [📕 The Haskell School of Music (2018)](https://www.goodreads.com/book/show/18299474-the-haskell-school-of-music)
-- [📕 Programming in Haskell (2016)](http://www.goodreads.com/book/show/912217.Programming_in_Haskell)
-- [📖 Write you a Haskell (2014)](http://dev.stephendiehl.com/fun/)
-  - [Implementation in code](https://github.com/AlphaMarc/WYAH)
-- [📖 Learn You a Haskell for Great Good! (2011)](http://learnyouahaskell.com/)
 
 ### Java
 
@@ -782,19 +823,19 @@ The number after the book name stands for the year in which the book was written
   - [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
   - [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
   - [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+- [📖 Exploring js](http://exploringjs.com/)
 - [📖 Eloquent JavaScript (2011)](http://eloquentjavascript.net/00_intro.html)
 - [📕 Effective JavaScript: 68 specific ways to harness the power of JavaScript (2012)](http://www.goodreads.com/book/show/13705402-effective-javascript)
 - [📕 Secrets of the JavaScript ninja (2013)](http://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
 - [📖 Learning JavaScript design patterns (2015)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [📖 The JavaScript way (2017)](https://leanpub.com/thejsway)
-- [📖 Exploring js](http://exploringjs.com/)
 - [📖 Builder Book: Build a Full Stack JavaScript Web App from Scratch (2018)](https://builderbook.org/book)
 
 ### Lisp
 
-- [📖 Practical Common Lisp (2005)](http://www.gigamonkeys.com/book/)
 - [📕 The little schemer (1974)](https://mitpress.mit.edu/books/little-schemer)
 - [📕 Lisp in small pieces (1994)](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html)
+- [📖 Practical Common Lisp (2005)](http://www.gigamonkeys.com/book/)
 
 ### OCaml
 
@@ -808,6 +849,7 @@ The number after the book name stands for the year in which the book was written
 ### Prolog
 
 - [📖 The Power of Prolog (2018)](https://www.metalevel.at/prolog)
+- [📖 Logic Programming with Prolog (2005)](https://drive.uqu.edu.sa/_/fbshareef/files/textbook.pdf)
 
 ### Purescript
 
@@ -919,6 +961,10 @@ The number after the book name stands for the year in which the book was written
 - [📕 On intelligence (2004)](http://www.goodreads.com/book/show/27539.On_Intelligence)
 - [📕 Influence: the psychology of persuasion (1984)](http://www.goodreads.com/book/show/28815.Influence)
 
+## Quantum physics
+
+- [📕 Quantum: A Guide for the Perplexed (2003)](https://www.goodreads.com/book/show/100034.Quantum)
+
 ## Regular Expressions
 
 - [📕 Regular expressions cookbook (2009)](http://www.goodreads.com/book/show/6125777-regular-expressions-cookbook)
@@ -978,6 +1024,10 @@ The number after the book name stands for the year in which the book was written
 - [📖 The web application hackers handbook (2014)](https://leaksource.files.wordpress.com/2014/08/the-web-application-hackers-handbook.pdf)
 - [📕 The browser hacker's handbook (2014)](http://www.goodreads.com/book/show/17891588-the-browser-hacker-s-handbook) - A detailed look into many web security topics.
 
+## Sleep
+
+- [📕 Why We Sleep: Unlocking the Power of Sleep and Dreams (2017)](https://www.goodreads.com/book/show/34466963-why-we-sleep)
+
 ## Society
 
 - [📕 The utopia of rules (2015)](http://www.goodreads.com/book/show/22245334-the-utopia-of-rules)
@@ -1023,8 +1073,8 @@ The number after the book name stands for the year in which the book was written
 
 ## Type theory
 
-- [📕 Type Theory and Formal Proof: An Introduction (2014)](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
 - [📖 Type Theory & Functional Programming (1999)](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
+- [📕 Type Theory and Formal Proof: An Introduction (2014)](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
 
 ## Unix
 
