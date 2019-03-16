@@ -1083,7 +1083,7 @@ The number after the book name stands for the year in which the book was written
 - [Book notes](https://github.com/mgp/book-notes#readme)
 - [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books#readme)
-- [Influenial CS books](https://github.com/chhantyal/influential-cs-books#readme)
+- [Influential CS books](https://github.com/chhantyal/influential-cs-books#readme)
 - [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
 - [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
