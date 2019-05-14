@@ -1075,6 +1075,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 - [📖 Type Theory & Functional Programming (1999)](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
 - [📕 Type Theory and Formal Proof: An Introduction (2014)](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
+- [📕 Programming with Types (early-access 2019/20](https://www.manning.com/books/programming-with-types)
 
 ## Unix
 
