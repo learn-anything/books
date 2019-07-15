@@ -944,6 +944,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 How These Things Work (2016)](http://reasonablypolymorphic.com/book/preface)
 - [📕 Introduction to the Theory of Complex Systems (2018)](https://www.goodreads.com/book/show/40404857-introduction-to-the-theory-of-complex-systems)
 - [📖 Composing programs](http://www.composingprograms.com/)
+- [📕 API Design Patterns](https://www.manning.com/books/api-design-patterns)
 
 ## Psychedelics
 
