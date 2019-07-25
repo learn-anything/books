@@ -1102,6 +1102,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 ## Web Development
 
 - [📖 Site Reliability Engineering](https://landing.google.com/sre/book.html)
+- [📕 Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 
 ### CSS
 
