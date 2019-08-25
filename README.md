@@ -552,6 +552,8 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 Interpretable Machine Learning (2018)](https://christophm.github.io/interpretable-ml-book/index.html)
 - [📖 Deep learning](http://www.deeplearningbook.org/)
 - [📖 Interpretable machine learning (2018)](https://christophm.github.io/interpretable-ml-book/) - Explaining the decisions and behavior of machine learning models.
+- [📕 How Machine Learning Works (2019)](https://www.manning.com/books/how-machine-learning-works)- An introduction to both ML's practice and math foundations in a non-threatning approach.
+    - [Code](https://github.com/Mostafa-Samir/How-Machine-Learning-Works)
 
 ## Management
 
