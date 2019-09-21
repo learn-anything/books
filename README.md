@@ -849,6 +849,10 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 - [📖 Modern Perl (2016)](http://modernperlbooks.com/books/modern_perl_2016/index.html)
 
+### PowerShell
+
+- [📖 Learn PowerShell in a Month of Lunches, Linux and macOS Edition (2019)](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches-linux-and-macos-edition)
+
 ### Prolog
 
 - [📖 The Power of Prolog (2018)](https://www.metalevel.at/prolog)
