@@ -286,6 +286,7 @@ The number after the book name stands for the year in which the book was written
 - [📖 Engineering security (2014)](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
 - [📖 Graduate course in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
 - [📖 Practical Cryptography for Developers (2018)](https://cryptobook.nakov.com/?q=)
+- [📕 Real World Cryptography](https://www.manning.com/books/real-world-cryptography)
 
 ## Cryptocurrencies
 
@@ -551,6 +552,8 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 Interpretable Machine Learning (2018)](https://christophm.github.io/interpretable-ml-book/index.html)
 - [📖 Deep learning](http://www.deeplearningbook.org/)
 - [📖 Interpretable machine learning (2018)](https://christophm.github.io/interpretable-ml-book/) - Explaining the decisions and behavior of machine learning models.
+- [📕 How Machine Learning Works (2019)](https://www.manning.com/books/how-machine-learning-works)- An introduction to both ML's practice and math foundations in a non-threatning approach.
+    - [Code](https://github.com/Mostafa-Samir/How-Machine-Learning-Works)
 
 ## Management
 
@@ -945,6 +948,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📕 Introduction to the Theory of Complex Systems (2018)](https://www.goodreads.com/book/show/40404857-introduction-to-the-theory-of-complex-systems)
 - [📖 Composing programs](http://www.composingprograms.com/)
 - [📕 Designing APIs with Swagger and OpenAPI (early-access)](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
+- [📕 API Design Patterns](https://www.manning.com/books/api-design-patterns)
 
 ## Psychedelics
 
@@ -1103,6 +1107,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 - [📖 Site Reliability Engineering](https://landing.google.com/sre/book.html)
 - [📕 Hugo in Action (early-access)](https://www.manning.com/books/hugo-in-action)
+- [📕 Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 
 ### CSS
 
