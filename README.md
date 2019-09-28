@@ -947,6 +947,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 How These Things Work (2016)](http://reasonablypolymorphic.com/book/preface)
 - [📕 Introduction to the Theory of Complex Systems (2018)](https://www.goodreads.com/book/show/40404857-introduction-to-the-theory-of-complex-systems)
 - [📖 Composing programs](http://www.composingprograms.com/)
+- [📕 Designing APIs with Swagger and OpenAPI (early-access)](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
 - [📕 API Design Patterns](https://www.manning.com/books/api-design-patterns)
 
 ## Psychedelics
@@ -1079,6 +1080,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 - [📖 Type Theory & Functional Programming (1999)](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
 - [📕 Type Theory and Formal Proof: An Introduction (2014)](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
+- [📕 Programming with Types (early-access 2019/20)](https://www.manning.com/books/programming-with-types)
 
 ## Unix
 
@@ -1104,6 +1106,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 ## Web Development
 
 - [📖 Site Reliability Engineering](https://landing.google.com/sre/book.html)
+- [📕 Hugo in Action (early-access)](https://www.manning.com/books/hugo-in-action)
 - [📕 Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 
 ### CSS
