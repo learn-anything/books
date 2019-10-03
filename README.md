@@ -295,6 +295,7 @@ The number after the book name stands for the year in which the book was written
 ## Data Science
 
 - [📕 Designing Data-Intensive Applications (2014)](http://shop.oreilly.com/product/0636920032175.do)
+- [📕 Data Science Bookcamp (early-access)](https://www.manning.com/books/data-science-bookcamp)
 
 ## Databases
 
