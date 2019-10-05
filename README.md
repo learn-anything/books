@@ -187,6 +187,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 The Everything Store: Jeff Bezos and the Age of Amazon (2013)](https://www.goodreads.com/book/show/17660462-the-everything-store)
 - [📕 Elon Musk: tesla, spacex, and the quest for a fantastic future (2015)](http://www.goodreads.com/book/show/22543496-elon-musk)
 - [📕 Trump revealed: the definitive biography of the 45th president (2017)](http://www.goodreads.com/book/show/29906336-trump-revealed)
+- [📕 My Journey: Transforming Dreams into Actions by A.P.J Abdul Kalam ](https://www.goodreads.com/book/show/18371021-my-journey) 
 
 ## Biology
 
