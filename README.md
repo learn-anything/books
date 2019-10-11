@@ -91,6 +91,7 @@ The number after the book name stands for the year in which the book was written
   - [Lisp](#lisp)
   - [OCaml](#ocaml)
   - [Perl](#perl)
+  - [PowerShell](#powershell)
   - [Prolog](#prolog)
   - [Purescript](#purescript)
   - [Python](#python)
@@ -849,6 +850,10 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 ### Perl
 
 - [📖 Modern Perl (2016)](http://modernperlbooks.com/books/modern_perl_2016/index.html)
+
+### PowerShell
+
+- [📕 Learn PowerShell in a Month of Lunches, Linux and macOS Edition (2019)](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches-linux-and-macos-edition)
 
 ### Prolog
 
