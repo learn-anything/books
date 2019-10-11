@@ -91,6 +91,7 @@ The number after the book name stands for the year in which the book was written
   - [Lisp](#lisp)
   - [OCaml](#ocaml)
   - [Perl](#perl)
+  - [PowerShell](#powershell)
   - [Prolog](#prolog)
   - [Purescript](#purescript)
   - [Python](#python)
