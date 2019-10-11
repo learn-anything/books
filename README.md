@@ -852,7 +852,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 ### PowerShell
 
-- [📖 Learn PowerShell in a Month of Lunches, Linux and macOS Edition (2019)](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches-linux-and-macos-edition)
+- [📕 Learn PowerShell in a Month of Lunches, Linux and macOS Edition (2019)](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches-linux-and-macos-edition)
 
 ### Prolog
 
