@@ -901,7 +901,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 Rust by example](http://rustbyexample.com/)
 - [📖 The rust programming language](https://doc.rust-lang.org/book/)
 - [📖 The rustonomicon](https://doc.rust-lang.org/nomicon/)
-- [📖 Discovery](https://japaric.github.io/discovery/README.html#Scope) - Discover the world of microcontrollers through Rust.
+- [📖 Discovery](https://rust-embedded.github.io/discovery/#scope) - Discover the world of microcontrollers through Rust.
 - [📖 Rust and WebAssembly (2018)](https://rustwasm.github.io/book/)
 
 ### Scala
