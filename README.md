@@ -27,7 +27,7 @@ The number after the book name stands for the year in which the book was written
 - [Computer science](#computer-science)
 - [Computer Systems](#computer-systems)
 - [Creativity](#creativity)
-- [Cybernetics](#cybernetics) 
+- [Cybernetics](#cybernetics)
 - [Cryptography](#cryptography)
 - [Cryptocurrencies](#cryptocurrencies)
 - [Data Science](#data-science)
@@ -188,7 +188,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 The Everything Store: Jeff Bezos and the Age of Amazon (2013)](https://www.goodreads.com/book/show/17660462-the-everything-store)
 - [📕 Elon Musk: tesla, spacex, and the quest for a fantastic future (2015)](http://www.goodreads.com/book/show/22543496-elon-musk)
 - [📕 Trump revealed: the definitive biography of the 45th president (2017)](http://www.goodreads.com/book/show/29906336-trump-revealed)
-- [📕 My Journey: Transforming Dreams into Actions by A.P.J Abdul Kalam ](https://www.goodreads.com/book/show/18371021-my-journey) 
+- [📕 My Journey: Transforming Dreams into Actions by A.P.J Abdul Kalam ](https://www.goodreads.com/book/show/18371021-my-journey)
 
 ## Biology
 
@@ -275,12 +275,10 @@ The number after the book name stands for the year in which the book was written
 
 - [📕 Creativity, inc (2014)](http://www.goodreads.com/book/show/18077903-creativity-inc)
 
-
 ## Cybernetics
 
 - [📕 The human use of human beings (2015)](https://www.amazon.com/Human-Use-Beings-Cybernetics-Society/dp/0306803208)
 - [📕 Techniques of the observer : on vision and modernity in the nineteenth… (1990)](http://www.goodreads.com/book/show/18077903-creativity-inc)
-
 
 ## Cryptography
 
@@ -314,6 +312,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 Speculative Everything (2013)](https://www.amazon.com/Speculative-Everything-Design-Fiction-Dreaming/dp/0262019841)
 
 The Best Interface Is No Interface: The Simple Path to Brilliant Technology
+
 ## Drugs
 
 - [📕 A Primer of Drug Action (1975)](https://www.goodreads.com/book/show/1134902.A_Primer_of_Drug_Action)
@@ -351,7 +350,6 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📕 Reinventing Fire (2013)](https://www.amazon.com/Reinventing-Fire-Business-Solutions-Energy/dp/1603585389/ref=sr_1_1?s=books&ie=UTF8&qid=1549520862&sr=1-1&keywords=reinventing+fire)
 - [📕 Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming (2017)](https://www.drawdown.org/)
 - [📕 Whole Earth Discipline (2009)](https://www.amazon.com/Whole-Earth-Discipline-Ecopragmatist-Manifesto/dp/0670021210)
-
 
 ## Fiction
 
@@ -555,7 +553,8 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 Deep learning](http://www.deeplearningbook.org/)
 - [📖 Interpretable machine learning (2018)](https://christophm.github.io/interpretable-ml-book/) - Explaining the decisions and behavior of machine learning models.
 - [📕 How Machine Learning Works (2019)](https://www.manning.com/books/how-machine-learning-works)- An introduction to both ML's practice and math foundations in a non-threatning approach.
-    - [Code](https://github.com/Mostafa-Samir/How-Machine-Learning-Works)
+  - [Code](https://github.com/Mostafa-Samir/How-Machine-Learning-Works)
+- [📕 Grokking Deep Learning (2019)](https://www.goodreads.com/book/show/31565758-grokking-deep-learning?ac=1&from_search=true)
 
 ## Management
 
@@ -845,7 +844,6 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 ### OCaml
 
 - [📖 Real World OCaml (2018)](http://dev.realworldocaml.org/)
-
 
 ### Perl
 
