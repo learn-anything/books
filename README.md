@@ -559,6 +559,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
   - [Notes](https://github.com/andrewwoz/the-mythical-man-month-notes)
 - [📕 High output management (1983)](http://www.goodreads.com/book/show/324750.High_Output_Management)
 - [📕 The essential drucker](https://www.goodreads.com/book/show/48016.The_Essential_Drucker)
+- [📕 Succeeding with AI](https://www.manning.com/books/succeeding-with-ai)
 
 ## Math
 
