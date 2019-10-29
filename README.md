@@ -1,13 +1,8 @@
-# Books
-
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+# Books [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme) [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
 The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from oldest to newest. Emojis before the books show if the book is free or not.
 
----
-
-##### Contents
+#### Contents
 
 - [Algorithms](#algorithms)
 - [Architecture](#architecture)
@@ -27,7 +22,7 @@ The number after the book name stands for the year in which the book was written
 - [Computer science](#computer-science)
 - [Computer Systems](#computer-systems)
 - [Creativity](#creativity)
-- [Cybernetics](#cybernetics) 
+- [Cybernetics](#cybernetics)
 - [Cryptography](#cryptography)
 - [Cryptocurrencies](#cryptocurrencies)
 - [Data Science](#data-science)
@@ -91,6 +86,7 @@ The number after the book name stands for the year in which the book was written
   - [Lisp](#lisp)
   - [OCaml](#ocaml)
   - [Perl](#perl)
+  - [PowerShell](#powershell)
   - [Prolog](#prolog)
   - [Purescript](#purescript)
   - [Python](#python)
@@ -136,8 +132,6 @@ The number after the book name stands for the year in which the book was written
   - [Webpack](#webpack)
   - [Web design](#web-design)
 - [Other](#other)
-
----
 
 ## Algorithms
 
@@ -187,6 +181,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 The Everything Store: Jeff Bezos and the Age of Amazon (2013)](https://www.goodreads.com/book/show/17660462-the-everything-store)
 - [📕 Elon Musk: tesla, spacex, and the quest for a fantastic future (2015)](http://www.goodreads.com/book/show/22543496-elon-musk)
 - [📕 Trump revealed: the definitive biography of the 45th president (2017)](http://www.goodreads.com/book/show/29906336-trump-revealed)
+- [📕 My Journey: Transforming Dreams into Actions by A.P.J Abdul Kalam ](https://www.goodreads.com/book/show/18371021-my-journey)
 
 ## Biology
 
@@ -273,12 +268,10 @@ The number after the book name stands for the year in which the book was written
 
 - [📕 Creativity, inc (2014)](http://www.goodreads.com/book/show/18077903-creativity-inc)
 
-
 ## Cybernetics
 
 - [📕 The human use of human beings (2015)](https://www.amazon.com/Human-Use-Beings-Cybernetics-Society/dp/0306803208)
 - [📕 Techniques of the observer : on vision and modernity in the nineteenth… (1990)](http://www.goodreads.com/book/show/18077903-creativity-inc)
-
 
 ## Cryptography
 
@@ -312,6 +305,7 @@ The number after the book name stands for the year in which the book was written
 - [📕 Speculative Everything (2013)](https://www.amazon.com/Speculative-Everything-Design-Fiction-Dreaming/dp/0262019841)
 
 The Best Interface Is No Interface: The Simple Path to Brilliant Technology
+
 ## Drugs
 
 - [📕 A Primer of Drug Action (1975)](https://www.goodreads.com/book/show/1134902.A_Primer_of_Drug_Action)
@@ -349,7 +343,6 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📕 Reinventing Fire (2013)](https://www.amazon.com/Reinventing-Fire-Business-Solutions-Energy/dp/1603585389/ref=sr_1_1?s=books&ie=UTF8&qid=1549520862&sr=1-1&keywords=reinventing+fire)
 - [📕 Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming (2017)](https://www.drawdown.org/)
 - [📕 Whole Earth Discipline (2009)](https://www.amazon.com/Whole-Earth-Discipline-Ecopragmatist-Manifesto/dp/0670021210)
-
 
 ## Fiction
 
@@ -552,6 +545,9 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 Interpretable Machine Learning (2018)](https://christophm.github.io/interpretable-ml-book/index.html)
 - [📖 Deep learning](http://www.deeplearningbook.org/)
 - [📖 Interpretable machine learning (2018)](https://christophm.github.io/interpretable-ml-book/) - Explaining the decisions and behavior of machine learning models.
+- [📕 How Machine Learning Works (2019)](https://www.manning.com/books/how-machine-learning-works)- An introduction to both ML's practice and math foundations in a non-threatning approach.
+  - [Code](https://github.com/Mostafa-Samir/How-Machine-Learning-Works)
+- [📕 Grokking Deep Learning (2019)](https://www.goodreads.com/book/show/31565758-grokking-deep-learning?ac=1&from_search=true)
 
 ## Management
 
@@ -843,10 +839,13 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 - [📖 Real World OCaml (2018)](http://dev.realworldocaml.org/)
 
-
 ### Perl
 
 - [📖 Modern Perl (2016)](http://modernperlbooks.com/books/modern_perl_2016/index.html)
+
+### PowerShell
+
+- [📕 Learn PowerShell in a Month of Lunches, Linux and macOS Edition (2019)](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches-linux-and-macos-edition)
 
 ### Prolog
 
@@ -894,7 +893,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 Rust by example](http://rustbyexample.com/)
 - [📖 The rust programming language](https://doc.rust-lang.org/book/)
 - [📖 The rustonomicon](https://doc.rust-lang.org/nomicon/)
-- [📖 Discovery](https://japaric.github.io/discovery/README.html#Scope) - Discover the world of microcontrollers through Rust.
+- [📖 Discovery](https://rust-embedded.github.io/discovery/#scope) - Discover the world of microcontrollers through Rust.
 - [📖 Rust and WebAssembly (2018)](https://rustwasm.github.io/book/)
 
 ### Scala
@@ -1078,6 +1077,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 - [📖 Type Theory & Functional Programming (1999)](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
 - [📕 Type Theory and Formal Proof: An Introduction (2014)](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
+- [📕 Programming with Types (early-access 2019/20)](https://www.manning.com/books/programming-with-types)
 
 ## Unix
 
@@ -1103,6 +1103,10 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 ## Web Development
 
 - [📖 Site Reliability Engineering](https://landing.google.com/sre/book.html)
+
+=======
+- [📕 Hugo in Action (early-access)](https://www.manning.com/books/hugo-in-action)
+- [📕 Designing APIs with Swagger and OpenAPI (early-access)](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
 - [📕 Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action)
 
 ### CSS
@@ -1142,8 +1146,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
 
----
-
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
