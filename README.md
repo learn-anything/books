@@ -136,8 +136,6 @@ The number after the book name stands for the year in which the book was written
   - [Web design](#web-design)
 - [Other](#other)
 
----
-
 ## Algorithms
 
 - [📖 Algorithm design manual (1987)](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf)
