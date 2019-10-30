@@ -141,6 +141,7 @@ The number after the book name stands for the year in which the book was written
 - [📖 Algorithms by Dasgupta (2006)](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
 - [📖 Algorithms etc by Jeff Erickson (2015)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [📖 Algorithm design: parallel and sequential](http://www.parallel-algorithms-book.com/)
+- [📕 Algorithms and Data Structures in Action (2019)](https://www.goodreads.com/book/show/47316716-algorithms-and-data-structures-in-action)
 
 ## Architecture
 
