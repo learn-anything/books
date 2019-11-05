@@ -6,7 +6,7 @@ Ensure your pull request adheres to following guidelines:
 
 - Search included books before adding a new one, as yours may be a duplicate.
 - Only add books you think are great! Feel welcome to remove entries that you think aren't great!
-- Use the following format: `<📕 or 📖> [Name](link) (Year) - Description.`
+- Use the following format: `[<📕 or 📖> Name (Year)](link) - Description.`
 - If you can't find the year the book was written in, you can skip adding the year.
 - If the book is free, link to the free book and add 📖 emoji.
 - If the book is not free, link to the book on [goodreads.com](https://www.goodreads.com/) and add 📕 emoji.
