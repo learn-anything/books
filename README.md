@@ -873,6 +873,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 ### R
 
 - [📖 R for Data Science (2017)](http://r4ds.had.co.nz/)
+- [📕 Exploring Data with R (early access)](https://www.manning.com/books/exploring-data-with-r)
 
 ### ReasonML
 
