@@ -776,6 +776,8 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 ### Clojure
 
 - [📕 Elements of Clojure (2017)](https://www.goodreads.com/book/show/31159768-elements-of-clojure)
+- [📕 Clojure in Action (2015)](https://www.manning.com/books/clojure-in-action-second-edition)
+- [📕 Joy of Clojure (2014)](https://www.manning.com/books/the-joy-of-clojure-second-edition) - Quite deep, not for beginners, but superb in combination with "Clojure in Action".
 
 ### D
 
