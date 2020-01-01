@@ -773,6 +773,10 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📕 Beginning c++ through game programming (2004](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 - [📖 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
+### Clojure
+
+- [📕 Elements of Clojure (2017)](https://www.goodreads.com/book/show/31159768-elements-of-clojure)
+
 ### D
 
 - [📕 The D programming language (2010)](http://amzn.to/1ZTDmqH)
@@ -789,10 +793,6 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 Web app with go - anti text book](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
 - [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
   - [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions)
-
-### Clojure
-
-- [📕 Elements of Clojure (2017)](https://www.goodreads.com/book/show/31159768-elements-of-clojure)
 
 ### Haskell
 
