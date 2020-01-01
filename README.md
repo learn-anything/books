@@ -769,10 +769,10 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 ### C++
 
-- [📕 A Tour of C++ (2013)](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Very concise, updates readers with prior knowledge of C++ to modern C++11.
-- [📕 C++ primer (1989)](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
-- [📕 Beginning c++ through game programming (2004](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 - [📖 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+- [📕 A Tour of C++ (2013)](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Very concise, updates readers with prior knowledge of C++ to modern C++11.
+- [📕 Beginning c++ through game programming (2004](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
+- [📕 C++ primer (1989)](http://www.goodreads.com/book/show/120642.C_Primer_Plus)
 
 ### D
 
