@@ -769,14 +769,15 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 ### C++
 
-- [📕 Beginning c++ through game programming (2004](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
-- [📖 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+- [� C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+- [� A Tour of C++ (2013)](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Very concise, updates readers with prior knowledge of C++ to modern C++11.
+- [� Beginning c++ through game programming (2004](http://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
 
 ### Clojure
 
-- [📕 Elements of Clojure (2017)](https://www.goodreads.com/book/show/31159768-elements-of-clojure)
-- [📕 Clojure in Action (2015)](https://www.manning.com/books/clojure-in-action-second-edition)
-- [📕 Joy of Clojure (2014)](https://www.manning.com/books/the-joy-of-clojure-second-edition) - Quite deep, not for beginners, but superb in combination with "Clojure in Action".
+- [� Elements of Clojure (2017)](https://www.goodreads.com/book/show/31159768-elements-of-clojure)
+- [� Clojure in Action (2015)](https://www.manning.com/books/clojure-in-action-second-edition)
+- [� Joy of Clojure (2014)](https://www.manning.com/books/the-joy-of-clojure-second-edition) - Quite deep, not for beginners, but superb in combination with "Clojure in Action".
 
 ### D
 
