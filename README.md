@@ -874,6 +874,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 Inside the python virtual machine (2017)](https://leanpub.com/insidethepythonvirtualmachine)
 - [📖 Full Speed Python (2018)](https://github.com/joaoventura/full-speed-python)
 - [📖 Automate the boring stuff with python](https://automatetheboringstuff.com/)
+- [📕 Practices of the Python Pro (2020)](https://www.goodreads.com/book/show/45361469-practices-of-the-python-pro)
 
 ### R
 
