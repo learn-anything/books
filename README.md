@@ -833,6 +833,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📕 Secrets of the JavaScript Ninja (2013)](http://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
 - [📕 Effective JavaScript: 68 specific ways to harness the power of JavaScript (2012)](http://www.goodreads.com/book/show/13705402-effective-javascript)
 - [📖 Eloquent JavaScript (2011)](http://eloquentjavascript.net/00_intro.html)
+- [📕 JavaScript: The Good Parts (2008)](https://www.goodreads.com/book/show/2998152-javascript)
 
 ### Lisp
 
