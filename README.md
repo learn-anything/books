@@ -827,12 +827,12 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
   - [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
   - [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 - [📖 Exploring js](http://exploringjs.com/)
-- [📖 Eloquent JavaScript (2011)](http://eloquentjavascript.net/00_intro.html)
-- [📕 Effective JavaScript: 68 specific ways to harness the power of JavaScript (2012)](http://www.goodreads.com/book/show/13705402-effective-javascript)
-- [📕 Secrets of the JavaScript ninja (2013)](http://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
-- [📖 Learning JavaScript design patterns (2015)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- [📖 The JavaScript way (2017)](https://leanpub.com/thejsway)
 - [📖 Builder Book: Build a Full Stack JavaScript Web App from Scratch (2018)](https://builderbook.org/book)
+- [📖 The JavaScript way (2017)](https://leanpub.com/thejsway)
+- [📖 Learning JavaScript design patterns (2015)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [📕 Secrets of the JavaScript Ninja (2013)](http://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
+- [📕 Effective JavaScript: 68 specific ways to harness the power of JavaScript (2012)](http://www.goodreads.com/book/show/13705402-effective-javascript)
+- [📖 Eloquent JavaScript (2011)](http://eloquentjavascript.net/00_intro.html)
 
 ### Lisp
 
