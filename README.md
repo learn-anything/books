@@ -552,6 +552,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📕 How Machine Learning Works (2019)](https://www.manning.com/books/how-machine-learning-works)- An introduction to both ML's practice and math foundations in a non-threatning approach.
   - [Code](https://github.com/Mostafa-Samir/How-Machine-Learning-Works)
 - [📕 Grokking Deep Learning (2019)](https://www.goodreads.com/book/show/31565758-grokking-deep-learning?ac=1&from_search=true)
+- [📕MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
 
 ## Management
 
