@@ -1128,6 +1128,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 - [📖 React in Patterns (2018)](https://krasimir.gitbooks.io/react-in-patterns/content/)
 - [📖 The Road to learn React](https://roadtoreact.com/)
+- [📕 React Hooks in Action](https://www.manning.com/books/react-hooks-in-action)
 
 ### Redux
 
