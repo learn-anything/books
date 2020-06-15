@@ -431,6 +431,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 ### Short Stories
 
+- [📖 Alice in Wonderland (1865)](https://www.holloway.com/g/alice-in-wonderland)
 - [📕 Ficciones (1941-1956)](http://www.goodreads.com/book/show/426504.Ficciones)
 - [📕 The little prince (1943)](http://www.goodreads.com/book/show/157993.The_Little_Prince)
 - [📖 The last question (1956)](http://www.goodreads.com/book/show/4808763-the-last-question)
