@@ -1,10 +1,8 @@
-# Books [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+# Books [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
 The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from newest to oldest. 📕/📖 before the books show if the book is free or not.
 
-_Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
-
-#### Contents
+_Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Algorithms](#algorithms)
 - [Architecture](#architecture)
@@ -826,11 +824,11 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 - [📖 You don’t know JS](https://github.com/getify/You-Dont-Know-JS)
   - [📖 Up and going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going)
-  - [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
-  - [📖 This and object prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
-  - [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
-  - [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
-  - [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+  - [📖 Scope and closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/readme.md#you-dont-know-js-scope--closures)
+  - [📖 This and object prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/readme.md#you-dont-know-js-this--object-prototypes)
+  - [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/readme.md#you-dont-know-js-types--grammar)
+  - [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/readme.md#you-dont-know-js-async--performance)
+  - [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/readme.md#you-dont-know-js-es6--beyond)
 - [📖 Exploring js](http://exploringjs.com/)
 - [📖 Builder Book: Build a Full Stack JavaScript Web App from Scratch (2018)](https://builderbook.org/book)
 - [📖 The JavaScript way (2017)](https://leanpub.com/thejsway)
@@ -1147,17 +1145,17 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 ## Other
 
-- [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
-- [Awesome scifi](https://github.com/sindresorhus/awesome-scifi#readme)
-- [Book notes](https://github.com/mgp/book-notes#readme)
+- [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy)
+- [Awesome scifi](https://github.com/sindresorhus/awesome-scifi)
+- [Book notes](https://github.com/mgp/book-notes)
 - [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
-- [Free programming books](https://github.com/EbookFoundation/free-programming-books#readme)
-- [Influential CS books](https://github.com/chhantyal/influential-cs-books#readme)
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
+- [Influential CS books](https://github.com/chhantyal/influential-cs-books)
 - [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
-- [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
+- [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)

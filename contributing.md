@@ -1,8 +1,6 @@
-# Contribution Guidelines
+# Contributing
 
-Thank you for taking the time to contribute! ♥️
-
-Ensure your pull request adheres to following guidelines:
+Thank you for taking the time to contribute! ♥️ Ensure your PR adheres to following guidelines:
 
 - Search included books before adding a new one, as yours may be a duplicate.
 - Only add books you think are great! Feel welcome to remove entries that you think aren't great!
@@ -19,4 +17,4 @@ Ensure your pull request adheres to following guidelines:
 - New categories or improvements to the existing categorization are welcome.
 - You can also add related links and repositories in the end.
 
-We welcome all [your suggestions](../../edit/master/README.md)!
+[All suggestions are welcome](../../edit/master/readme.md).
