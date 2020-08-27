@@ -981,6 +981,9 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 ## Regular Expressions
 
 - [📕 Regular expressions cookbook (2009)](http://www.goodreads.com/book/show/6125777-regular-expressions-cookbook)
+- [📖 Python re(gex)? (2020)](https://learnbyexample.github.io/py_regular_expressions/)
+- [📖 JavaScript RegExp (2020)](https://learnbyexample.github.io/learn_js_regexp/)
+- [📖 Ruby Regexp (2020)](https://learnbyexample.github.io/Ruby_Regexp/)
 
 ## Reinforcement learning
 
