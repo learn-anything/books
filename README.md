@@ -555,6 +555,7 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📕 Grokking Deep Learning (2019)](https://www.goodreads.com/book/show/31565758-grokking-deep-learning?ac=1&from_search=true)
 - [📕 MachineLearningWithTensorFlow2ed (2020)](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - Book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
 - [📕 Machine Learning Bookcamp (2020)](https://www.manning.com/books/machine-learning-bookcamp) - Project-based approach to learning machine learning.
+- [📕 Grokking Artificial Intelligence Algorithms (2020)](https://www.manning.com/books/grokking-artificial-intelligence-algorithms) - Teaches fundamental AI concepts.
 
 ## Management
 
