@@ -517,7 +517,6 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 ## Kubernetes
 
 - [📕 Kubernetes: Up & Running (2016)](https://www.goodreads.com/book/show/26759355-kubernetes)
-- [📕 Getting Started with Kubernetes (2020 early-access)](https://www.manning.com/books/getting-started-with-kubernetes)
 
 ## Leadership
 
@@ -820,7 +819,6 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 - [📖 Introduction to programming in java: an interdisciplinary approach (2008)](http://introcs.cs.princeton.edu/java/home/chapter1.pdf)
 - [📕 Java 8 in action (2014)](http://www.goodreads.com/book/show/20534354-java-8-in-action)
 - [📕 Test-driven Java development (2015)](http://www.goodreads.com/book/show/26333479-test-driven-java-development)
-- [📕 Java SE 11 Programmer I Certification Guide (2020 early-access)](https://www.manning.com/books/java-se-11-programmer-i-certification-guide)
 
 ### JavaScript
 
@@ -1131,7 +1129,6 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 
 - [📖 React in Patterns (2018)](https://krasimir.gitbooks.io/react-in-patterns/content/)
 - [📖 The Road to learn React](https://roadtoreact.com/)
-- [📕 React Hooks in Action](https://www.manning.com/books/react-hooks-in-action)
 
 ### Redux
 
