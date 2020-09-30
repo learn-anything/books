@@ -143,7 +143,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Algorithm design: parallel and sequential](http://www.parallel-algorithms-book.com/)
 - [📕 Algorithms and Data Structures in Action (2019)](https://www.goodreads.com/book/show/47316716-algorithms-and-data-structures-in-action)
 
-## Free Programming Boosks From GoalKicker
+## Free Programming Books From GoalKicker
 
 - [📖 All Premium Quality Programming Books From GoalKicker](https://books.goalkicker.com)
 
