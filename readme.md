@@ -83,6 +83,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Kotlin](#kotlin)
   - [Lisp](#lisp)
   - [OCaml](#ocaml)
   - [Perl](#perl)
@@ -837,6 +838,12 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Effective JavaScript: 68 specific ways to harness the power of JavaScript (2012)](https://www.goodreads.com/book/show/13705402-effective-javascript)
 - [📖 Eloquent JavaScript (2011)](http://eloquentjavascript.net/00_intro.html)
 - [📕 JavaScript: The Good Parts (2008)](https://www.goodreads.com/book/show/2998152-javascript)
+
+### Kotlin
+
+- [📕 The Joy of Kotlin (2019)](https://www.goodreads.com/book/show/41968682-the-joy-of-kotlin)
+- [📕 Head First Kotlin (2019)](https://www.goodreads.com/book/show/40014285-head-first-kotlin)
+- [📕 Kotlin in Action (2017)](https://www.goodreads.com/book/show/29242249-kotlin-in-action)
 
 ### Lisp
 
