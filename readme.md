@@ -83,7 +83,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
-  - [Kotlin](#koltin)
+  - [Kotlin](#kotlin)
   - [Lisp](#lisp)
   - [OCaml](#ocaml)
   - [Perl](#perl)
