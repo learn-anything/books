@@ -841,9 +841,9 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ### Kotlin
 
-- [📕 The Joy of Kotlin (2019)](https://www.goodreads.com/book/show/41968682-the-joy-of-kotlin)
+- [📖 The Joy of Kotlin (2019)](https://livebook.manning.com/book/the-joy-of-kotlin/about-this-book/)
 - [📕 Head First Kotlin (2019)](https://www.goodreads.com/book/show/40014285-head-first-kotlin)
-- [📕 Kotlin in Action (2017)](https://www.goodreads.com/book/show/29242249-kotlin-in-action)
+- [📖 Kotlin in Action (2017)](https://livebook.manning.com/book/kotlin-in-action/about-this-book/)
 
 ### Lisp
 
