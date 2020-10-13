@@ -960,6 +960,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 The art of readable code: simple and practical techniques for writing better code (2011)](https://www.goodreads.com/book/show/8677004-the-art-of-readable-code)
 - [📕 Programming in the large with design patterns (2012)](https://www.goodreads.com/book/show/16418148-programming-in-the-large-with-design-patterns)
 - [📕 Dynamic Programming and Optimal Control (2012)](http://www.athenasc.com/dpbook.html)
+- [📕 The Software Craftsman: Professionalism, Pragmatism, Pride (2014)](https://www.goodreads.com/book/show/23215733-the-software-craftsman)
 - [📖 How These Things Work (2016)](http://reasonablypolymorphic.com/book/preface)
 - [📕 Introduction to the Theory of Complex Systems (2018)](https://www.goodreads.com/book/show/40404857-introduction-to-the-theory-of-complex-systems)
 - [📖 Composing programs](http://www.composingprograms.com/)
