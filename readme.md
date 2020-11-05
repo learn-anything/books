@@ -966,6 +966,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Composing programs](http://www.composingprograms.com/)
 - [📕 Designing APIs with Swagger and OpenAPI (early-access)](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
 - [📕 API Design Patterns](https://www.manning.com/books/api-design-patterns)
+- [📕 Five Lines of Code](https://www.manning.com/books/five-lines-of-code)
 
 ## Psychedelics
 
