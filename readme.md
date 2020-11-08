@@ -240,7 +240,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 High performance browser networking (2013)](https://hpbn.co/)
 - [📖 Openssl cookbook (2015)](https://www.feistyduck.com/library/openssl%2dcookbook/online/)
 - [📖 Beej's guide to network programming (2016)](http://beej.us/guide/bgnet/)
-- [📖 Distributed Systems 3rd edition (2017)](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)
+- [📖 Distributed Systems 3rd edition (2017)](https://www.distributed-systems.net/index.php/books/ds3/)
 - [📖 An introduction to computer networks](http://intronetworks.cs.luc.edu/current/html/)
 
 ## Computer science
