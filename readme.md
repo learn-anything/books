@@ -930,6 +930,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ### TypeScript
 
+- [📕 Effective TypeScript: 62 Specific Ways to Improve Your TypeScript (2019)](https://www.goodreads.com/book/show/48570456)
+  - [Notes](https://github.com/opauloh/developer-knowledge-base/tree/master/Typescript/EffectiveTypescriptTips)
 - [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
 
 ### Agda
