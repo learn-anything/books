@@ -227,6 +227,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Computer graphics
 
 - [📖 The book of shaders (2017)](http://thebookofshaders.com)
+- [📖 Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html)
 
 ## Computer networking
 
