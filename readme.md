@@ -834,7 +834,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
   - [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/readme.md#you-dont-know-js-async--performance)
   - [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/readme.md#you-dont-know-js-es6--beyond)
 - [📖 Exploring js](http://exploringjs.com/)
-- [📖 Builder Book: Build a Full Stack JavaScript Web App from Scratch (2018)](https://builderbook.org/book)
+- [📖 Builder Book: Build a Full Stack JavaScript Web App from Scratch (2018)](https://builderbook.org)
 - [📖 The JavaScript way (2017)](https://leanpub.com/thejsway)
 - [📖 Learning JavaScript design patterns (2015)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [📕 Secrets of the JavaScript Ninja (2013)](https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
@@ -936,6 +936,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Effective TypeScript: 62 Specific Ways to Improve Your TypeScript (2019)](https://www.goodreads.com/book/show/48570456)
   - [Notes](https://github.com/danvk/effective-typescript)
 - [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
+- [📖 SaaS Boilerplate Book: Build a Production-Ready SaaS Web App from Scratch (2020)](https://builderbook.org/book)
+
 
 ### Agda
 
