@@ -136,7 +136,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Algorithms
 
-- [📖 Algorithm design manual (1987)](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf)
+- [📖 Algorithm design manual (1987)](https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
 - [📕 Introduction to algorithms (1990)](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)
 - [📕 Algorithm design (2005)](https://www.goodreads.com/book/show/145055.Algorithm_Design)
 - [📖 Algorithms by Dasgupta (2006)](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
