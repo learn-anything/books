@@ -1060,6 +1060,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 The tangled web (2011)](https://www.goodreads.com/book/show/11553604-the-tangled-web) - Detailed look at the foundations of web protocols followed by a thorough examination of their weakness.
 - [📖 The web application hackers handbook (2014)](https://leaksource.files.wordpress.com/2014/08/the-web-application-hackers-handbook.pdf)
 - [📕 The browser hacker's handbook (2014)](https://www.goodreads.com/book/show/17891588-the-browser-hacker-s-handbook) - A detailed look into many web security topics.
+- [📕 Security Engineering (2020)](https://www.goodreads.com/book/show/3268675-security-engineering) - A look into many security topics.
+
 
 ## Sleep
 
