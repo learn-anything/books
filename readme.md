@@ -371,6 +371,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Fahrenheit 451 (1953)](https://www.goodreads.com/book/show/17470674-fahrenheit-451)
 - [📕 The doors of perception (1954)](https://www.goodreads.com/book/show/3188964-the-doors-of-perception) - Details Aldous Huxley’s own experiences when taking mescaline.
 - [📕 Lolita (1955)](https://www.goodreads.com/book/show/7604.Lolita)
+- [📕 Atlas Shrugged (1957)](https://www.goodreads.com/book/show/662.Atlas_Shrugged?ac=1&from_search=true&qid=SF9r0WrtNA&rank=1)
 - [📕 Doctor zhivago (1957)](https://www.goodreads.com/book/show/130440.Doctor_Zhivago)
 - [📕 Flowers for algernon (1959)](https://my.mindnode.com/HnYCLfb3q3xZCVswbafBfoMeDKngVCT1jaa8vYyh)
 - [📕 Catch-22 (1961)](https://www.goodreads.com/book/show/168668.Catch_22)
@@ -651,6 +652,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Spaciousness: The Radical Dzogchen of the Vajra-Heart: Longchenpa's Treasury of the Dharmadhatu (2014)](https://www.goodreads.com/book/show/22783031-spaciousness)
 - [📕 Waking up: a guide to spirituality without religion (2014)](https://www.goodreads.com/book/show/18774981-waking-up)
 - [📕 Deep Work: Rules for Focused Success in a Distracted World (2016)](https://www.goodreads.com/book/show/25744928)
+- [📕 The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life(2016)](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck)
 - [📕 The Daily Stoic: 366 Meditations for Clarity, Effectiveness, and Serenity (2016)](https://www.goodreads.com/book/show/29093292-the-daily-stoic)
 - [📖 Concentration and meditation](http://krishnamurti.abundanthope.org/index_htm_files/Concentration-and-Meditation.pdf)
 
@@ -709,7 +711,9 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Mac OS X and IOS Internals: To the Apple's Core, Volume 1 User Mode (2015)](https://www.goodreads.com/book/show/24730644-mac-os-x-and-ios-internals)
 
 ## Philosophy
-
+- [📖 Tao of Seneca Volume 1 (1925)](https://tim.blog/wp-content/uploads/2017/07/taoofseneca_vol1-1.pdf)
+- [📖 Tao of Seneca Volume 2 (1925)](https://tim.blog/wp-content/uploads/2017/07/taoofseneca_vol2.pdf)
+- [📖 Tao of Seneca Volume 3 (1925)](https://tim.blog/wp-content/uploads/2017/07/taoofseneca_vol3.pdf)
 - [📕 Godel, escher, bach (1979)](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) - Explores fundamental concepts of mathematics, symmetry and intelligence and how they interlink.
   - [Lecture notes](https://ocw.mit.edu/high-school/humanities-and-social-sciences/godel-escher-bach/lecture-notes/)
   - [Course on the book](https://www.youtube.com/playlist?list=PL068ES-0ca9CSIp5OPGI5RXB3k5XgYRxF)
@@ -1056,6 +1060,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 The tangled web (2011)](https://www.goodreads.com/book/show/11553604-the-tangled-web) - Detailed look at the foundations of web protocols followed by a thorough examination of their weakness.
 - [📖 The web application hackers handbook (2014)](https://leaksource.files.wordpress.com/2014/08/the-web-application-hackers-handbook.pdf)
 - [📕 The browser hacker's handbook (2014)](https://www.goodreads.com/book/show/17891588-the-browser-hacker-s-handbook) - A detailed look into many web security topics.
+- [📕 Security Engineering (2020)](https://www.goodreads.com/book/show/3268675-security-engineering) - A look into many security topics.
+
 
 ## Sleep
 
