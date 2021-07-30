@@ -978,6 +978,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Composing programs](http://www.composingprograms.com/)
 - [📕 Designing APIs with Swagger and OpenAPI (early-access)](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
 - [📕 API Design Patterns](https://www.manning.com/books/api-design-patterns)
+- [📕 Software Mistakes and Tradeoffs: How to make good programming decisions](https://www.manning.com/books/software-mistakes-and-tradeoffs)
 
 ## Psychedelics
 
