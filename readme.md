@@ -975,6 +975,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Designing APIs with Swagger and OpenAPI (early-access)](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
 - [📕 API Design Patterns](https://www.manning.com/books/api-design-patterns)
 - [📕 Software Mistakes and Tradeoffs: How to make good programming decisions](https://www.manning.com/books/software-mistakes-and-tradeoffs)
+- [📕 Street Coder (2021)](https://www.goodreads.com/book/show/56986386-street-coder) - Programmer's survival guide, full of tips, tricks, and hacks that will make you a more efficient programmer.
 
 ## Psychedelics
 
