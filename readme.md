@@ -976,6 +976,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 API Design Patterns](https://www.manning.com/books/api-design-patterns)
 - [📕 Software Mistakes and Tradeoffs: How to make good programming decisions](https://www.manning.com/books/software-mistakes-and-tradeoffs)
 - [📕 Street Coder (2021)](https://www.goodreads.com/book/show/56986386-street-coder) - Programmer's survival guide, full of tips, tricks, and hacks that will make you a more efficient programmer.
+- [📕 Good Code, Bad Code (2021)](https://www.goodreads.com/book/show/56771599-good-code-bad-code?ac=1&from_search=true&qid=lOLevP7XTs&rank=1) - Book about writing code that is robust, reliable, and easy for team members to understand and adapt..
 
 ## Psychedelics
 
