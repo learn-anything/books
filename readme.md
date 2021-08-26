@@ -294,6 +294,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Designing Data-Intensive Applications (2014)](http://shop.oreilly.com/product/0636920032175.do)
 - [📕 Fighting Churn With Data (2020)](https://www.manning.com/books/fighting-churn-with-data)
 - [📕 Data Science Bookcamp (2021)](https://www.manning.com/books/data-science-bookcamp)
+- [📕 Effective Data Science Infrastructure (2021)](https://www.manning.com/books/effective-data-science-infrastructure)
 
 ## Databases
 
