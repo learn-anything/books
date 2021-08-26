@@ -143,6 +143,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Algorithms etc by Jeff Erickson (2015)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [📖 Algorithm design: parallel and sequential](http://www.parallel-algorithms-book.com/)
 - [📕 Algorithms and Data Structures in Action (2019)](https://www.goodreads.com/book/show/47316716-algorithms-and-data-structures-in-action)
+- [📕 Algorithms and Data Structures for Massive Datasets (2021)](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets)
 
 ## Architecture
 
@@ -292,6 +293,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [📕 Designing Data-Intensive Applications (2014)](http://shop.oreilly.com/product/0636920032175.do)
 - [📕 Fighting Churn With Data (2020)](https://www.manning.com/books/fighting-churn-with-data)
+- [📕 Data Science Bookcamp (2021)](https://www.manning.com/books/data-science-bookcamp)
+- [📕 Effective Data Science Infrastructure (2021)](https://www.manning.com/books/effective-data-science-infrastructure)
 
 ## Databases
 
@@ -979,6 +982,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Designing APIs with Swagger and OpenAPI (early-access)](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
 - [📕 API Design Patterns](https://www.manning.com/books/api-design-patterns)
 - [📕 Software Mistakes and Tradeoffs: How to make good programming decisions](https://www.manning.com/books/software-mistakes-and-tradeoffs)
+- [📕 Street Coder (2021)](https://www.goodreads.com/book/show/56986386-street-coder) - Programmer's survival guide, full of tips, tricks, and hacks that will make you a more efficient programmer.
+- [📕 Good Code, Bad Code (2021)](https://www.goodreads.com/book/show/56771599-good-code-bad-code?ac=1&from_search=true&qid=lOLevP7XTs&rank=1) - Book about writing code that is robust, reliable, and easy for team members to understand and adapt..
 
 ## Psychedelics
 
