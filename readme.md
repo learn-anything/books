@@ -521,6 +521,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [📕 Kubernetes: Up & Running (2016)](https://www.goodreads.com/book/show/26759355-kubernetes)
 - [📕 Getting Started with Kubernetes (2020 early-access)](https://www.manning.com/books/getting-started-with-kubernetes)
+- [📕 Securing Kubernetes Secrets (2021 early-access)](https://www.manning.com/books/securing-kubernetes-secrets)
 
 ## Leadership
 
