@@ -523,6 +523,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Getting Started with Kubernetes (2020 early-access)](https://www.manning.com/books/getting-started-with-kubernetes)
 - [📕 Securing Kubernetes Secrets (2021 early-access)](https://www.manning.com/books/securing-kubernetes-secrets)
 - [📕 Kubeflow in Action (2021 early-access)](https://www.manning.com/books/kubeflow-in-action)
+- [📕 Kubernetes on Windows (2021 early-access)](https://www.manning.com/books/kubernetes-on-windows)
 
 ## Leadership
 
