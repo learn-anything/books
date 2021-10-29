@@ -142,7 +142,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Algorithms by Dasgupta (2006)](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
 - [📖 Algorithms etc by Jeff Erickson (2015)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [📖 Algorithm design: parallel and sequential](http://www.parallel-algorithms-book.com/)
-- [📕 Algorithms and Data Structures in Action (2019)](https://www.goodreads.com/book/show/47316716-algorithms-and-data-structures-in-action)
+- [📕 Advanced Algorithms and Data Structures in Action (2019)](https://www.goodreads.com/book/show/47316716-algorithms-and-data-structures-in-action)
 - [📕 Algorithms and Data Structures for Massive Datasets (2021)](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets)
 
 ## Architecture
@@ -986,7 +986,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 API Design Patterns](https://www.manning.com/books/api-design-patterns)
 - [📕 Software Mistakes and Tradeoffs: How to make good programming decisions](https://www.manning.com/books/software-mistakes-and-tradeoffs)
 - [📕 Street Coder (2021)](https://www.goodreads.com/book/show/56986386-street-coder) - Programmer's survival guide, full of tips, tricks, and hacks that will make you a more efficient programmer.
-- [📕 Good Code, Bad Code (2021)](https://www.goodreads.com/book/show/56771599-good-code-bad-code?ac=1&from_search=true&qid=lOLevP7XTs&rank=1) - Book about writing code that is robust, reliable, and easy for team members to understand and adapt..
+- [📕 Good Code, Bad Code (2021)](https://www.goodreads.com/book/show/56771599-good-code-bad-code?ac=1&from_search=true&qid=lOLevP7XTs&rank=1) - Book about writing code that is robust, reliable, and easy for team members to understand and adapt.
+- [📕 Software Mistakes and tradeoff: How to make good programming decision (2021)](https://www.manning.com/books/software-mistakes-and-tradeoffs) - Optimize the decisions that define your code by exploring the common mistakes and intentional tradeoffs made by expert developers.
 
 ## Psychedelics
 
