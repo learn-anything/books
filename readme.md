@@ -524,6 +524,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Securing Kubernetes Secrets (2021 early-access)](https://www.manning.com/books/securing-kubernetes-secrets)
 - [📕 Kubeflow in Action (2021 early-access)](https://www.manning.com/books/kubeflow-in-action)
 - [📕 Kubernetes on Windows (2021 early-access)](https://www.manning.com/books/kubernetes-on-windows)
+- [📕 Learn Kubernetes in a Month of Lunches (2021 early-access)](https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches)
 
 ## Leadership
 
