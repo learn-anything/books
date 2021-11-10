@@ -995,7 +995,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Street Coder (2021)](https://www.goodreads.com/book/show/56986386-street-coder) - Programmer's survival guide, full of tips, tricks, and hacks that will make you a more efficient programmer.
 - [📕 Good Code, Bad Code (2021)](https://www.goodreads.com/book/show/56771599-good-code-bad-code?ac=1&from_search=true&qid=lOLevP7XTs&rank=1) - Book about writing code that is robust, reliable, and easy for team members to understand and adapt.
 - [📕 Software Mistakes and tradeoff: How to make good programming decision (2021)](https://www.manning.com/books/software-mistakes-and-tradeoffs) - Optimize the decisions that define your code by exploring the common mistakes and intentional tradeoffs made by expert developers.
-- [📕 Parallel and High_performance Computing (2021)](https://www.manning.com/books/parallel-and-high-performance-computing) - A book that offers techniques guaranteed to boost your code’s effectiveness.
+- [📕 Parallel and High-Performance Computing (2021)](https://www.manning.com/books/parallel-and-high-performance-computing) - A book that offers techniques guaranteed to boost your code’s effectiveness.
+- [📕 The Art of Unit Testing, Third Edition (2021)](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
 
 ## Psychedelics
 
