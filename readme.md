@@ -295,6 +295,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Fighting Churn With Data (2020)](https://www.manning.com/books/fighting-churn-with-data)
 - [📕 Data Science Bookcamp (2021)](https://www.manning.com/books/data-science-bookcamp)
 - [📕 Effective Data Science Infrastructure (2021)](https://www.manning.com/books/effective-data-science-infrastructure)
+- [📕 Graph Algorithms for Data Science (2021)](https://www.manning.com/books/graph-algorithms-for-data-science)
 
 ## Databases
 
