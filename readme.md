@@ -284,6 +284,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Graduate course in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
 - [📖 Practical Cryptography for Developers (2018)](https://cryptobook.nakov.com/?q=)
 - [📕 Real World Cryptography](https://www.manning.com/books/real-world-cryptography)
+- [📕 Secret Key Cryptography](https://www.manning.com/books/secret-key-cryptography)
 
 ## Cryptocurrencies
 
