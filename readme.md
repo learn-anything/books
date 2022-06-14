@@ -284,6 +284,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Graduate course in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
 - [📖 Practical Cryptography for Developers (2018)](https://cryptobook.nakov.com/?q=)
 - [📕 Real World Cryptography](https://www.manning.com/books/real-world-cryptography)
+- [📕 Secret Key Cryptography](https://www.manning.com/books/secret-key-cryptography)
 
 ## Cryptocurrencies
 
@@ -295,6 +296,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Fighting Churn With Data (2020)](https://www.manning.com/books/fighting-churn-with-data)
 - [📕 Data Science Bookcamp (2021)](https://www.manning.com/books/data-science-bookcamp)
 - [📕 Effective Data Science Infrastructure (2021)](https://www.manning.com/books/effective-data-science-infrastructure)
+- [📕 Graph Algorithms for Data Science (2021)](https://www.manning.com/books/graph-algorithms-for-data-science)
 
 ## Databases
 
@@ -525,6 +527,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Kubeflow in Action (2021 early-access)](https://www.manning.com/books/kubeflow-in-action)
 - [📕 Kubernetes on Windows (2021 early-access)](https://www.manning.com/books/kubernetes-on-windows)
 - [📕 Learn Kubernetes in a Month of Lunches (2021 early-access)](https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches)
+- [📕 Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)
+- [📕 Acing the Certified Kubernetes Administrator Exam]([https://www.manning.com/books/kubernetes-in-action-second-edition](https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam))
 
 ## Leadership
 
@@ -983,12 +987,20 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 How These Things Work (2016)](http://reasonablypolymorphic.com/book/preface)
 - [📕 Introduction to the Theory of Complex Systems (2018)](https://www.goodreads.com/book/show/40404857-introduction-to-the-theory-of-complex-systems)
 - [📖 Composing programs](http://www.composingprograms.com/)
+- [📕 Designing APIs with Swagger and OpenAPI (early-access)](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) - A hands-on primer for describing, planning and designing web APIs.
+- [📕 API Design Patterns](https://www.manning.com/books/api-design-patterns) - A collection of best practices and design standards for web and internal APIs.
+- [📕 Street Coder (2021)](https://www.goodreads.com/book/show/56986386-street-coder) - Programmer's survival guide, full of tips, tricks, and hacks that will make you a more efficient programmer.
+- [📕 Good Code, Bad Code (2021)](https://www.goodreads.com/book/show/56771599-good-code-bad-code?ac=1&from_search=true&qid=lOLevP7XTs&rank=1) - Book about writing code that is robust, reliable, and easy for team members to understand and adapt.
+- [📕 Software Mistakes and tradeoff: How to make good programming decision (2021)](https://www.manning.com/books/software-mistakes-and-tradeoffs) - Optimize the decisions that define your code by exploring the common mistakes and intentional tradeoffs made by expert developers.
+- [📕 Parallel and High-Performance Computing (2021)](https://www.manning.com/books/parallel-and-high-performance-computing) - A book that offers techniques guaranteed to boost your code’s effectiveness.
+- [📕 The Programmer's Brain (2021)](https://www.manning.com/books/the-programmers-brain) - A book that teaches the concrete techniques rooted in cognitive science that will improve the way you learn and think about code.
 - [📕 Designing APIs with Swagger and OpenAPI (early-access)](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
 - [📕 API Design Patterns](https://www.manning.com/books/api-design-patterns)
 - [📕 Street Coder (2021)](https://www.goodreads.com/book/show/56986386-street-coder) - Programmer's survival guide, full of tips, tricks, and hacks that will make you a more efficient programmer.
 - [📕 Good Code, Bad Code (2021)](https://www.goodreads.com/book/show/56771599-good-code-bad-code?ac=1&from_search=true&qid=lOLevP7XTs&rank=1) - Book about writing code that is robust, reliable, and easy for team members to understand and adapt.
 - [📕 Software Mistakes and tradeoff: How to make good programming decision (2021)](https://www.manning.com/books/software-mistakes-and-tradeoffs) - Optimize the decisions that define your code by exploring the common mistakes and intentional tradeoffs made by expert developers.
-- [📕 Parallel and High_performance Computing (2021)](https://www.manning.com/books/parallel-and-high-performance-computing) - A book that offers techniques guaranteed to boost your code’s effectiveness.
+- [📕 Parallel and High-Performance Computing (2021)](https://www.manning.com/books/parallel-and-high-performance-computing) - A book that offers techniques guaranteed to boost your code’s effectiveness.
+- [📕 The Art of Unit Testing, Third Edition (2021)](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
 
 ## Psychedelics
 
