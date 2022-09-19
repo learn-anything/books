@@ -857,6 +857,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Effective JavaScript: 68 specific ways to harness the power of JavaScript (2012)](https://www.goodreads.com/book/show/13705402-effective-javascript)
 - [📖 Eloquent JavaScript (2011)](http://eloquentjavascript.net/00_intro.html)
 - [📕 JavaScript: The Good Parts (2008)](https://www.goodreads.com/book/show/2998152-javascript)
+- [📕 Tiny Node Projects (2022)](https://www.manning.com/books/tiny-node-projects)
 
 ### Kotlin
 
