@@ -1118,6 +1118,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Statistical rethinking: a bayesian course with examples in R and Stan (2015)](http://xcelab.net/rm/statistical-rethinking/)
   - [Lectures](https://www.youtube.com/playlist?list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z)
 - [📖 Computational and inferential thinking (2017)](https://www.inferentialthinking.com/)
+- [📕 Statistics Playbook (early Access - 2022)](https://www.manning.com/books/statistics-playbook)
 
 ## Strategy
 
