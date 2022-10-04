@@ -1002,6 +1002,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Software Mistakes and tradeoff: How to make good programming decision (2021)](https://www.manning.com/books/software-mistakes-and-tradeoffs) - Optimize the decisions that define your code by exploring the common mistakes and intentional tradeoffs made by expert developers.
 - [📕 Parallel and High-Performance Computing (2021)](https://www.manning.com/books/parallel-and-high-performance-computing) - A book that offers techniques guaranteed to boost your code’s effectiveness.
 - [📕 The Art of Unit Testing, Third Edition (2021)](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
+- [📕 The Creative Programmer (2022)](https://www.manning.com/books/the-creative-programmer) - Book about creative problem solving in programming.
 
 ## Psychedelics
 
