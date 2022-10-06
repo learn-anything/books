@@ -809,6 +809,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Network programming with Go (2012)](https://jan.newmarch.name/go/)
 - [📖 The little go book (2014)](http://openmymind.net/The-Little-Go-Book/)
 - [📖 Go in action (2015)](https://github.com/iMarcoGovea/books/blob/master/golang/go-in-action.pdf)
+- [📖 Go in action, Second Edition (2022)](https://www.manning.com/books/go-in-action-second-edition)
 - [📕 The go programming language (2015)](https://www.goodreads.com/book/show/25080953-the-go-programming-language)
   - [Notes](https://github.com/namit/The-Go-Programming-Language)
 - [📖 Go 101 (2018)](https://go101.org/article/101.html)
