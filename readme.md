@@ -528,7 +528,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Kubernetes on Windows (2021 early-access)](https://www.manning.com/books/kubernetes-on-windows)
 - [📕 Learn Kubernetes in a Month of Lunches (2021 early-access)](https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches)
 - [📕 Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)
-- [📕 Acing the Certified Kubernetes Administrator Exam]([https://www.manning.com/books/kubernetes-in-action-second-edition](https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam))
+- [📕 Acing the Certified Kubernetes Administrator Exam](https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam)
 
 ## Leadership
 
@@ -809,6 +809,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Network programming with Go (2012)](https://jan.newmarch.name/go/)
 - [📖 The little go book (2014)](http://openmymind.net/The-Little-Go-Book/)
 - [📖 Go in action (2015)](https://github.com/iMarcoGovea/books/blob/master/golang/go-in-action.pdf)
+- [📖 Go in action, Second Edition (2022)](https://www.manning.com/books/go-in-action-second-edition)
 - [📕 The go programming language (2015)](https://www.goodreads.com/book/show/25080953-the-go-programming-language)
   - [Notes](https://github.com/namit/The-Go-Programming-Language)
 - [📖 Go 101 (2018)](https://go101.org/article/101.html)
@@ -858,6 +859,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Effective JavaScript: 68 specific ways to harness the power of JavaScript (2012)](https://www.goodreads.com/book/show/13705402-effective-javascript)
 - [📖 Eloquent JavaScript (2011)](http://eloquentjavascript.net/00_intro.html)
 - [📕 JavaScript: The Good Parts (2008)](https://www.goodreads.com/book/show/2998152-javascript)
+- [📕 Tiny Node Projects (2022)](https://www.manning.com/books/tiny-node-projects)
 
 ### Kotlin
 
@@ -907,6 +909,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Full Speed Python (2018)](https://github.com/joaoventura/full-speed-python)
 - [📖 Automate the boring stuff with python](https://automatetheboringstuff.com/)
 - [📕 Practices of the Python Pro (2020)](https://www.goodreads.com/book/show/45361469-practices-of-the-python-pro)
+- [📕 Let's Talk Python (2022)](https://github.com/stjepanjurekovic/books/edit/master/readme.md) - children friendly
 
 ### R
 
@@ -1002,6 +1005,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Software Mistakes and tradeoff: How to make good programming decision (2021)](https://www.manning.com/books/software-mistakes-and-tradeoffs) - Optimize the decisions that define your code by exploring the common mistakes and intentional tradeoffs made by expert developers.
 - [📕 Parallel and High-Performance Computing (2021)](https://www.manning.com/books/parallel-and-high-performance-computing) - A book that offers techniques guaranteed to boost your code’s effectiveness.
 - [📕 The Art of Unit Testing, Third Edition (2021)](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
+- [📕 The Creative Programmer (2022)](https://www.manning.com/books/the-creative-programmer) - Book about creative problem solving in programming.
 
 ## Psychedelics
 
@@ -1118,6 +1122,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Statistical rethinking: a bayesian course with examples in R and Stan (2015)](http://xcelab.net/rm/statistical-rethinking/)
   - [Lectures](https://www.youtube.com/playlist?list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z)
 - [📖 Computational and inferential thinking (2017)](https://www.inferentialthinking.com/)
+- [📕 Statistics Playbook (early Access - 2022)](https://www.manning.com/books/statistics-playbook)
 
 ## Strategy
 
