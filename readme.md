@@ -840,6 +840,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Java SE 11 Programmer I Certification Guide (2020 early-access)](https://www.manning.com/books/java-se-11-programmer-i-certification-guide)
 - [📕 Java by Comparison (2018)](https://www.goodreads.com/book/show/39339133-java-by-comparison)
   - [Code examples](https://github.com/javabycomparison/samplecode)
+- [📕 Java: The Complete Reference (2011)](https://www.goodreads.com/book/show/12545373-java)
 
 ### JavaScript
 
