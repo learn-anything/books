@@ -908,6 +908,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Full Speed Python (2018)](https://github.com/joaoventura/full-speed-python)
 - [📖 Automate the boring stuff with python](https://automatetheboringstuff.com/)
 - [📕 Practices of the Python Pro (2020)](https://www.goodreads.com/book/show/45361469-practices-of-the-python-pro)
+- [📕 Let's Talk Python (2022)](https://github.com/stjepanjurekovic/books/edit/master/readme.md) - children friendly
 
 ### R
 
