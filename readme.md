@@ -301,6 +301,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Databases
 
 - [📕 The data warehouse toolkit (1996)](https://www.goodreads.com/book/show/748203.The_Data_Warehouse_Toolkit)
+- [📕 Learn SQL in a Month of Lunches (2022)](https://www.manning.com/books/learn-sql-in-a-month-of-lunches)
 
 ## Design
 
