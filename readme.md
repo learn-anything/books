@@ -568,6 +568,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 MachineLearningWithTensorFlow2ed (2020)](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - Book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
 - [📕 Machine Learning Bookcamp (2020)](https://www.manning.com/books/machine-learning-bookcamp) - Project-based approach to learning machine learning.
 - [📕 Trust in Machine Learning (2021)](https://www.manning.com/books/trust-in-machine-learning) - Book about how to build machine learning systems that are explainable, robust, transparent, and optimized for fairness.
+- [📖 Distributed Machine Learning Patterns (2023)](https://github.com/terrytangyuan/distributed-ml-patterns) - Distributed machine learning system patterns.
 
 ## Management
 
