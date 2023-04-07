@@ -285,6 +285,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Practical Cryptography for Developers (2018)](https://cryptobook.nakov.com/?q=)
 - [📕 Real World Cryptography](https://www.manning.com/books/real-world-cryptography)
 - [📕 Secret Key Cryptography](https://www.manning.com/books/secret-key-cryptography)
+- [📕 Implementing and Exploiting Cryptography](https://www.manning.com/books/implementing-and-exploiting-cryptography)
 
 ## Cryptocurrencies
 
