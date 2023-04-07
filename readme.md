@@ -298,6 +298,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Data Science Bookcamp (2021)](https://www.manning.com/books/data-science-bookcamp)
 - [📕 Effective Data Science Infrastructure (2021)](https://www.manning.com/books/effective-data-science-infrastructure)
 - [📕 Graph Algorithms for Data Science (2021)](https://www.manning.com/books/graph-algorithms-for-data-science)
+- [📕 Software Engineering for Data Scientists (2023)](https://www.manning.com/books/software-engineering-for-data-scientists)
 
 ## Databases
 
