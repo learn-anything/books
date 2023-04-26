@@ -285,6 +285,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Practical Cryptography for Developers (2018)](https://cryptobook.nakov.com/?q=)
 - [📕 Real World Cryptography](https://www.manning.com/books/real-world-cryptography)
 - [📕 Secret Key Cryptography](https://www.manning.com/books/secret-key-cryptography)
+- [📕 Implementing and Exploiting Cryptography](https://www.manning.com/books/implementing-and-exploiting-cryptography)
 
 ## Cryptocurrencies
 
@@ -297,6 +298,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Data Science Bookcamp (2021)](https://www.manning.com/books/data-science-bookcamp)
 - [📕 Effective Data Science Infrastructure (2021)](https://www.manning.com/books/effective-data-science-infrastructure)
 - [📕 Graph Algorithms for Data Science (2021)](https://www.manning.com/books/graph-algorithms-for-data-science)
+- [📕 Software Engineering for Data Scientists (2023)](https://www.manning.com/books/software-engineering-for-data-scientists)
 
 ## Databases
 
@@ -819,6 +821,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Build web application with golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/preface.md)
   - [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions)
 - [📖 Learn Concurrent Programming with Go (2022)](https://www.manning.com/books/learn-concurrent-programming-with-go)
+- [📖 Learn Go with Pocket-Sized Projects (2023)](https://www.manning.com/books/learn-go-with-pocket-sized-projects)
 
 ### Haskell
 
@@ -912,7 +915,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Full Speed Python (2018)](https://github.com/joaoventura/full-speed-python)
 - [📖 Automate the boring stuff with python](https://automatetheboringstuff.com/)
 - [📕 Practices of the Python Pro (2020)](https://www.goodreads.com/book/show/45361469-practices-of-the-python-pro)
-- [📕 Let's Talk Python (2022)](https://github.com/stjepanjurekovic/books/edit/master/readme.md) - children friendly
+- [📕 A Pythonic Adventure (2022)](https://github.com/stjepanjurekovic/books/edit/master/readme.md) - children friendly
+- [📕 Twisted Python Projects (2023)](https://www.manning.com/books/twisted-python-projects) - children friendly
 
 ### R
 
