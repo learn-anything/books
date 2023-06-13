@@ -964,7 +964,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
   - [Notes](https://github.com/danvk/effective-typescript)
 - [📖 Typescript deep dive](https://basarat.gitbooks.io/typescript/)
 - [📖 SaaS Boilerplate Book: Build a Production-Ready SaaS Web App from Scratch (2020)](https://builderbook.org/book)
-
+- [📖 The Concise TypeScript Book](https://github.com/gibbok/typescript-book/)
 
 ### Agda
 
