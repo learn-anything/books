@@ -857,6 +857,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
   - [📖 Types and grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/readme.md#you-dont-know-js-types--grammar)
   - [📖 Async and performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/readme.md#you-dont-know-js-async--performance)
   - [📖 ES6 and beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/readme.md#you-dont-know-js-es6--beyond)
+- [📖 Learn JavaScript : Beginners Edition (2023)](https://github.com/sumn2u/learn-javascript)
 - [📖 Exploring js](http://exploringjs.com/)
 - [📖 Builder Book: Build a Full Stack JavaScript Web App from Scratch (2018)](https://builderbook.org)
 - [📖 The JavaScript way (2017)](https://leanpub.com/thejsway)
