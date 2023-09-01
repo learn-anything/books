@@ -145,6 +145,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Advanced Algorithms and Data Structures in Action (2019)](https://www.goodreads.com/book/show/47316716-algorithms-and-data-structures-in-action)
 - [📕 Algorithms and Data Structures for Massive Datasets (2021)](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets)
 
+## Free Programming Books From GoalKicker
+
+- [📖 All Premium Quality Programming Books From GoalKicker](https://books.goalkicker.com)
+
 ## Architecture
 
 - [📕 The Underdome Guide to Energy Reform (2015)](https://www.amazon.com/Underdome-Guide-Energy-Reform/dp/1616893974)
