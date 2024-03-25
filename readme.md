@@ -1006,7 +1006,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Parallel and High-Performance Computing (2021)](https://www.manning.com/books/parallel-and-high-performance-computing) - A book that offers techniques guaranteed to boost your code’s effectiveness.
 - [📕 The Programmer's Brain (2021)](https://www.manning.com/books/the-programmers-brain) - A book that teaches the concrete techniques rooted in cognitive science that will improve the way you learn and think about code.
 - [📕 Designing APIs with Swagger and OpenAPI (early-access)](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
-- [📕 API Design Patterns](https://www.manning.com/books/api-design-patterns)
 - [📕 Street Coder (2021)](https://www.goodreads.com/book/show/56986386-street-coder) - Programmer's survival guide, full of tips, tricks, and hacks that will make you a more efficient programmer.
 - [📕 Good Code, Bad Code (2021)](https://www.goodreads.com/book/show/56771599-good-code-bad-code?ac=1&from_search=true&qid=lOLevP7XTs&rank=1) - Book about writing code that is robust, reliable, and easy for team members to understand and adapt.
 - [📕 Software Mistakes and tradeoff: How to make good programming decision (2021)](https://www.manning.com/books/software-mistakes-and-tradeoffs) - Optimize the decisions that define your code by exploring the common mistakes and intentional tradeoffs made by expert developers.
