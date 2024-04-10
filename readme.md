@@ -413,7 +413,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 The road (2006)](https://www.goodreads.com/book/show/6288.The_Road)
 - [📖 The metamorphosis of prime intellect (2007)](http://localroger.com/prime-intellect/mopiidx.html)
 - [📕 The passage (2010)](https://www.goodreads.com/series/53226-the-passage)
-- [📖 Harry potter and the methods of rationality (2015)](http://www.hpmor.com/wordpress/wp-content/uploads/2012/03/Harry-Potter-and-the-Methods-of-Rationality.pdf)
+- [📖 Harry potter and the methods of rationality (2015)](https://hpmor.com/)
 - [📖 Unsong (2017)](http://unsongbook.com/)
 
 ### Adventure
