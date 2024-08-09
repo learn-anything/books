@@ -57,6 +57,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Management](#management-)
 - [Math](#math)
 - [Memoirs](#memoirs)
+- [Mental health](#mental-health)
 - [Mindset](#mindset)
 - [Minimalism](#minimalism)
 - [Music Production](#music-production)
@@ -629,6 +630,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 The world of yesterday (1942)](https://www.goodreads.com/book/show/629429.The_World_of_Yesterday)
 - [📕 On writing (2000)](https://www.goodreads.com/book/show/10569.On_Writing)
 - [📕 A thousand tiny failures: memoirs of a pickup artist (2014)](https://www.goodreads.com/book/show/18711276-a-thousand-tiny-failures)
+
+## Mental health
+
+- [📕 Trauma and Madness in Mental Health Services (2018)](https://www.goodreads.com/book/show/39878261-trauma-and-madness-in-mental-health-services)
 
 ## Mindset
 
