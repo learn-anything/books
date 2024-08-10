@@ -875,6 +875,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ### Kotlin
 
+- [📖 Elements of Kotlin (2021)](https://commonsware.com/Kotlin/pages/index)
 - [📖 The Joy of Kotlin (2019)](https://livebook.manning.com/book/the-joy-of-kotlin/about-this-book/)
 - [📕 Head First Kotlin (2019)](https://www.goodreads.com/book/show/40014285-head-first-kotlin)
 - [📖 Kotlin in Action (2017)](https://livebook.manning.com/book/kotlin-in-action/about-this-book/)
@@ -1031,6 +1032,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Psychology
 
+- [📖 Fundamentals of Psychological Disorders](https://opentext.wsu.edu/abnormal-psych/)
 - [📕 Thinking, Fast and Slow (2011)](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [📕 On intelligence (2004)](https://www.goodreads.com/book/show/27539.On_Intelligence)
 - [📕 Influence: the psychology of persuasion (1984)](https://www.goodreads.com/book/show/28815.Influence)
